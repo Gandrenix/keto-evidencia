@@ -1,0 +1,159 @@
+{
+  "pmids": ["36064937", "38006799", "37513574", "35641199", "33257645"],
+  "model": "claude-sonnet-5-5 (sesión de desarrollo, asistido)",
+  "synthesis": {
+    "stance": "mixed",
+    "stanceRationale": "Las revisiones con grupo comparador no muestran de forma consistente una ventaja de la dieta cetogénica sobre otras estrategias para bajar la HbA1c: algunos análisis encuentran descensos y otros no encuentran diferencia, con mejoras de triglicéridos y HDL pero también aumentos de LDL en algún ensayo.",
+    "findings": [
+      {
+        "statement": "Un meta-análisis de ECA de larga duración en adultos con prediabetes o diabetes tipo dos incluyó 606 participantes; a 12 meses, cuatro estudios mostraron una diferencia de HbA1c entre dieta muy baja en carbohidratos/cetogénica y control de 0.01 % (-0.22 a 0.25), y dos estudios -0.65 % (-0.99; -0.31).",
+        "outcome": "HbA1c a 12 meses frente a una dieta control",
+        "direction": "unclear",
+        "support": [
+          { "pmid": "36064937", "quote": "A full text review of 69 studies identified eight meeting inclusion criteria; in total, it involved 606 participants." },
+          {
+            "pmid": "36064937",
+            "quote": "Six studies reported HbA1c (%) at 12 months; four as change from baseline with a fixed effects estimate (95% confidence interval): VLC/KD minus control of 0.01% (-0.22 to 0.25), p = .91; and two as change from baseline: -0.65% (-0.99; -0.31)"
+          }
+        ]
+      },
+      {
+        "statement": "Los autores de esa revisión concluyen que la dieta puede reducir HbA1c y triglicéridos, pero que la evidencia de una ventaja sobre otras estrategias es limitada.",
+        "outcome": "Conclusión sobre ventaja frente a otras estrategias",
+        "direction": "unclear",
+        "support": [
+          {
+            "pmid": "36064937",
+            "quote": "A VLC/KD may cause reductions in HbA1c and triglycerides in those with pre-diabetes or T2D but evidence of an advantage over other strategies is limited."
+          }
+        ]
+      },
+      {
+        "statement": "Otro meta-análisis de 11 ECA no encontró diferencia significativa entre dieta cetogénica y control en control glucémico ni en peso, con mayor aumento de HDL (DME 0.19; IC 95 % 0.02-0.37; certeza moderada) y mayor reducción de triglicéridos (DME -0.41; certeza baja).",
+        "outcome": "Control glucémico, peso y lípidos frente a control",
+        "direction": "no_difference",
+        "support": [
+          { "pmid": "38006799", "quote": "reports from 11 randomised controlled trials were included." },
+          {
+            "pmid": "38006799",
+            "quote": "Compared to the control, the ketogenic diet showed no significant difference in changes in glycaemic control or body weight, but greater increases in HDL (standardised mean difference 0.19; 95%CI 0.02-0.37; I = 0 %; moderate-quality evidence) and greater reductions in triglycerides (standardised mean difference -0.41; 95%CI -0.64 to -0.18; I = 0 %; low-quality evidence)."
+          }
+        ]
+      },
+      {
+        "statement": "Un meta-análisis en red de 4809 pacientes con DM2 encontró que las dietas cetogénica (-0.73; IC -1.19 a -0.28), baja en carbohidratos (-0.69) y baja en grasa (-1.82) redujeron significativamente la HbA1c frente a una dieta control.",
+        "outcome": "HbA1c frente a dieta control (meta-análisis en red)",
+        "direction": "benefit",
+        "support": [
+          { "pmid": "37513574", "quote": "Forty-two RCTs comprising 4809 patients with T2DM were included in the NMA" },
+          {
+            "pmid": "37513574",
+            "quote": "Findings of the NMA revealed that the ketogenic, low-carbohydrate, and low-fat diets were significantly effective in reducing HbA1c (viz., -0.73 (-1.19, -0.28), -0.69 (-1.32, -0.06), and -1.82 (-2.93, -0.71))"
+          }
+        ]
+      },
+      {
+        "statement": "En un ECA cruzado (análisis primario de 33 participantes con prediabetes o diabetes tipo dos), la HbA1c no difirió entre una dieta cetogénica bien formulada y una dieta mediterránea a las 12 semanas.",
+        "outcome": "HbA1c a 12 semanas frente a dieta mediterránea",
+        "direction": "no_difference",
+        "support": [
+          { "pmid": "35641199", "quote": "The primary analysis was of 33 participants with complete data." },
+          { "pmid": "35641199", "quote": "The HbA1c values did not differ between diets at 12 weeks." }
+        ]
+      },
+      {
+        "statement": "Un meta-análisis antes-después, sin grupo comparador, halló un descenso medio de la HbA1c de 1.07 (IC 95 % -1.37 a -0.78) y de la glucemia en ayunas de 1.29 mmol/L; al medir el cambio frente a la línea base, no responde si la dieta supera a una dieta de comparación.",
+        "outcome": "Cambio desde la línea base (sin comparador)",
+        "direction": "unclear",
+        "support": [
+          {
+            "pmid": "33257645",
+            "quote": "This meta-study employed the meta-analysis model of random effects or of fixed effects to analyze the average difference before and after KD and the corresponding 95% CI"
+          },
+          {
+            "pmid": "33257645",
+            "quote": "the level of fasting blood glucose decreased by 1.29 mmol/L (95% CI: -1.78 to -0.79) on average, and glycated hemoglobin A1c by 1.07 (95% CI: -1.37 to -0.78)"
+          }
+        ]
+      }
+    ],
+    "paraclinical": [
+      {
+        "parameter": "Triglicéridos",
+        "observation": "Fueron menores con la dieta muy baja en carbohidratos/cetogénica que con control (-0.28 mmol/L; IC -0.44 a -0.11).",
+        "support": [{ "pmid": "36064937", "quote": "Serum triglycerides were lower with VLC/KD versus control: -0.28 mmol/L (-0.44 to -0.11), p < .001." }]
+      },
+      {
+        "parameter": "LDL y triglicéridos frente a dieta mediterránea",
+        "observation": "Los triglicéridos bajaron más con la dieta cetogénica y el colesterol LDL fue mayor que con la dieta mediterránea.",
+        "support": [
+          {
+            "pmid": "35641199",
+            "quote": "Triglycerides decreased more for the WFKD [percentage changes, -16% (SEM, 4%) compared with -5% (SEM, 6%) for the Med-Plus; P = 0.02] and LDL cholesterol was higher for the WFKD [percentage changes, +10% (SEM, 4%) compared with -5% (SEM, 5%) for the Med-Plus; P = 0.01]"
+          }
+        ]
+      },
+      {
+        "parameter": "HDL y triglicéridos (meta-análisis de 11 ECA)",
+        "observation": "Mayor aumento de HDL (certeza moderada) y mayor reducción de triglicéridos (certeza baja) frente al control.",
+        "support": [
+          {
+            "pmid": "38006799",
+            "quote": "but greater increases in HDL (standardised mean difference 0.19; 95%CI 0.02-0.37; I = 0 %; moderate-quality evidence) and greater reductions in triglycerides (standardised mean difference -0.41; 95%CI -0.64 to -0.18; I = 0 %; low-quality evidence)."
+          }
+        ]
+      }
+    ],
+    "certainty": {
+      "reportedGrade": [
+        {
+          "pmid": "38006799",
+          "text": "Meta-análisis de 11 ECA: certeza moderada para HDL y baja para triglicéridos; sin diferencia significativa en control glucémico ni peso.",
+          "quote": "but greater increases in HDL (standardised mean difference 0.19; 95%CI 0.02-0.37; I = 0 %; moderate-quality evidence) and greater reductions in triglycerides (standardised mean difference -0.41; 95%CI -0.64 to -0.18; I = 0 %; low-quality evidence)."
+        }
+      ],
+      "limitations": [
+        { "text": "Se requieren estudios mejor diseñados para tener evidencia cierta sobre la ventaja de la dieta.", "support": { "pmid": "36064937", "quote": "More well-designed studies are required to provide certain evidence." } },
+        {
+          "text": "Aunque el meta-análisis en red encontró superior a la dieta cetogénica, los propios autores piden estudios de alta calidad y a largo plazo para reforzar su credibilidad.",
+          "support": { "pmid": "37513574", "quote": "Although this study found the ketogenic diet superior, further high-quality and long-term studies are needed to strengthen its credibility." }
+        },
+        {
+          "text": "El ECA cruzado sugiere que la dieta mediterránea es más sostenible a 12 semanas de seguimiento.",
+          "support": { "pmid": "35641199", "quote": "Twelve-week follow-up data suggest the Med-Plus is more sustainable." }
+        }
+      ]
+    },
+    "applicability": {
+      "summary": "Para un hombre de 55 años con DM2, HbA1c 8,1 %, en tratamiento con metformina y con sobrepeso, la evidencia no muestra de forma consistente que una intervención cetogénica mejore la HbA1c más que una alimentación con distribución convencional de carbohidratos: las revisiones con comparador van desde sin diferencia hasta descensos de HbA1c, y los análisis antes-después no responden la pregunta comparativa. Se observan mejoras de triglicéridos y HDL, con posible aumento de LDL y menor ingesta de ciertos nutrientes. Los abstracts no abordan el ajuste de la medicación concomitante ni el riesgo de hipoglucemia, por lo que cualquier decisión requiere valoración individual por el equipo tratante; esta síntesis no es una indicación.",
+      "safetyConcerns": [
+        {
+          "text": "Colesterol LDL más alto con la dieta cetogénica bien formulada que con la mediterránea en un ECA cruzado.",
+          "support": {
+            "pmid": "35641199",
+            "quote": "Triglycerides decreased more for the WFKD [percentage changes, -16% (SEM, 4%) compared with -5% (SEM, 6%) for the Med-Plus; P = 0.02] and LDL cholesterol was higher for the WFKD [percentage changes, +10% (SEM, 4%) compared with -5% (SEM, 5%) for the Med-Plus; P = 0.01]"
+          }
+        },
+        {
+          "text": "Menor ingesta de fibra y de otros nutrientes con la dieta cetogénica bien formulada.",
+          "support": { "pmid": "35641199", "quote": "Participants had lower intakes of fiber and 3 nutrients on the WFKD compared with the Med-Plus." }
+        }
+      ],
+      "monitoring": [
+        {
+          "text": "El aumento de LDL reportado respalda vigilar el perfil lipídico.",
+          "support": {
+            "pmid": "35641199",
+            "quote": "Triglycerides decreased more for the WFKD [percentage changes, -16% (SEM, 4%) compared with -5% (SEM, 6%) for the Med-Plus; P = 0.02] and LDL cholesterol was higher for the WFKD [percentage changes, +10% (SEM, 4%) compared with -5% (SEM, 5%) for the Med-Plus; P = 0.01]"
+          }
+        }
+      ]
+    },
+    "evidenceGaps": [
+      "Ningún abstract seleccionado aborda el ajuste de metformina u otros fármacos ni el riesgo de hipoglucemia al iniciar la dieta.",
+      "Los estudios más largos son escasos; la sostenibilidad de la dieta a largo plazo está poco caracterizada.",
+      "Los abstracts no reportan cetonemia (β-hidroxibutirato) de forma sistemática.",
+      "Los análisis antes-después y los comparativos responden preguntas distintas: no se pueden combinar sin cuidado."
+    ]
+  }
+}

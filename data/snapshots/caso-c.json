@@ -1,0 +1,611 @@
+{
+  "caseId": "C",
+  "generatedAt": "2026-10-10T03:53:27.901Z",
+  "source": "assistant-authored",
+  "model": "claude-sonnet-5-5 (sesión de desarrollo, asistido)",
+  "reviewedBy": null,
+  "searchLog": {
+    "executedAt": "2026-10-10T03:48:28.525Z",
+    "database": "PubMed",
+    "query": "(\"drug resistant epilepsy\" OR \"refractory epilepsy\") AND (\"ketogenic diet\" OR \"ketogenic dietary therapy\") AND (\"systematic review\" OR \"randomized controlled trial\")",
+    "queryTranslation": "(\"drug resistant epilepsy\"[All Fields] OR \"refractory epilepsy\"[All Fields]) AND (\"ketogenic diet\"[All Fields] OR \"ketogenic dietary therapy\"[All Fields]) AND (\"systematic review\"[All Fields] OR \"randomized controlled trial\"[All Fields])",
+    "totalCount": 82
+  },
+  "records": [
+    {
+      "pmid": "32588435",
+      "title": "Ketogenic diets for drug-resistant epilepsy.",
+      "authors": [
+        "Martin-McGill KJ",
+        "Bresnahan R",
+        "Levy RG",
+        "Cooper PN"
+      ],
+      "firstAuthor": "Martin-McGill KJ",
+      "year": "2020",
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD001903.pub5",
+      "pmcid": "PMC7387249",
+      "pubTypes": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Ketogenic diets (KDs) are high in fat and low in carbohydrates and have been suggested to reduce seizure frequency in people with epilepsy. Such diets may be beneficial for children with drug-resistant epilepsy. This is an update of a review first published in 2003, and last updated in 2018."
+        },
+        {
+          "label": "OBJECTIVES",
+          "text": "To assess the effects of ketogenic diets for people with drug-resistant epilepsy."
+        },
+        {
+          "label": "SEARCH METHODS",
+          "text": "For this update, we searched the Cochrane Register of Studies (CRS Web) and MEDLINE (Ovid, 1946 to 26 April 2019) on 29 April 2019. The Cochrane Register of Studies includes the Cochrane Epilepsy Group Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL), and randomised controlled trials (RCTs) from Embase, ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We imposed no language restrictions. We checked the reference lists of retrieved studies for additional relevant studies."
+        },
+        {
+          "label": "SELECTION CRITERIA",
+          "text": "RCTs or quasi-RCTs of KDs for people of any age with drug-resistant epilepsy."
+        },
+        {
+          "label": "DATA COLLECTION AND ANALYSIS",
+          "text": "Two review authors independently applied predefined criteria to extract data and evaluated study quality. We assessed the outcomes: seizure freedom, seizure reduction (50% or greater reduction in seizure frequency), adverse effects, cognition and behaviour, quality of life, and attrition rate. We incorporated a meta-analysis. We utilised an intention-to-treat (ITT) population for all primary analyses. We presented the results as risk ratios (RRs) with 95% confidence intervals (CIs)."
+        },
+        {
+          "label": "MAIN RESULTS",
+          "text": "We identified 13 studies with 932 participants; 711 children (4 months to 18 years) and 221 adults (16 years and over). We assessed all 13 studies to be at high risk of performance and detection bias, due to lack of blinding. Assessments varied from low to high risk of bias for all other domains. We rated the evidence for all outcomes as low to very low certainty. Ketogenic diets versus usual care for children Seizure freedom (RR 3.16, 95% CI 1.20 to 8.35; P = 0.02; 4 studies, 385 participants; very low-certainty evidence) and seizure reduction (RR 5.80, 95% CI 3.48 to 9.65; P < 0.001; 4 studies, 385 participants; low-certainty evidence) favoured KDs (including: classic KD, medium-chain triglyceride (MCT) KD combined, MCT KD only, simplified modified Atkins diet (MAD) compared to usual care for children. We are not confident that these estimated effects are accurate. The most commonly reported adverse effects were vomiting, constipation and diarrhoea for both the intervention and usual care group, but the true effect could be substantially different (low-certainty evidence). Ketogenic diet versus usual care for adults In adults, no participants experienced seizure freedom. Seizure reduction favoured KDs (MAD only) over usual care but, again, we are not confident that the effect estimated is accurate (RR 5.03, 95% CI 0.26 to 97.68; P = 0.29; 2 studies, 141 participants; very low-certainty evidence). Adults receiving MAD most commonly reported vomiting, constipation and diarrhoea (very low-certainty evidence). One study reported a reduction in body mass index (BMI) plus increased cholesterol in the MAD group. The other reported weight loss. The true effect could be substantially different to that reported. Ketogenic diet versus ketogenic diet for children Up to 55% of children achieved seizure freedom with a classical 4:1 KD after three months whilst up to 85% of children achieved seizure reduction (very low-certainty evidence). One trial reported a greater incidence of seizure reduction with gradual-onset KD, as opposed to fasting-onset KD. Up to 25% of children were seizure free with MAD and up to 60% achieved seizure reduction. Up to 25% of children became seizure free with MAD and up to 60% experienced seizure reduction. One study used a simplified MAD (sMAD) and reported that 15% of children gained seizure freedom rates and 56% achieved seizure reduction. We judged all the evidence described as very low certainty, thus we are very unsure whether the results are accurate. The most commonly reported adverse effects were vomiting, constipation and diarrhoea (5 studies, very low-certainty evidence). Two studies reported weight loss. One stated that weight loss and gastrointestinal disturbances were more frequent, with 4:1 versus 3:1 KD, whilst one reported no difference in weight loss with 20 mg/d versus 10 mg/d carbohydrates. In one study, there was a higher incidence of hypercalcuria amongst children receiving classic KD compared to MAD. All effects described are unlikely to be accurate. Ketogenic diet versus ketogenic diet for adults One study randomised 80 adults (aged 18 years and over) to either MAD plus KetoCal during the first month with MAD alone for the second month, or MAD alone for the first month followed by MAD plus KetoCal for the second month. No adults achieved seizure freedom. More adults achieved seizure reduction at one month with MAD alone (42.5%) compared to MAD plus KetoCal (32.5%), however, by three months only 10% of adults in both groups maintained seizure reduction. The evidence for both outcomes was of very low certainty; we are very uncertain whether the effects are accurate. Constipation was more frequently reported in the MAD plus KetoCal group (17.5%) compared to the MAD only group (5%) (1 study, very low-certainty evidence). Diarrhoea and increase/change in seizure pattern/semiology were also commonly reported (17.5% to 20% of participants). The true effects of the diets could be substantially different to that reported."
+        },
+        {
+          "label": "AUTHORS' CONCLUSIONS",
+          "text": "The evidence suggests that KDs could demonstrate effectiveness in children with drug-resistant epilepsy, however, the evidence for the use of KDs in adults remains uncertain. We identified a limited number of studies which all had small sample sizes. Due to the associated risk of bias and imprecision caused by small study populations, the evidence for the use of KDs was of low to very low certainty. More palatable but related diets, such as the MAD, may have a similar effect on seizure control as the classical KD, but could be associated with fewer adverse effects. This assumption requires more investigation. For people who have drug-resistant epilepsy or who are unsuitable for surgical intervention, KDs remain a valid option. Further research is required, particularly for adults with drug-resistant epilepsy."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": true
+    },
+    {
+      "pmid": "42391224",
+      "title": "Ketogenic diet therapies for the treatment of drug-resistant epilepsy in children and adults: A systematic review.",
+      "authors": [
+        "Vaccarezza MM",
+        "Sanguine VL",
+        "Balaciano G"
+      ],
+      "firstAuthor": "Vaccarezza MM",
+      "year": "2026",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0333334",
+      "pmcid": "PMC13327284",
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "Epilepsy is a common treatable neurological condition characterized by recurrent involuntary brain activity manifested in seizures. It is estimated that around 30% of patients with this disease do not respond to initial pharmacological treatments, developing drug-resistant epilepsy. Among the non-pharmacological treatment options are ketogenic diet therapies (KDT) in its various forms. The objective of this study is to systematically review the randomized controlled trials investigating the use of KDTs in pediatric and adult drug-resistant epilepsy, according to Preferred Reporting Items for Systematic Review and Meta-analysis (PRISMA) guidelines. The following databases: Embase, PubMed/Medline, LILACS, and the Cochrane Library, were searched and studies fitting the inclusion and exclusion criteria were included for analysis. Randomized controlled trials (RCT) with a minimum follow-up of 28 days were included. There were 1193 articles retrieved after duplicates were removed and 17 met the inclusion criteria. Eleven studies included children (up to 12 yrs) and six included adolescents from 13 years old and adults. Follow-up ranged from 6 to 24 months. In children, 37% may achieve a reduction in seizure frequency of 50% or more with in any form of KDT (moderate-certainty evidence). In addition, about 6 more children per 100 may achieve a ≥ 90% reduction, although this is supported by low-certainty evidence. In adolescents and adults, KDT may lead to a ≥ 50% reduction in seizure frequency in 16 more individuals per 100 compared with usual care (moderate-certainty evidence), but its impact on a 90% or greater reduction is uncertain due to the limited number of reported events and imprecision in available studies. Side effects in children showed no significant differences compared to usual care (low certainty), while in adults, the impact remains uncertain (very low certainty). Adherence to treatment may be slightly lower with KDT in both children and adults/adolescents compared to usual treatment, though results are inconsistent. Regarding quality of life and cognitive and behavioral outcomes, studies are scarce, heterogeneous, and of very low certainty, limiting the ability to draw strong conclusions."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": true
+    },
+    {
+      "pmid": "42214220",
+      "title": "The efficacy and safety of ketogenic diet therapy among adolescents and adults with drug resistant epilepsy: A systematic review and meta-analysis.",
+      "authors": [
+        "Farrar T",
+        "D'Silva A",
+        "Cardamone M",
+        "Palacios-Derflingher L",
+        "Farrar MA"
+      ],
+      "firstAuthor": "Farrar T",
+      "year": "2026",
+      "journal": "Seizure",
+      "doi": "10.1016/j.seizure.2026.05.018",
+      "pmcid": null,
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "Ketogenic diet therapy (KDT), characterised by its high-fat, low-carbohydrate composition, is a valuable approach to reducing seizures in children with drug resistant epilepsies (DRE). Uncertainty remains regarding its benefits in adolescents and adults. This systematic review and metanalysis critically evaluated evidence efficacy, safety and tolerability of KDT in adolescents and adults with DRE. Analysis was also undertaken on epilepsy and KDT subtypes, side effects, attrition proportions and reasons for KDT cessation, along with effects beyond seizure control including mood and quality of life outcomes. Of the 1846 articles screened, 33 met the inclusion criteria, 3 randomised controlled trials, 17 prospective and 13 retrospective case series and included 1019 people with DRE. The overall proportion with seizure reduction >50 % was 42.82 % (95 %CI 34.14-51.69). Subgroup analysis suggested that 53.4 % (95 %CI: 16.92-88.20 of individuals with generalised DRE responded to KDT, compared to 14.4 % (95 %CI: 0.00-42.25) with focal DRE. The efficacy was not found to be associated with KDT type. Restrictiveness and compliance challenges led to an overall attrition proportion of 20.95 % (95 %CI 12.06-31.19). Findings suggested that KDTs were safe and generally well tolerated. Taken together, there is increasing evidence to support use of KDT as an adjunctive treatment for some people with DRE. The knowledge generated is pertinent to establishing guidelines, optimising the use of KDT in specific epilepsy populations to improve therapeutic management."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": true
+    },
+    {
+      "pmid": "36716045",
+      "title": "Efficacy and Safety of Dietary Therapies for Childhood Drug-Resistant Epilepsy: A Systematic Review and Network Meta-analysis.",
+      "authors": [
+        "Devi N",
+        "Madaan P",
+        "Kandoth N",
+        "Bansal D",
+        "Sahu JK"
+      ],
+      "firstAuthor": "Devi N",
+      "year": "2023",
+      "journal": "JAMA pediatrics",
+      "doi": "10.1001/jamapediatrics.2022.5648",
+      "pmcid": "PMC9887534",
+      "pubTypes": [
+        "Systematic Review",
+        "Journal Article",
+        "Network Meta-Analysis"
+      ],
+      "designTier": 1,
+      "designLabel": "Meta-análisis en red",
+      "abstractSections": [
+        {
+          "label": "IMPORTANCE",
+          "text": "Despite advances in the understanding of dietary therapies in children with drug-resistant epilepsy, no quantitative comparison exists between different dietary interventions."
+        },
+        {
+          "label": "OBJECTIVE",
+          "text": "To evaluate the comparative efficacy and safety of various dietary therapies in childhood drug-resistant epilepsy."
+        },
+        {
+          "label": "DATA SOURCES",
+          "text": "Systematic review and network meta-analysis (frequentist) of studies in PubMed, Embase, Cochrane, and Ovid published from inception to April 2022 using the search terms ketogenic diet, medium chain triglyceride diet, modified Atkins diet, low glycemic index therapy, and refractory epilepsy."
+        },
+        {
+          "label": "STUDY SELECTION",
+          "text": "Randomized clinical trials comparing different dietary therapies (ketogenic diet, modified Atkins diet, and low glycemic index therapy) with each other or care as usual in childhood drug-resistant epilepsy were included. Abstract, title, and full text were screened independently by 2 reviewers."
+        },
+        {
+          "label": "DATA EXTRACTION AND SYNTHESIS",
+          "text": "Data extraction was conducted following Preferred Reporting Items for Systematic Reviews and Meta-analyses reporting guideline. Cochrane risk-of-bias tool was used to assess the study quality. Effect sizes were calculated as odds ratio with 95% CI using random-effects model. The hierarchy of competing interventions was defined using the surface under the cumulative ranking curve."
+        },
+        {
+          "label": "MAIN OUTCOMES AND MEASURES",
+          "text": "Short-term (≤3 months) 50% or higher and 90% or higher reduction in seizure frequency and treatment withdrawal due to adverse events were the primary efficacy and safety outcomes."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Of 2158 citations, 12 randomized clinical trials (907 patients) qualified for inclusion. In the short term, all dietary interventions were more efficacious than care as usual for 50% or higher seizure reduction (low glycemic index therapy: odds ratio [OR], 24.7 [95% CI, 5.3-115.4]; modified Atkins diet: OR, 11.3 [95% CI, 5.1-25.1]; ketogenic diet: OR, 8.6 [95% CI, 3.7-20.0]), while ketogenic diet (OR, 6.5 [95% CI, 2.3-18.0]) and modified Atkins diet (OR, 5.1 [95% CI, 2.2-12.0]) were better than care as usual for seizure reduction of 90% or higher. However, adverse event-related discontinuation rates were significantly higher for ketogenic diet (OR, 8.6 [95% CI, 1.8-40.6]) and modified Atkins diet (OR, 6.5 [95% CI, 1.4-31.2]) compared with care as usual. Indirectly, there was no significant difference between dietary therapies in efficacy and safety outcomes."
+        },
+        {
+          "label": "CONCLUSIONS AND RELEVANCE",
+          "text": "This study found that all dietary therapies are effective in the short term. However, modified Atkins diet had better tolerability, higher probability for 50% or higher seizure reduction, and comparable probability for 90% or higher seizure reduction and may be a sounder option than ketogenic diet. Direct head-to-head comparison studies are needed to confirm these findings."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "37977712",
+      "title": "Classic ketogenic diet versus further antiseizure medicine in infants with drug-resistant epilepsy (KIWE): a UK, multicentre, open-label, randomised clinical trial.",
+      "authors": [
+        "Schoeler NE",
+        "Marston L",
+        "Lyons L",
+        "Halsall S",
+        "Jain R",
+        "Titre-Johnson S",
+        "Balogun M",
+        "Heales SJR",
+        "Eaton S",
+        "Orford M",
+        "Neal E",
+        "Reilly C",
+        "Eltze C",
+        "Stephen E",
+        "Mallick AA",
+        "O'Callaghan F",
+        "Agrawal S",
+        "Parker A",
+        "Kirkpatrick M",
+        "Brunklaus A",
+        "McLellan A",
+        "McCullagh H",
+        "Samanta R",
+        "Kneen R",
+        "Tan HJ",
+        "Devlin A",
+        "Prasad M",
+        "Rattihalli R",
+        "Basu H",
+        "Desurkar A",
+        "Williams R",
+        "Fallon P",
+        "Nazareth I",
+        "Freemantle N",
+        "Cross JH",
+        "KIWE study group"
+      ],
+      "firstAuthor": "Schoeler NE",
+      "year": "2023",
+      "journal": "The Lancet. Neurology",
+      "doi": "10.1016/S1474-4422(23)00370-8",
+      "pmcid": null,
+      "pubTypes": [
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase IV",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Many infancy-onset epilepsies have poor prognosis for seizure control and neurodevelopmental outcome. Ketogenic diets can improve seizures in children older than 2 years and adults who are unresponsive to antiseizure medicines. We aimed to establish the efficacy of a classic ketogenic diet at reducing seizure frequency compared with further antiseizure medicine in infants with drug-resistant epilepsy."
+        },
+        {
+          "label": "METHODS",
+          "text": "In this phase 4, open-label, multicentre, randomised clinical trial, infants aged 1-24 months with drug-resistant epilepsy (defined as four or more seizures per week and two or more previous antiseizure medications) were recruited from 19 hospitals in the UK. Following a 1-week or 2-week observation period, participants were randomly assigned using a computer-generated schedule, without stratification, to either a classic ketogenic diet or a further antiseizure medication for 8 weeks. Treatment allocation was masked from research nurses involved in patient care, but not from participants. The primary outcome was the median number of seizures per day, recorded during weeks 6-8. All analyses were by modified intention to treat, which included all participants with available data. Participants were followed for up to 12 months. All serious adverse events were recorded. The trial is registered with the European Union Drug Regulating Authorities Clinical Trials Database (2013-002195-40). The trial was terminated early before all participants had reached 12 months of follow-up because of slow recruitment and end of funding."
+        },
+        {
+          "label": "FINDINGS",
+          "text": "Between Jan 1, 2015, and Sept 30, 2021, 155 infants were assessed for eligibility, of whom 136 met inclusion criteria and were randomly assigned; 75 (55%) were male and 61 (45%) were female. 78 infants were assigned to a ketogenic diet and 58 to antiseizure medication, of whom 61 and 47, respectively, had available data and were included in the modifified intention-to-treat analysis at week 8. The median number of seizures per day during weeks 6-8, accounting for baseline rate and randomised group, was similar between the ketogenic diet group (5 [IQR 1-16]) and antiseizure medication group (3 [IQR 2-11]; IRR 1·33, 95% CI 0·84-2·11). A similar number of infants with at least one serious adverse event was reported in both groups (40 [51%] of 78 participants in the ketogenic diet group and 26 [45%] of 58 participants in the antiseizure medication group). The most common serious adverse events were seizures in both groups. Three infants died during the trial, all of whom were randomly assigned a ketogenic diet: one child (who also had dystonic cerebral palsy) was found not breathing at home; one child died suddenly and unexpectedly at home; and one child went into cardiac arrest during routine surgery under anaesthetic. The deaths were judged unrelated to treatment by local principal investigators and confirmed by the data safety monitoring committee."
+        },
+        {
+          "label": "INTERPRETATION",
+          "text": "In this phase 4 trial, a ketogenic diet did not differ in efficacy and tolerability to a further antiseizure medication, and it appears to be safe to use in infants with drug-resistant epilepsy. A ketogenic diet could be a treatment option in infants whose seizures continue despite previously trying two antiseizure medications."
+        },
+        {
+          "label": "FUNDING",
+          "text": "National Institute for Health and Care Research."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "36599697",
+      "title": "Safety, Efficacy, and Tolerability of Modified Atkins Diet in Persons With Drug-Resistant Epilepsy: A Randomized Controlled Trial.",
+      "authors": [
+        "Manral M",
+        "Dwivedi R",
+        "Gulati S",
+        "Kaur K",
+        "Nehra A",
+        "Pandey RM",
+        "Upadhyay AD",
+        "Sapra S",
+        "Tripathi M"
+      ],
+      "firstAuthor": "Manral M",
+      "year": "2023",
+      "journal": "Neurology",
+      "doi": "10.1212/WNL.0000000000206776",
+      "pmcid": "PMC10065201",
+      "pubTypes": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND AND OBJECTIVES",
+          "text": "Modified Atkins diet (MAD) has emerged as an adjuvant therapy in drug-resistant epilepsy (DRE). Most studies are in children; there is limited evidence for DRE in adults. This study aimed to investigate whether MAD along with standard drug therapy (SDT) was indeed more effective than SDT alone in reducing seizure frequency and improving psychological outcomes at 6 months in adolescents and adults with DRE (nonsurgical)."
+        },
+        {
+          "label": "METHODS",
+          "text": "A prospective randomized controlled trial was conducted at tertiary care referral center in India. Persons with DRE aged 10-55 years attending outpatient epilepsy clinics between August 2015 and April 2019, who had more than 2 seizures per month despite using at least 3 appropriate antiseizure medications (ASMs) at their maximum tolerated doses and had not been on any form of diet therapy for the past 1 year, were enrolled. Patients were assessed for the eligibility and randomly assigned to receive SDT plus MAD (intervention arm) or SDT alone (control arm). The primary outcome was >50% reduction in seizure frequency, and the secondary outcomes were quality of life (QOL), behavior, adverse events, and rate of withdrawal at 6 months. Intention-to-treat analysis was performed."
+        },
+        {
+          "label": "RESULTS",
+          "text": "pppA total of 243 patients were screened for eligibility; 160 patients (80 adults and 80 adolescents) were randomized to either the intervention or control arm. Demographic and clinical characteristics in both groups were comparable at baseline. At 6 months, >50% seizure reduction was seen in 26.2% in the intervention group vs 2.5% in the control group (95% CI 13.5-33.9;< 0.001). Improvement in QOL was 52.1 ± 17.6 in the intervention group vs 42.5 ± 16.4 in the control group (mean difference, 9.6; 95% CI 4.3 to 14.9,< 0.001). However, behavior scores could be performed in 49 patients, and improvement was seen in the intervention vs control group (65.6 ± 7.9 vs 71.4 ± 8.1,= 0.015) at the end of the study. One patient had weight loss; 2 patients had diarrhea."
+        },
+        {
+          "label": "DISCUSSION",
+          "text": "The MAD group demonstrated improvement in all aspects (reduction in seizure frequency and behavioral problems) compared with the control group at the end of the study. MAD is an effective modality in controlling seizures; further research is required to assess its efficacy in terms of biomarkers along with descriptive metabolomics studies."
+        },
+        {
+          "label": "TRIAL REGISTRATION INFORMATION",
+          "text": "The clinical trial registry of India: CTRI/2015/07/006048."
+        },
+        {
+          "label": "CLASSIFICATION OF EVIDENCE",
+          "text": "This study provides Class III evidence that the MAD increases the probability of seizure reduction in adolescents and adults with DRE."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    }
+  ],
+  "synthesis": {
+    "stance": "supports",
+    "stanceRationale": "Las revisiones y ECA seleccionados apuntan a que la terapia dietética cetogénica reduce la frecuencia de crisis frente al cuidado habitual, pero la certeza va de muy baja a moderada y varía entre niños, adolescentes y adultos.",
+    "findings": [
+      {
+        "statement": "Cochrane (2020) incluyó 13 estudios con 932 participantes (711 niños y 221 adultos) y calificó la evidencia de todos los desenlaces como de certeza baja a muy baja.",
+        "outcome": "Alcance y certeza de la mejor revisión Cochrane",
+        "direction": "unclear",
+        "support": [
+          {
+            "pmid": "32588435",
+            "quote": "We identified 13 studies with 932 participants; 711 children (4 months to 18 years) and 221 adults (16 years and over)."
+          },
+          {
+            "pmid": "32588435",
+            "quote": "We rated the evidence for all outcomes as low to very low certainty."
+          }
+        ]
+      },
+      {
+        "statement": "En niños, frente al cuidado habitual, las dietas cetogénicas favorecieron la libertad de crisis (RR 3.16) y la reducción de crisis (RR 5.80) en 4 estudios con 385 participantes, aunque la certeza fue muy baja y baja.",
+        "outcome": "Libertad de crisis y reducción de crisis en niños",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "32588435",
+            "quote": "Seizure freedom (RR 3.16, 95% CI 1.20 to 8.35; P = 0.02; 4 studies, 385 participants; very low-certainty evidence) and seizure reduction (RR 5.80, 95% CI 3.48 to 9.65; P < 0.001; 4 studies, 385 participants; low-certainty evidence) favoured KDs"
+          }
+        ]
+      },
+      {
+        "statement": "En adultos la evidencia Cochrane es incierta: la reducción de crisis favoreció a la dieta Atkins modificada pero con un intervalo muy amplio (RR 5.03; IC 95 % 0.26 a 97.68) en 2 estudios con 141 participantes.",
+        "outcome": "Reducción de crisis en adultos",
+        "direction": "unclear",
+        "support": [
+          {
+            "pmid": "32588435",
+            "quote": "Seizure reduction favoured KDs (MAD only) over usual care but, again, we are not confident that the effect estimated is accurate (RR 5.03, 95% CI 0.26 to 97.68; P = 0.29; 2 studies, 141 participants; very low-certainty evidence)."
+          }
+        ]
+      },
+      {
+        "statement": "La revisión sistemática de PLOS ONE (2026) incluyó 17 ECA; en niños, el 37 % puede lograr una reducción de crisis de 50 % o más con cualquier forma de terapia cetogénica (certeza moderada).",
+        "outcome": "Respuesta ≥50 % en niños",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "42391224",
+            "quote": "There were 1193 articles retrieved after duplicates were removed and 17 met the inclusion criteria."
+          },
+          {
+            "pmid": "42391224",
+            "quote": "In children, 37% may achieve a reduction in seizure frequency of 50% or more with in any form of KDT (moderate-certainty evidence)."
+          }
+        ]
+      },
+      {
+        "statement": "En adolescentes y adultos, la terapia cetogénica puede producir una reducción de crisis de 50 % o más en 16 personas más por cada 100 que con el cuidado habitual (certeza moderada); el efecto sobre una reducción de 90 % o más es incierto.",
+        "outcome": "Respuesta ≥50 % en adolescentes y adultos",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "42391224",
+            "quote": "In adolescents and adults, KDT may lead to a ≥ 50% reduction in seizure frequency in 16 more individuals per 100 compared with usual care (moderate-certainty evidence)"
+          },
+          {
+            "pmid": "42391224",
+            "quote": "but its impact on a 90% or greater reduction is uncertain due to the limited number of reported events and imprecision in available studies."
+          }
+        ]
+      },
+      {
+        "statement": "En una red de 12 ECA pediátricos (907 pacientes), todas las dietas superaron al cuidado habitual a corto plazo en reducción de crisis de 50 % o más (dieta cetogénica OR 8.6; IC 95 % 3.7 a 20.0).",
+        "outcome": "Eficacia comparada de dietas en niños (meta-análisis en red)",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "36716045",
+            "quote": "Of 2158 citations, 12 randomized clinical trials (907 patients) qualified for inclusion."
+          },
+          {
+            "pmid": "36716045",
+            "quote": "In the short term, all dietary interventions were more efficacious than care as usual for 50% or higher seizure reduction (low glycemic index therapy: odds ratio [OR], 24.7 [95% CI, 5.3-115.4]; modified Atkins diet: OR, 11.3 [95% CI, 5.1-25.1]; ketogenic diet: OR, 8.6 [95% CI, 3.7-20.0])"
+          }
+        ]
+      },
+      {
+        "statement": "En lactantes con epilepsia farmacorresistente (136 aleatorizados), un ECA abierto no encontró diferencia en crisis por día entre la dieta cetogénica clásica y un antiepiléptico adicional (IRR 1·33; IC 95 % 0·84-2·11).",
+        "outcome": "Crisis por día en lactantes",
+        "direction": "no_difference",
+        "support": [
+          {
+            "pmid": "37977712",
+            "quote": "155 infants were assessed for eligibility, of whom 136 met inclusion criteria and were randomly assigned"
+          },
+          {
+            "pmid": "37977712",
+            "quote": "The median number of seizures per day during weeks 6-8, accounting for baseline rate and randomised group, was similar between the ketogenic diet group (5 [IQR 1-16]) and antiseizure medication group (3 [IQR 2-11]; IRR 1·33, 95% CI 0·84-2·11)."
+          }
+        ]
+      },
+      {
+        "statement": "En 160 adolescentes y adultos con epilepsia farmacorresistente, a 6 meses la reducción de crisis mayor a 50 % ocurrió en 26.2 % con dieta Atkins modificada más tratamiento habitual frente a 2.5 % con tratamiento habitual solo (evidencia Clase III).",
+        "outcome": "Respuesta >50 % en adolescentes y adultos (ECA)",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "36599697",
+            "quote": "160 patients (80 adults and 80 adolescents) were randomized to either the intervention or control arm."
+          },
+          {
+            "pmid": "36599697",
+            "quote": "At 6 months, >50% seizure reduction was seen in 26.2% in the intervention group vs 2.5% in the control group"
+          }
+        ]
+      },
+      {
+        "statement": "El meta-análisis de Seizure (2026) agrupó 33 estudios con 1019 personas (3 ECA, 17 series prospectivas y 13 retrospectivas) y estimó una proporción global de respuesta de 42.82 % (IC 95 % 34.14-51.69).",
+        "outcome": "Proporción agrupada de respondedores en adolescentes y adultos",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "42214220",
+            "quote": "Of the 1846 articles screened, 33 met the inclusion criteria, 3 randomised controlled trials, 17 prospective and 13 retrospective case series and included 1019 people with DRE."
+          },
+          {
+            "pmid": "42214220",
+            "quote": "The overall proportion with seizure reduction >50 % was 42.82 % (95 %CI 34.14-51.69)."
+          }
+        ]
+      },
+      {
+        "statement": "Esa cifra de 42.82 % es una proporción de respondedores agrupada de estudios en su mayoría sin grupo control (solo 3 eran ECA): no equivale a un efecto comparativo frente a un grupo control.",
+        "outcome": "Interpretación: respondedores vs efecto comparativo",
+        "direction": "unclear",
+        "support": [
+          {
+            "pmid": "42214220",
+            "quote": "Of the 1846 articles screened, 33 met the inclusion criteria, 3 randomised controlled trials, 17 prospective and 13 retrospective case series and included 1019 people with DRE."
+          },
+          {
+            "pmid": "42214220",
+            "quote": "The overall proportion with seizure reduction >50 % was 42.82 % (95 %CI 34.14-51.69)."
+          }
+        ]
+      }
+    ],
+    "paraclinical": [
+      {
+        "parameter": "Peso y colesterol (adultos con dieta Atkins modificada)",
+        "observation": "Un estudio reportó reducción del IMC junto con aumento del colesterol en el grupo con dieta Atkins modificada.",
+        "support": [
+          {
+            "pmid": "32588435",
+            "quote": "One study reported a reduction in body mass index (BMI) plus increased cholesterol in the MAD group."
+          }
+        ]
+      },
+      {
+        "parameter": "Calciuria (niños)",
+        "observation": "En un estudio hubo mayor incidencia de hipercalciuria con dieta cetogénica clásica que con Atkins modificada.",
+        "support": [
+          {
+            "pmid": "32588435",
+            "quote": "In one study, there was a higher incidence of hypercalcuria amongst children receiving classic KD compared to MAD."
+          }
+        ]
+      },
+      {
+        "parameter": "Tolerancia digestiva",
+        "observation": "Los efectos adversos más frecuentes fueron vómito, estreñimiento y diarrea, tanto en intervención como en cuidado habitual (certeza baja).",
+        "support": [
+          {
+            "pmid": "32588435",
+            "quote": "The most commonly reported adverse effects were vomiting, constipation and diarrhoea for both the intervention and usual care group, but the true effect could be substantially different (low-certainty evidence)."
+          }
+        ]
+      }
+    ],
+    "certainty": {
+      "reportedGrade": [
+        {
+          "pmid": "32588435",
+          "text": "Cochrane: certeza baja a muy baja para todos los desenlaces.",
+          "quote": "We rated the evidence for all outcomes as low to very low certainty."
+        },
+        {
+          "pmid": "42391224",
+          "text": "PLOS ONE: certeza moderada para la respuesta ≥50 % en niños.",
+          "quote": "In children, 37% may achieve a reduction in seizure frequency of 50% or more with in any form of KDT (moderate-certainty evidence)."
+        }
+      ],
+      "limitations": [
+        {
+          "text": "Todos los estudios de la revisión Cochrane tuvieron alto riesgo de sesgo de desempeño y detección por falta de cegamiento.",
+          "support": {
+            "pmid": "32588435",
+            "quote": "We assessed all 13 studies to be at high risk of performance and detection bias, due to lack of blinding."
+          }
+        },
+        {
+          "text": "Pocos estudios y de tamaño muestral pequeño (Cochrane).",
+          "support": {
+            "pmid": "32588435",
+            "quote": "We identified a limited number of studies which all had small sample sizes."
+          }
+        },
+        {
+          "text": "Adherencia algo menor con la dieta que con el tratamiento habitual, con resultados inconsistentes (PLOS ONE).",
+          "support": {
+            "pmid": "42391224",
+            "quote": "Adherence to treatment may be slightly lower with KDT in both children and adults/adolescents compared to usual treatment, though results are inconsistent."
+          }
+        },
+        {
+          "text": "Calidad de vida y desenlaces cognitivos y conductuales: estudios escasos, heterogéneos y de certeza muy baja (PLOS ONE).",
+          "support": {
+            "pmid": "42391224",
+            "quote": "Regarding quality of life and cognitive and behavioral outcomes, studies are scarce, heterogeneous, and of very low certainty, limiting the ability to draw strong conclusions."
+          }
+        },
+        {
+          "text": "Abandono global del 20.95 % por restricción y dificultades de cumplimiento en adolescentes y adultos (Seizure).",
+          "support": {
+            "pmid": "42214220",
+            "quote": "Restrictiveness and compliance challenges led to an overall attrition proportion of 20.95 % (95 %CI 12.06-31.19)."
+          }
+        },
+        {
+          "text": "Las comparaciones entre tipos de dieta son indirectas; hacen falta estudios de comparación directa (meta-análisis en red).",
+          "support": {
+            "pmid": "36716045",
+            "quote": "Direct head-to-head comparison studies are needed to confirm these findings."
+          }
+        },
+        {
+          "text": "El ensayo en lactantes se detuvo antes de tiempo por reclutamiento lento y fin de la financiación.",
+          "support": {
+            "pmid": "37977712",
+            "quote": "The trial was terminated early before all participants had reached 12 months of follow-up because of slow recruitment and end of funding."
+          }
+        }
+      ]
+    },
+    "applicability": {
+      "summary": "Para un niño de 8 años con epilepsia farmacorresistente, la evidencia agrupada de ECA y revisiones sugiere que la terapia dietética cetogénica, como adyuvante, se asocia con mayor probabilidad de reducción de crisis frente al cuidado habitual; la certeza va de muy baja a moderada según la revisión y el desenlace, y la mejor evidencia pediátrica proviene de ensayos pequeños sin cegamiento. La tolerancia digestiva y el abandono por eventos adversos son relevantes. Elegir la modalidad (clásica, MCT, Atkins modificada o bajo índice glucémico), valorar la candidatura y definir el seguimiento corresponde a un equipo especializado (neuropediatría y nutrición clínica); esta síntesis no es una indicación.",
+      "safetyConcerns": [
+        {
+          "text": "Mayor suspensión del tratamiento por eventos adversos con dieta cetogénica y Atkins modificada que con el cuidado habitual en niños (meta-análisis en red).",
+          "support": {
+            "pmid": "36716045",
+            "quote": "However, adverse event-related discontinuation rates were significantly higher for ketogenic diet (OR, 8.6 [95% CI, 1.8-40.6]) and modified Atkins diet (OR, 6.5 [95% CI, 1.4-31.2]) compared with care as usual."
+          }
+        },
+        {
+          "text": "Hipercalciuria más frecuente con la dieta cetogénica clásica que con Atkins modificada en un estudio pediátrico.",
+          "support": {
+            "pmid": "32588435",
+            "quote": "In one study, there was a higher incidence of hypercalcuria amongst children receiving classic KD compared to MAD."
+          }
+        }
+      ],
+      "monitoring": [
+        {
+          "text": "Los abstracts reportan aumento de colesterol y cambios de peso con la dieta Atkins modificada en adultos, lo que apoya vigilar perfil lipídico y peso.",
+          "support": {
+            "pmid": "32588435",
+            "quote": "One study reported a reduction in body mass index (BMI) plus increased cholesterol in the MAD group."
+          }
+        },
+        {
+          "text": "Los abstracts reportan hipercalciuria en un estudio pediátrico, lo que apoya vigilar la calciuria y la función renal.",
+          "support": {
+            "pmid": "32588435",
+            "quote": "In one study, there was a higher incidence of hypercalcuria amongst children receiving classic KD compared to MAD."
+          }
+        }
+      ]
+    },
+    "evidenceGaps": [
+      "Ningún abstract seleccionado reporta de forma sistemática niveles de β-hidroxibutirato ni otros parámetros bioquímicos de seguimiento.",
+      "En adultos la evidencia comparativa es limitada: pocos ECA y la mayoría de los datos provienen de series de casos.",
+      "Faltan comparaciones directas entre modalidades (cetogénica clásica, MCT, Atkins modificada, bajo índice glucémico).",
+      "Calidad de vida y desenlaces cognitivos y conductuales están poco estudiados."
+    ]
+  }
+}

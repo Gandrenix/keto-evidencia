@@ -1,0 +1,159 @@
+{
+  "pmids": ["23651522", "39854812", "33882506", "15148063", "33479499", "37836444"],
+  "model": "claude-sonnet-5-5 (sesión de desarrollo, asistido)",
+  "synthesis": {
+    "stance": "mixed",
+    "stanceRationale": "Los meta-análisis muestran mayor pérdida de peso con dietas cetogénicas o muy bajas en carbohidratos que con dietas bajas en grasa, incluso a 12 meses o más, pero la diferencia a largo plazo es pequeña, hay heterogeneidad alta, hay cambios lipídicos a vigilar y la evidencia sobre el mantenimiento sostenido es limitada.",
+    "findings": [
+      {
+        "statement": "Un meta-análisis de ECA con seguimiento de 12 meses o más encontró que la dieta cetogénica muy baja en carbohidratos (VLCKD) redujo más el peso que la dieta baja en grasa: diferencia media ponderada -0·91 kg (IC 95 % -1·65 a -0·17) en 1415 pacientes.",
+        "outcome": "Pérdida de peso a largo plazo (≥12 meses)",
+        "direction": "benefit",
+        "support": [
+          { "pmid": "23651522", "quote": "for randomised controlled trials that assigned adults to a VLCKD or a LFD, with 12 months or more of follow-up." },
+          { "pmid": "23651522", "quote": "Individuals assigned to a VLCKD showed decreased body weight (weighted mean difference -0·91 (95% CI -1·65, -0·17) kg, 1415 patients)" }
+        ]
+      },
+      {
+        "statement": "Otro meta-análisis de ECA (2821 personas) halló que la dieta cetogénica o baja en carbohidratos redujo peso, IMC y porcentaje de grasa corporal, pero no la masa grasa, en quienes consumían 100 g/d de carbohidratos o menos, con alta heterogeneidad estadística.",
+        "outcome": "Composición corporal en adultos con sobrepeso u obesidad",
+        "direction": "benefit",
+        "support": [
+          { "pmid": "39854812", "quote": "Thirty-three RCTs involving 2821 individuals were included." },
+          { "pmid": "39854812", "quote": "Overall meta-analysis results indicated that KD/LCD significantly reduced BW, BMI, and BFP, but not FM, in individuals with a carbohydrate intake of ≤100 g/d." }
+        ]
+      },
+      {
+        "statement": "Una guía europea sobre dieta cetogénica muy baja en calorías (15 estudios) concluyó que, frente a otras intervenciones de pérdida de peso de la misma duración, la VLCKD redujo más peso, masa grasa y circunferencia de cintura.",
+        "outcome": "Pérdida de peso frente a otras intervenciones (VLCKD muy baja en calorías)",
+        "direction": "benefit",
+        "support": [
+          { "pmid": "33882506", "quote": "Of the 645 articles retrieved, 15 studies met the inclusion criteria and were reviewed, revealing 4 main findings." },
+          {
+            "pmid": "33882506",
+            "quote": "when compared with other weight loss interventions of the same duration, the VLCKD showed a major effect on reduction of body weight, fat mass, waist circumference, total cholesterol and triglyceridemia as well as improved insulin resistance."
+          }
+        ]
+      },
+      {
+        "statement": "En esa misma guía, la reducción de glucemia, HbA1c y LDL fue similar a la obtenida con otras intervenciones de pérdida de peso.",
+        "outcome": "Glucemia, HbA1c y LDL frente a otras intervenciones",
+        "direction": "no_difference",
+        "support": [
+          {
+            "pmid": "33882506",
+            "quote": "Third, although the VLCKD also resulted in a significant reduction of glycemia, HbA1c, and LDL cholesterol, these changes were similar to those obtained with other weight loss interventions."
+          }
+        ]
+      },
+      {
+        "statement": "En un ECA de 24 semanas con 120 voluntarios con sobrepeso, la pérdida de peso fue mayor con la dieta cetogénica baja en carbohidratos que con la dieta baja en grasa (-12.9 % frente a -6.7 %), y completó el estudio una mayor proporción (76 % frente a 57 %).",
+        "outcome": "Pérdida de peso y retención a 24 semanas",
+        "direction": "benefit",
+        "support": [
+          { "pmid": "15148063", "quote": "120 overweight, hyperlipidemic volunteers from the community." },
+          { "pmid": "15148063", "quote": "At 24 weeks, weight loss was greater in the low-carbohydrate diet group than in the low-fat diet group (mean change, -12.9% vs. -6.7%; P < 0.001)." },
+          { "pmid": "15148063", "quote": "A greater proportion of the low-carbohydrate diet group than the low-fat diet group completed the study (76% vs. 57%; P = 0.02)." }
+        ]
+      },
+      {
+        "statement": "No todos los datos van en la misma dirección: en un ensayo cruzado hospitalario de 20 adultos, la dieta baja en grasa basada en plantas llevó a menor ingesta de energía ad libitum que la dieta cetogénica (689 ± 73 kcal menos en 2 semanas); es un efecto a muy corto plazo sobre la ingesta, no sobre el peso sostenido.",
+        "outcome": "Ingesta energética ad libitum a corto plazo",
+        "direction": "unclear",
+        "support": [
+          { "pmid": "33479499", "quote": "20 adults aged 29.9 ± 1.4 (mean ± s.e.m.) years with body mass index of 27.8 ± 1.3 kg" },
+          { "pmid": "33479499", "quote": "We found that the low-fat diet led to 689 ± 73 kcal dless energy intake than the low-carbohydrate diet over 2 weeks (P < 0.0001)" }
+        ]
+      },
+      {
+        "statement": "Una revisión de revisiones (23 meta-análisis) concluyó que la fuerza de la evidencia sobre las asociaciones de la dieta cetogénica con distintos desenlaces de salud fue en general débil.",
+        "outcome": "Solidez global de la evidencia (umbrella review)",
+        "direction": "unclear",
+        "support": [
+          { "pmid": "37836444", "quote": "which yielded 23 meta-analyses for quantitative analyses" },
+          { "pmid": "37836444", "quote": "However, the strength of evidence supporting the aforementioned associations was generally weak, thereby challenging their credibility." }
+        ]
+      }
+    ],
+    "paraclinical": [
+      {
+        "parameter": "Triglicéridos",
+        "observation": "Disminuyeron con la VLCKD frente a la dieta baja en grasa en el meta-análisis a largo plazo.",
+        "support": [{ "pmid": "23651522", "quote": "TAG (weighted mean difference -0·18 (95% CI -0·27, -0·08) mmol/l, 1258 patients)" }]
+      },
+      {
+        "parameter": "HDL-C y LDL-C",
+        "observation": "Aumentaron tanto el HDL-C como el LDL-C con la VLCKD.",
+        "support": [
+          {
+            "pmid": "23651522",
+            "quote": "while increased HDL-C(weighted mean difference 0·09 (95% CI 0·06, 0·12) mmol/l, 1257 patients) and LDL-C (weighted mean difference 0·12 (95% CI 0·04,0·2) mmol/l, 1255 patients)."
+          }
+        ]
+      },
+      {
+        "parameter": "Perfil lipídico (revisión de revisiones)",
+        "observation": "La revisión de revisiones sugiere que la dieta cetogénica podría aumentar LDL-C, colesterol total y HDL-C.",
+        "support": [
+          {
+            "pmid": "37836444",
+            "quote": "The evidence suggests that KD could increase the levels of low-density lipoprotein cholesterol (LDL-C), total cholesterol (TC) and high-density lipoprotein cholesterol (HDL-C)"
+          }
+        ]
+      }
+    ],
+    "certainty": {
+      "reportedGrade": [],
+      "limitations": [
+        {
+          "text": "Alta heterogeneidad estadística por diferencias en las intervenciones y en las características de los participantes.",
+          "support": { "pmid": "39854812", "quote": "High statistical heterogeneity was noted because of variations in interventions and participant characteristics." }
+        },
+        {
+          "text": "Se necesitan ECA multicéntricos para mejorar la generalización de los hallazgos.",
+          "support": { "pmid": "39854812", "quote": "Further multicentre or multicountry RCTs are needed to improve the generalisability of our findings." }
+        },
+        {
+          "text": "El ECA de 24 semanas incluyó participantes sanos con seguimiento corto, lo que limita la generalización al mantenimiento a largo plazo.",
+          "support": { "pmid": "15148063", "quote": "In addition, participants were healthy and were followed for only 24 weeks." }
+        },
+        {
+          "text": "La solidez global de la evidencia sobre dieta cetogénica fue débil en la revisión de revisiones.",
+          "support": { "pmid": "37836444", "quote": "However, the strength of evidence supporting the aforementioned associations was generally weak, thereby challenging their credibility." }
+        }
+      ]
+    },
+    "applicability": {
+      "summary": "Para una mujer de 42 años con IMC 33 kg/m² sin diabetes y dificultad para mantener la pérdida de peso, la evidencia sugiere mayor pérdida de peso con dietas cetogénicas o muy bajas en carbohidratos que con dietas bajas en grasa, con una diferencia modesta a 12 meses o más y heterogeneidad alta; un ECA corto mostró mejor retención. La evidencia sobre mantenimiento sostenido es limitada, y hay cambios lipídicos (aumento de LDL-C y HDL-C, descenso de triglicéridos) y efectos adversos menores a considerar. Cualquier decisión debe individualizarse con un profesional; esta síntesis no es una indicación.",
+      "safetyConcerns": [
+        {
+          "text": "Aumento de LDL-C con la VLCKD frente a la dieta baja en grasa en el meta-análisis a largo plazo.",
+          "support": { "pmid": "23651522", "quote": "and LDL-C (weighted mean difference 0·12 (95% CI 0·04,0·2) mmol/l, 1255 patients)." }
+        },
+        {
+          "text": "Efectos adversos menores más frecuentes con la dieta baja en carbohidratos en un ECA de 24 semanas.",
+          "support": { "pmid": "15148063", "quote": "Minor adverse effects were more frequent in the low-carbohydrate diet group." }
+        },
+        {
+          "text": "Un participante abandonó por hipoglucemia durante la dieta baja en carbohidratos en un ensayo cruzado pequeño.",
+          "support": { "pmid": "33479499", "quote": "One participant withdrew due to hypoglycemia during the low-carbohydrate diet." }
+        }
+      ],
+      "monitoring": [
+        {
+          "text": "Los cambios lipídicos reportados (aumento de LDL-C y HDL-C, descenso de triglicéridos) apoyan vigilar el perfil lipídico.",
+          "support": { "pmid": "23651522", "quote": "while increased HDL-C(weighted mean difference 0·09 (95% CI 0·06, 0·12) mmol/l, 1257 patients) and LDL-C (weighted mean difference 0·12 (95% CI 0·04,0·2) mmol/l, 1255 patients)." }
+        },
+        {
+          "text": "La guía europea condiciona la seguridad a la supervisión de un profesional de la salud.",
+          "support": { "pmid": "33882506", "quote": "the VLCKD can be considered a safe nutritional approach under a health professional's supervision" }
+        }
+      ]
+    },
+    "evidenceGaps": [
+      "Hay pocos datos sobre el mantenimiento del peso más allá de 12 meses y sobre la adherencia a largo plazo.",
+      "Los abstracts seleccionados no reportan cetonemia (β-hidroxibutirato) de forma sistemática.",
+      "Las intervenciones llamadas «cetogénicas» son heterogéneas (VLCKD, dietas bajas en carbohidratos, dietas muy bajas en calorías), lo que dificulta comparar y combinar estudios."
+    ]
+  }
+}

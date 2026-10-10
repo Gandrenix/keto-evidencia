@@ -1,0 +1,526 @@
+{
+  "caseId": "A",
+  "generatedAt": "2026-10-10T03:53:27.284Z",
+  "source": "assistant-authored",
+  "model": "claude-sonnet-5-5 (sesión de desarrollo, asistido)",
+  "reviewedBy": null,
+  "searchLog": {
+    "executedAt": "2026-10-10T03:48:24.668Z",
+    "database": "PubMed",
+    "query": "(obesity OR \"Obesity\"[Mesh] OR overweight) AND (\"ketogenic diet\" OR \"ketogenic dietary therapy\" OR \"Diet, Ketogenic\"[Mesh] OR \"very low carbohydrate ketogenic diet\") AND (\"systematic review\" OR \"meta-analysis\" OR \"randomized controlled trial\")",
+    "queryTranslation": "(\"obeses\"[All Fields] OR \"Obesity\"[MeSH Terms] OR \"Obesity\"[All Fields] OR \"obese\"[All Fields] OR \"obesities\"[All Fields] OR \"obesity s\"[All Fields] OR \"Obesity\"[MeSH Terms] OR (\"overweight\"[MeSH Terms] OR \"overweight\"[All Fields] OR \"overweighted\"[All Fields] OR \"overweightness\"[All Fields] OR \"overweights\"[All Fields])) AND (\"ketogenic diet\"[All Fields] OR \"ketogenic dietary therapy\"[All Fields] OR \"diet, ketogenic\"[MeSH Terms] OR \"very low carbohydrate ketogenic diet\"[All Fields]) AND (\"systematic review\"[All Fields] OR \"meta-analysis\"[All Fields] OR \"randomized controlled trial\"[All Fields])",
+    "totalCount": 175
+  },
+  "records": [
+    {
+      "pmid": "23651522",
+      "title": "Very-low-carbohydrate ketogenic diet v. low-fat diet for long-term weight loss: a meta-analysis of randomised controlled trials.",
+      "authors": [
+        "Bueno NB",
+        "de Melo IS",
+        "de Oliveira SL",
+        "da Rocha Ataide T"
+      ],
+      "firstAuthor": "Bueno NB",
+      "year": "2013",
+      "journal": "The British journal of nutrition",
+      "doi": "10.1017/S0007114513000548",
+      "pmcid": null,
+      "pubTypes": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "The role of very-low-carbohydrate ketogenic diets (VLCKD) in the long-term management of obesity is not well established. The present meta-analysis aimed to investigate whether individuals assigned to a VLCKD (i.e. a diet with no more than 50 g carbohydrates/d) achieve better long-term body weight and cardiovascular risk factor management when compared with individuals assigned to a conventional low-fat diet (LFD; i.e. a restricted-energy diet with less than 30% of energy from fat). Through August 2012, MEDLINE, CENTRAL, ScienceDirect,Scopus, LILACS, SciELO, ClinicalTrials.gov and grey literature databases were searched, using no date or language restrictions, for randomised controlled trials that assigned adults to a VLCKD or a LFD, with 12 months or more of follow-up. The primary outcome was bodyweight. The secondary outcomes were TAG, HDL-cholesterol (HDL-C), LDL-cholesterol (LDL-C), systolic and diastolic blood pressure,glucose, insulin, HbA1c and C-reactive protein levels. A total of thirteen studies met the inclusion/exclusion criteria. In the overall analysis,five outcomes revealed significant results. Individuals assigned to a VLCKD showed decreased body weight (weighted mean difference -0·91 (95% CI -1·65, -0·17) kg, 1415 patients), TAG (weighted mean difference -0·18 (95% CI -0·27, -0·08) mmol/l, 1258 patients)and diastolic blood pressure (weighted mean difference -1·43 (95% CI -2·49, -0·37) mmHg, 1298 patients) while increased HDL-C(weighted mean difference 0·09 (95% CI 0·06, 0·12) mmol/l, 1257 patients) and LDL-C (weighted mean difference 0·12 (95% CI 0·04,0·2) mmol/l, 1255 patients). Individuals assigned to a VLCKD achieve a greater weight loss than those assigned to a LFD in the longterm; hence, a VLCKD may be an alternative tool against obesity."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "39854812",
+      "title": "Effects of ketogenic and low-carbohydrate diets on the body composition of adults with overweight or obesity: A systematic review and meta-analysis of randomised controlled trials.",
+      "authors": [
+        "Leung LY",
+        "Tam HL",
+        "Ho JK"
+      ],
+      "firstAuthor": "Leung LY",
+      "year": "2025",
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "doi": "10.1016/j.clnu.2025.01.017",
+      "pmcid": null,
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND AND AIMS",
+          "text": "More than one-third of individuals are overweight and obese in the world. Their risks of chronic health conditions are increased, which places additional burden on their family, caregivers, and healthcare system. Dietary modification is widely used for overweight and obese individuals. We investigated the effects of ketogenic diet (KD) and low-carbohydrate diet (LCD) in improving body weight (BW), body mass index (BMI), fat mass (FM), and body fat percentage (BFP) in overweight or obese individuals."
+        },
+        {
+          "label": "METHODS",
+          "text": "A three-step approach was adopted for searching relevant randomised controlled trials (RCTs) across five electronic databases. Two reviewers conducted the screening, review, and quality appraisal independently. A random-effects model was used because of variations in intervention and participant characteristics. Sensitivity and subgroup analyses were conducted to assess heterogeneity and variations in the results, respectively."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Thirty-three RCTs involving 2821 individuals were included. Overall meta-analysis results indicated that KD/LCD significantly reduced BW, BMI, and BFP, but not FM, in individuals with a carbohydrate intake of ≤100 g/d. Subgroup analyses revealed significant improvements in BW, BMI, and FM in individuals on KD/LCD for ≥1 month and in all parameters for those with a carbohydrate intake of ≤50 g/d. High statistical heterogeneity was noted because of variations in interventions and participant characteristics."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "Adults with overweight or obesity should consume KD/LCD for ≥1 month and limit carbohydrate intake to ≤50 g/d. Further multicentre or multicountry RCTs are needed to improve the generalisability of our findings. We recommend integrating text messaging and evidence-based information to support interventions and ensuring stringent medical supervision throughout the intervention."
+        },
+        {
+          "label": "PROSPERO REGISTRATION NUMBER",
+          "text": "CRD42022353074."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "33882506",
+      "title": "European Guidelines for Obesity Management in Adults with a Very Low-Calorie Ketogenic Diet: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Muscogiuri G",
+        "El Ghoch M",
+        "Colao A",
+        "Hassapidou M",
+        "Yumuk V",
+        "Busetto L",
+        "Obesity Management Task Force (OMTF) of the European Association for the Study of Obesity (EASO)"
+      ],
+      "firstAuthor": "Muscogiuri G",
+      "year": "2021",
+      "journal": "Obesity facts",
+      "doi": "10.1159/000515381",
+      "pmcid": "PMC8138199",
+      "pubTypes": [
+        "Meta-Analysis",
+        "Practice Guideline",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "The very low-calorie ketogenic diet (VLCKD) has been recently proposed as an appealing nutritional strategy for obesity management. The VLCKD is characterized by a low carbohydrate content (<50 g/day), 1-1.5 g of protein/kg of ideal body weight, 15-30 g of fat/day, and a daily intake of about 500-800 calories."
+        },
+        {
+          "label": "OBJECTIVES",
+          "text": "The aim of the current document is to suggest a common protocol for VLCKD and to summarize the existing literature on its efficacy in weight management and weight-related comorbidities, as well as the possible side effects."
+        },
+        {
+          "label": "METHODS",
+          "text": "This document has been prepared in adherence with Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) guidelines. Literature searches, study selection, methodology development, and quality appraisal were performed independently by 2 authors and the data were collated by means of a meta-analysis and narrative synthesis."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Of the 645 articles retrieved, 15 studies met the inclusion criteria and were reviewed, revealing 4 main findings. First, the VLCKD was shown to result in a significant weight loss in the short, intermediate, and long terms and improvement in body composition parameters as well as glycemic and lipid profiles. Second, when compared with other weight loss interventions of the same duration, the VLCKD showed a major effect on reduction of body weight, fat mass, waist circumference, total cholesterol and triglyceridemia as well as improved insulin resistance. Third, although the VLCKD also resulted in a significant reduction of glycemia, HbA1c, and LDL cholesterol, these changes were similar to those obtained with other weight loss interventions. Finally, the VLCKD can be considered a safe nutritional approach under a health professional's supervision since the most common side effects are usually clinically mild and easily to manage and recovery is often spontaneous."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "The VLCKD can be recommended as an effective dietary treatment for individuals with obesity after considering potential contra-indications and keeping in mind that any dietary treatment has to be personalized. Prospero Registry: The assessment of the efficacy of VLCKD on body weight, body composition, glycemic and lipid parameters in overweight and obese subjects: a meta-analysis (CRD42020205189)."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "15148063",
+      "title": "A low-carbohydrate, ketogenic diet versus a low-fat diet to treat obesity and hyperlipidemia: a randomized, controlled trial.",
+      "authors": [
+        "Yancy WS",
+        "Olsen MK",
+        "Guyton JR",
+        "Bakst RP",
+        "Westman EC"
+      ],
+      "firstAuthor": "Yancy WS",
+      "year": "2004",
+      "journal": "Annals of internal medicine",
+      "doi": "10.7326/0003-4819-140-10-200405180-00006",
+      "pmcid": null,
+      "pubTypes": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Low-carbohydrate diets remain popular despite a paucity of scientific evidence on their effectiveness."
+        },
+        {
+          "label": "OBJECTIVE",
+          "text": "To compare the effects of a low-carbohydrate, ketogenic diet program with those of a low-fat, low-cholesterol, reduced-calorie diet."
+        },
+        {
+          "label": "DESIGN",
+          "text": "Randomized, controlled trial."
+        },
+        {
+          "label": "SETTING",
+          "text": "Outpatient research clinic."
+        },
+        {
+          "label": "PARTICIPANTS",
+          "text": "120 overweight, hyperlipidemic volunteers from the community."
+        },
+        {
+          "label": "INTERVENTION",
+          "text": "Low-carbohydrate diet (initially, <20 g of carbohydrate daily) plus nutritional supplementation, exercise recommendation, and group meetings, or low-fat diet (<30% energy from fat, <300 mg of cholesterol daily, and deficit of 500 to 1000 kcal/d) plus exercise recommendation and group meetings."
+        },
+        {
+          "label": "MEASUREMENTS",
+          "text": "Body weight, body composition, fasting serum lipid levels, and tolerability."
+        },
+        {
+          "label": "RESULTS",
+          "text": "A greater proportion of the low-carbohydrate diet group than the low-fat diet group completed the study (76% vs. 57%; P = 0.02). At 24 weeks, weight loss was greater in the low-carbohydrate diet group than in the low-fat diet group (mean change, -12.9% vs. -6.7%; P < 0.001). Patients in both groups lost substantially more fat mass (change, -9.4 kg with the low-carbohydrate diet vs. -4.8 kg with the low-fat diet) than fat-free mass (change, -3.3 kg vs. -2.4 kg, respectively). Compared with recipients of the low-fat diet, recipients of the low-carbohydrate diet had greater decreases in serum triglyceride levels (change, -0.84 mmol/L vs. -0.31 mmol/L [-74.2 mg/dL vs. -27.9 mg/dL]; P = 0.004) and greater increases in high-density lipoprotein cholesterol levels (0.14 mmol/L vs. -0.04 mmol/L [5.5 mg/dL vs. -1.6 mg/dL]; P < 0.001). Changes in low-density lipoprotein cholesterol level did not differ statistically (0.04 mmol/L [1.6 mg/dL] with the low-carbohydrate diet and -0.19 mmol/L [-7.4 mg/dL] with the low-fat diet; P = 0.2). Minor adverse effects were more frequent in the low-carbohydrate diet group."
+        },
+        {
+          "label": "LIMITATIONS",
+          "text": "We could not definitively distinguish effects of the low-carbohydrate diet and those of the nutritional supplements provided only to that group. In addition, participants were healthy and were followed for only 24 weeks. These factors limit the generalizability of the study results."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "Compared with a low-fat diet, a low-carbohydrate diet program had better participant retention and greater weight loss. During active weight loss, serum triglyceride levels decreased more and high-density lipoprotein cholesterol level increased more with the low-carbohydrate diet than with the low-fat diet."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "33479499",
+      "title": "Effect of a plant-based, low-fat diet versus an animal-based, ketogenic diet on ad libitum energy intake.",
+      "authors": [
+        "Hall KD",
+        "Guo J",
+        "Courville AB",
+        "Boring J",
+        "Brychta R",
+        "Chen KY",
+        "Darcey V",
+        "Forde CG",
+        "Gharib AM",
+        "Gallagher I",
+        "Howard R",
+        "Joseph PV",
+        "Milley L",
+        "Ouwerkerk R",
+        "Raisinger K",
+        "Rozga I",
+        "Schick A",
+        "Stagliano M",
+        "Torres S",
+        "Walter M",
+        "Walter P",
+        "Yang S",
+        "Chung ST"
+      ],
+      "firstAuthor": "Hall KD",
+      "year": "2021",
+      "journal": "Nature medicine",
+      "doi": "10.1038/s41591-020-01209-1",
+      "pmcid": null,
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "-2-1-1-1-1The carbohydrate-insulin model of obesity posits that high-carbohydrate diets lead to excess insulin secretion, thereby promoting fat accumulation and increasing energy intake. Thus, low-carbohydrate diets are predicted to reduce ad libitum energy intake as compared to low-fat, high-carbohydrate diets. To test this hypothesis, 20 adults aged 29.9 ± 1.4 (mean ± s.e.m.) years with body mass index of 27.8 ± 1.3 kg mwere admitted as inpatients to the National Institutes of Health Clinical Center and randomized to consume ad libitum either a minimally processed, plant-based, low-fat diet (10.3% fat, 75.2% carbohydrate) with high glycemic load (85 g 1,000 kcal) or a minimally processed, animal-based, ketogenic, low-carbohydrate diet (75.8% fat, 10.0% carbohydrate) with low glycemic load (6 g 1,000 kcal) for 2 weeks followed immediately by the alternate diet for 2 weeks. One participant withdrew due to hypoglycemia during the low-carbohydrate diet. The primary outcomes compared mean daily ad libitum energy intake between each 2-week diet period as well as between the final week of each diet. We found that the low-fat diet led to 689 ± 73 kcal dless energy intake than the low-carbohydrate diet over 2 weeks (P < 0.0001) and 544 ± 68 kcal dless over the final week (P < 0.0001). Therefore, the predictions of the carbohydrate-insulin model were inconsistent with our observations. This study was registered on ClinicalTrials.gov as NCT03878108 ."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "37836444",
+      "title": "Ketogenic Diet and Multiple Health Outcomes: An Umbrella Review of Meta-Analysis.",
+      "authors": [
+        "Chen S",
+        "Su X",
+        "Feng Y",
+        "Li R",
+        "Liao M",
+        "Fan L",
+        "Liu J",
+        "Chen S",
+        "Zhang S",
+        "Cai J",
+        "Zhu S",
+        "Niu J",
+        "Ye Y",
+        "Lo K",
+        "Zeng F"
+      ],
+      "firstAuthor": "Chen S",
+      "year": "2023",
+      "journal": "Nutrients",
+      "doi": "10.3390/nu15194161",
+      "pmcid": "PMC10574428",
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión de revisiones (umbrella)",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "pNumerous studies have examined the effects of ketogenic diets (KD) on health-related outcomes through meta-analyses. However, the presence of biases may compromise the reliability of conclusions. Therefore, we conducted an umbrella review to collate and appraise the strength of evidence on the efficacy of KD interventions. We conducted a comprehensive search on PubMed, EMBASE, and the Cochrane Database until April 2023 to identify meta-analyses that investigated the treatment effects of KD for multiple health conditions, which yielded 23 meta-analyses for quantitative analyses. The evidence suggests that KD could increase the levels of low-density lipoprotein cholesterol (LDL-C), total cholesterol (TC) and high-density lipoprotein cholesterol (HDL-C), the respiratory exchange rate (RER), and could decrease total testosterone and testosterone levels (all-random effects: <0.05). The combination of KD and physical activity can significantly reduce body weight and increase the levels of LDL-C and cortisol. In addition, KD was associated with seizure reduction in children, which can be explained by the ketosis state as induced by the diet. Furthermore, KD demonstrated a better alleviation effect in refractory childhood epilepsy, in terms of median effective rates for seizure reduction of ≥50%, ≥90%, and seizure freedom. However, the strength of evidence supporting the aforementioned associations was generally weak, thereby challenging their credibility. Consequently, future studies should prioritize stringent research protocols to ascertain whether KD interventions with longer intervention periods hold promise as a viable treatment option for various diseases."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    }
+  ],
+  "synthesis": {
+    "stance": "mixed",
+    "stanceRationale": "Los meta-análisis muestran mayor pérdida de peso con dietas cetogénicas o muy bajas en carbohidratos que con dietas bajas en grasa, incluso a 12 meses o más, pero la diferencia a largo plazo es pequeña, hay heterogeneidad alta, hay cambios lipídicos a vigilar y la evidencia sobre el mantenimiento sostenido es limitada.",
+    "findings": [
+      {
+        "statement": "Un meta-análisis de ECA con seguimiento de 12 meses o más encontró que la dieta cetogénica muy baja en carbohidratos (VLCKD) redujo más el peso que la dieta baja en grasa: diferencia media ponderada -0·91 kg (IC 95 % -1·65 a -0·17) en 1415 pacientes.",
+        "outcome": "Pérdida de peso a largo plazo (≥12 meses)",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "23651522",
+            "quote": "for randomised controlled trials that assigned adults to a VLCKD or a LFD, with 12 months or more of follow-up."
+          },
+          {
+            "pmid": "23651522",
+            "quote": "Individuals assigned to a VLCKD showed decreased body weight (weighted mean difference -0·91 (95% CI -1·65, -0·17) kg, 1415 patients)"
+          }
+        ]
+      },
+      {
+        "statement": "Otro meta-análisis de ECA (2821 personas) halló que la dieta cetogénica o baja en carbohidratos redujo peso, IMC y porcentaje de grasa corporal, pero no la masa grasa, en quienes consumían 100 g/d de carbohidratos o menos, con alta heterogeneidad estadística.",
+        "outcome": "Composición corporal en adultos con sobrepeso u obesidad",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "39854812",
+            "quote": "Thirty-three RCTs involving 2821 individuals were included."
+          },
+          {
+            "pmid": "39854812",
+            "quote": "Overall meta-analysis results indicated that KD/LCD significantly reduced BW, BMI, and BFP, but not FM, in individuals with a carbohydrate intake of ≤100 g/d."
+          }
+        ]
+      },
+      {
+        "statement": "Una guía europea sobre dieta cetogénica muy baja en calorías (15 estudios) concluyó que, frente a otras intervenciones de pérdida de peso de la misma duración, la VLCKD redujo más peso, masa grasa y circunferencia de cintura.",
+        "outcome": "Pérdida de peso frente a otras intervenciones (VLCKD muy baja en calorías)",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "33882506",
+            "quote": "Of the 645 articles retrieved, 15 studies met the inclusion criteria and were reviewed, revealing 4 main findings."
+          },
+          {
+            "pmid": "33882506",
+            "quote": "when compared with other weight loss interventions of the same duration, the VLCKD showed a major effect on reduction of body weight, fat mass, waist circumference, total cholesterol and triglyceridemia as well as improved insulin resistance."
+          }
+        ]
+      },
+      {
+        "statement": "En esa misma guía, la reducción de glucemia, HbA1c y LDL fue similar a la obtenida con otras intervenciones de pérdida de peso.",
+        "outcome": "Glucemia, HbA1c y LDL frente a otras intervenciones",
+        "direction": "no_difference",
+        "support": [
+          {
+            "pmid": "33882506",
+            "quote": "Third, although the VLCKD also resulted in a significant reduction of glycemia, HbA1c, and LDL cholesterol, these changes were similar to those obtained with other weight loss interventions."
+          }
+        ]
+      },
+      {
+        "statement": "En un ECA de 24 semanas con 120 voluntarios con sobrepeso, la pérdida de peso fue mayor con la dieta cetogénica baja en carbohidratos que con la dieta baja en grasa (-12.9 % frente a -6.7 %), y completó el estudio una mayor proporción (76 % frente a 57 %).",
+        "outcome": "Pérdida de peso y retención a 24 semanas",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "15148063",
+            "quote": "120 overweight, hyperlipidemic volunteers from the community."
+          },
+          {
+            "pmid": "15148063",
+            "quote": "At 24 weeks, weight loss was greater in the low-carbohydrate diet group than in the low-fat diet group (mean change, -12.9% vs. -6.7%; P < 0.001)."
+          },
+          {
+            "pmid": "15148063",
+            "quote": "A greater proportion of the low-carbohydrate diet group than the low-fat diet group completed the study (76% vs. 57%; P = 0.02)."
+          }
+        ]
+      },
+      {
+        "statement": "No todos los datos van en la misma dirección: en un ensayo cruzado hospitalario de 20 adultos, la dieta baja en grasa basada en plantas llevó a menor ingesta de energía ad libitum que la dieta cetogénica (689 ± 73 kcal menos en 2 semanas); es un efecto a muy corto plazo sobre la ingesta, no sobre el peso sostenido.",
+        "outcome": "Ingesta energética ad libitum a corto plazo",
+        "direction": "unclear",
+        "support": [
+          {
+            "pmid": "33479499",
+            "quote": "20 adults aged 29.9 ± 1.4 (mean ± s.e.m.) years with body mass index of 27.8 ± 1.3 kg"
+          },
+          {
+            "pmid": "33479499",
+            "quote": "We found that the low-fat diet led to 689 ± 73 kcal dless energy intake than the low-carbohydrate diet over 2 weeks (P < 0.0001)"
+          }
+        ]
+      },
+      {
+        "statement": "Una revisión de revisiones (23 meta-análisis) concluyó que la fuerza de la evidencia sobre las asociaciones de la dieta cetogénica con distintos desenlaces de salud fue en general débil.",
+        "outcome": "Solidez global de la evidencia (umbrella review)",
+        "direction": "unclear",
+        "support": [
+          {
+            "pmid": "37836444",
+            "quote": "which yielded 23 meta-analyses for quantitative analyses"
+          },
+          {
+            "pmid": "37836444",
+            "quote": "However, the strength of evidence supporting the aforementioned associations was generally weak, thereby challenging their credibility."
+          }
+        ]
+      }
+    ],
+    "paraclinical": [
+      {
+        "parameter": "Triglicéridos",
+        "observation": "Disminuyeron con la VLCKD frente a la dieta baja en grasa en el meta-análisis a largo plazo.",
+        "support": [
+          {
+            "pmid": "23651522",
+            "quote": "TAG (weighted mean difference -0·18 (95% CI -0·27, -0·08) mmol/l, 1258 patients)"
+          }
+        ]
+      },
+      {
+        "parameter": "HDL-C y LDL-C",
+        "observation": "Aumentaron tanto el HDL-C como el LDL-C con la VLCKD.",
+        "support": [
+          {
+            "pmid": "23651522",
+            "quote": "while increased HDL-C(weighted mean difference 0·09 (95% CI 0·06, 0·12) mmol/l, 1257 patients) and LDL-C (weighted mean difference 0·12 (95% CI 0·04,0·2) mmol/l, 1255 patients)."
+          }
+        ]
+      },
+      {
+        "parameter": "Perfil lipídico (revisión de revisiones)",
+        "observation": "La revisión de revisiones sugiere que la dieta cetogénica podría aumentar LDL-C, colesterol total y HDL-C.",
+        "support": [
+          {
+            "pmid": "37836444",
+            "quote": "The evidence suggests that KD could increase the levels of low-density lipoprotein cholesterol (LDL-C), total cholesterol (TC) and high-density lipoprotein cholesterol (HDL-C)"
+          }
+        ]
+      }
+    ],
+    "certainty": {
+      "reportedGrade": [],
+      "limitations": [
+        {
+          "text": "Alta heterogeneidad estadística por diferencias en las intervenciones y en las características de los participantes.",
+          "support": {
+            "pmid": "39854812",
+            "quote": "High statistical heterogeneity was noted because of variations in interventions and participant characteristics."
+          }
+        },
+        {
+          "text": "Se necesitan ECA multicéntricos para mejorar la generalización de los hallazgos.",
+          "support": {
+            "pmid": "39854812",
+            "quote": "Further multicentre or multicountry RCTs are needed to improve the generalisability of our findings."
+          }
+        },
+        {
+          "text": "El ECA de 24 semanas incluyó participantes sanos con seguimiento corto, lo que limita la generalización al mantenimiento a largo plazo.",
+          "support": {
+            "pmid": "15148063",
+            "quote": "In addition, participants were healthy and were followed for only 24 weeks."
+          }
+        },
+        {
+          "text": "La solidez global de la evidencia sobre dieta cetogénica fue débil en la revisión de revisiones.",
+          "support": {
+            "pmid": "37836444",
+            "quote": "However, the strength of evidence supporting the aforementioned associations was generally weak, thereby challenging their credibility."
+          }
+        }
+      ]
+    },
+    "applicability": {
+      "summary": "Para una mujer de 42 años con IMC 33 kg/m² sin diabetes y dificultad para mantener la pérdida de peso, la evidencia sugiere mayor pérdida de peso con dietas cetogénicas o muy bajas en carbohidratos que con dietas bajas en grasa, con una diferencia modesta a 12 meses o más y heterogeneidad alta; un ECA corto mostró mejor retención. La evidencia sobre mantenimiento sostenido es limitada, y hay cambios lipídicos (aumento de LDL-C y HDL-C, descenso de triglicéridos) y efectos adversos menores a considerar. Cualquier decisión debe individualizarse con un profesional; esta síntesis no es una indicación.",
+      "safetyConcerns": [
+        {
+          "text": "Aumento de LDL-C con la VLCKD frente a la dieta baja en grasa en el meta-análisis a largo plazo.",
+          "support": {
+            "pmid": "23651522",
+            "quote": "and LDL-C (weighted mean difference 0·12 (95% CI 0·04,0·2) mmol/l, 1255 patients)."
+          }
+        },
+        {
+          "text": "Efectos adversos menores más frecuentes con la dieta baja en carbohidratos en un ECA de 24 semanas.",
+          "support": {
+            "pmid": "15148063",
+            "quote": "Minor adverse effects were more frequent in the low-carbohydrate diet group."
+          }
+        },
+        {
+          "text": "Un participante abandonó por hipoglucemia durante la dieta baja en carbohidratos en un ensayo cruzado pequeño.",
+          "support": {
+            "pmid": "33479499",
+            "quote": "One participant withdrew due to hypoglycemia during the low-carbohydrate diet."
+          }
+        }
+      ],
+      "monitoring": [
+        {
+          "text": "Los cambios lipídicos reportados (aumento de LDL-C y HDL-C, descenso de triglicéridos) apoyan vigilar el perfil lipídico.",
+          "support": {
+            "pmid": "23651522",
+            "quote": "while increased HDL-C(weighted mean difference 0·09 (95% CI 0·06, 0·12) mmol/l, 1257 patients) and LDL-C (weighted mean difference 0·12 (95% CI 0·04,0·2) mmol/l, 1255 patients)."
+          }
+        },
+        {
+          "text": "La guía europea condiciona la seguridad a la supervisión de un profesional de la salud.",
+          "support": {
+            "pmid": "33882506",
+            "quote": "the VLCKD can be considered a safe nutritional approach under a health professional's supervision"
+          }
+        }
+      ]
+    },
+    "evidenceGaps": [
+      "Hay pocos datos sobre el mantenimiento del peso más allá de 12 meses y sobre la adherencia a largo plazo.",
+      "Los abstracts seleccionados no reportan cetonemia (β-hidroxibutirato) de forma sistemática.",
+      "Las intervenciones llamadas «cetogénicas» son heterogéneas (VLCKD, dietas bajas en carbohidratos, dietas muy bajas en calorías), lo que dificulta comparar y combinar estudios."
+    ]
+  }
+}

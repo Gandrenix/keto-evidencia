@@ -1,0 +1,4 @@
+Health Icons — https://healthicons.org
+Autor: Resolve to Save Lives. Licencia MIT.
+https://github.com/resolvetosavelives/healthicons/blob/main/LICENSE
+Obtenidos vía la API pública de Iconify (https://iconify.design).

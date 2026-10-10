@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="KetoEvidencia">
+  <rect width="64" height="64" rx="14" fill="#06101e"/>
+  <path d="M32 8.5 52.4 20.2v23.6L32 55.5 11.6 43.8V20.2z" fill="none" stroke="#1fddba" stroke-width="3.2" stroke-linejoin="round"/>
+  <path d="M32 21 41 38H23z" fill="#1fddba"/>
+  <path d="M26.5 43h11" stroke="#f5b93a" stroke-width="3.2" stroke-linecap="round"/>
+</svg>

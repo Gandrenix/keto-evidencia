@@ -1,0 +1,41 @@
+{
+  "name": "keto-evidencia",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "case:fetch": "node --experimental-strip-types scripts/fetch-case.ts",
+    "snapshots:check": "node --experimental-strip-types scripts/check-snapshots.ts",
+    "pmids:verify": "node --experimental-strip-types scripts/verify-pmids.ts",
+    "secrets:check": "node --experimental-strip-types scripts/check-secrets.ts",
+    "llm:probe": "node --env-file=.env --experimental-transform-types scripts/probe-llm.ts"
+  },
+  "dependencies": {
+    "@fontsource-variable/atkinson-hyperlegible-next": "5.3.0",
+    "@fontsource-variable/bricolage-grotesque": "5.3.0",
+    "@fontsource-variable/jetbrains-mono": "5.3.0",
+    "fast-xml-parser": "5.11.2",
+    "lucide-react": "1.54.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@netlify/functions": "6.0.2",
+    "@tailwindcss/vite": "4.3.3",
+    "@types/node": "26.6.5",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.1.2",
+    "tailwindcss": "4.3.3",
+    "typescript": "7.0.2",
+    "vite": "8.3.4",
+    "vitest": "5.0.3"
+  }
+}

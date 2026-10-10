@@ -1,0 +1,926 @@
+{
+  "query": "(obesity OR \"Obesity\"[Mesh] OR overweight) AND (\"ketogenic diet\" OR \"ketogenic dietary therapy\" OR \"Diet, Ketogenic\"[Mesh] OR \"very low carbohydrate ketogenic diet\") AND (\"systematic review\" OR \"meta-analysis\" OR \"randomized controlled trial\")",
+  "queryTranslation": "(\"obeses\"[All Fields] OR \"Obesity\"[MeSH Terms] OR \"Obesity\"[All Fields] OR \"obese\"[All Fields] OR \"obesities\"[All Fields] OR \"obesity s\"[All Fields] OR \"Obesity\"[MeSH Terms] OR (\"overweight\"[MeSH Terms] OR \"overweight\"[All Fields] OR \"overweighted\"[All Fields] OR \"overweightness\"[All Fields] OR \"overweights\"[All Fields])) AND (\"ketogenic diet\"[All Fields] OR \"ketogenic dietary therapy\"[All Fields] OR \"diet, ketogenic\"[MeSH Terms] OR \"very low carbohydrate ketogenic diet\"[All Fields]) AND (\"systematic review\"[All Fields] OR \"meta-analysis\"[All Fields] OR \"randomized controlled trial\"[All Fields])",
+  "totalCount": 175,
+  "executedAt": "2026-10-10T03:48:24.668Z",
+  "records": [
+    {
+      "pmid": "36012064",
+      "title": "Ketogenic Diet Benefits to Weight Loss, Glycemic Control, and Lipid Profiles in Overweight Patients with Type 2 Diabetes Mellitus: A Meta-Analysis of Randomized Controlled Trails.",
+      "authors": [
+        "Zhou C",
+        "Wang M",
+        "Liang J",
+        "He G",
+        "Chen N"
+      ],
+      "firstAuthor": "Zhou C",
+      "year": "2022",
+      "journal": "International journal of environmental research and public health",
+      "doi": "10.3390/ijerph191610429",
+      "pmcid": "PMC9408028",
+      "pubTypes": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "pppppA ketogenic diet, characterized by low calories with high levels of fat, adequate levels of protein, and low levels of carbohydrates, has beneficial effects on body weight control in overweight patients. In the present study, a meta-analysis was conducted to investigate the role of a ketogenic diet in body weight control and glycemic management in overweight patients with type 2 diabetes mellitus (T2DM). In summary, we systematically reviewed articles from the Embase, PubMed, Web of Science and Cochrane Library databases and obtained eight randomized controlled trials for meta-analysis. The results show that a ketogenic diet had significantly beneficial effects on the loss of body weight (SMD, -5.63,= 0.008), the reduction of waist circumference (SMD, -2.32,= 0.04), lowering glycated hemoglobin (SMD, -0.38,= 0.0008) and triglycerides (SMD, -0.36,= 0.0001), and increasing high-density lipoproteins (SMD, 0.28,= 0.003). Overall, these results suggest that a ketogenic diet may be an effective dietary intervention for body weight and glycemic control, as well as improved lipid profiles in overweight patients with T2DM. Hence, a ketogenic diet can be recommended for the therapeutic intervention of overweight patients with T2DM."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "33882506",
+      "title": "European Guidelines for Obesity Management in Adults with a Very Low-Calorie Ketogenic Diet: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Muscogiuri G",
+        "El Ghoch M",
+        "Colao A",
+        "Hassapidou M",
+        "Yumuk V",
+        "Busetto L",
+        "Obesity Management Task Force (OMTF) of the European Association for the Study of Obesity (EASO)"
+      ],
+      "firstAuthor": "Muscogiuri G",
+      "year": "2021",
+      "journal": "Obesity facts",
+      "doi": "10.1159/000515381",
+      "pmcid": "PMC8138199",
+      "pubTypes": [
+        "Meta-Analysis",
+        "Practice Guideline",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "The very low-calorie ketogenic diet (VLCKD) has been recently proposed as an appealing nutritional strategy for obesity management. The VLCKD is characterized by a low carbohydrate content (<50 g/day), 1-1.5 g of protein/kg of ideal body weight, 15-30 g of fat/day, and a daily intake of about 500-800 calories."
+        },
+        {
+          "label": "OBJECTIVES",
+          "text": "The aim of the current document is to suggest a common protocol for VLCKD and to summarize the existing literature on its efficacy in weight management and weight-related comorbidities, as well as the possible side effects."
+        },
+        {
+          "label": "METHODS",
+          "text": "This document has been prepared in adherence with Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) guidelines. Literature searches, study selection, methodology development, and quality appraisal were performed independently by 2 authors and the data were collated by means of a meta-analysis and narrative synthesis."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Of the 645 articles retrieved, 15 studies met the inclusion criteria and were reviewed, revealing 4 main findings. First, the VLCKD was shown to result in a significant weight loss in the short, intermediate, and long terms and improvement in body composition parameters as well as glycemic and lipid profiles. Second, when compared with other weight loss interventions of the same duration, the VLCKD showed a major effect on reduction of body weight, fat mass, waist circumference, total cholesterol and triglyceridemia as well as improved insulin resistance. Third, although the VLCKD also resulted in a significant reduction of glycemia, HbA1c, and LDL cholesterol, these changes were similar to those obtained with other weight loss interventions. Finally, the VLCKD can be considered a safe nutritional approach under a health professional's supervision since the most common side effects are usually clinically mild and easily to manage and recovery is often spontaneous."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "The VLCKD can be recommended as an effective dietary treatment for individuals with obesity after considering potential contra-indications and keeping in mind that any dietary treatment has to be personalized. Prospero Registry: The assessment of the efficacy of VLCKD on body weight, body composition, glycemic and lipid parameters in overweight and obese subjects: a meta-analysis (CRD42020205189)."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "39408242",
+      "title": "The Efficacy of Ketogenic Diets (Low Carbohydrate; High Fat) as a Potential Nutritional Intervention for Lipedema: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Amato ACM",
+        "Amato JLS",
+        "Benitti DA"
+      ],
+      "firstAuthor": "Amato ACM",
+      "year": "2024",
+      "journal": "Nutrients",
+      "doi": "10.3390/nu16193276",
+      "pmcid": "PMC11478561",
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Lipedema is a frequently misdiagnosed condition in women, often mistaken for obesity, which significantly deteriorates both quality of life and physical health. Recognizing the necessity for holistic treatment strategies, research has increasingly supported the integration of specific dietary approaches, particularly ketogenic diets focusing on low-carbohydrate and high-fat intake."
+        },
+        {
+          "label": "OBJECTIVES",
+          "text": "to evaluate the impact of ketogenic diets on women with lipedema through a systematic review and meta-analysis."
+        },
+        {
+          "label": "METHODS",
+          "text": "A systematic review and meta-analysis were conducted by reviewing published, peer-reviewed studies addressing the implications of a low-carbohydrate, high-fat (LCHF) ketogenic diet in managing lipedema following comprehensive scrutiny of digital medical databases, such as PubMed, PubMed Central, Science Direct, and the Web of Science. This research was governed by specified parameters, including an established search string composed of search terms and an eligibility criterion (PICO) as denoted by the principal authors. Statistical analysis was carried out using RevMan 5.4.1 software with the Newcastle-Ottawa Scale utilized for quality appraisal of the included studies."
+        },
+        {
+          "label": "RESULTS",
+          "text": "pppppSeven studies reporting statistical outcomes were included in the systematic review and meta-analysis following a rigorous quality appraisal and data identification process. Three hundred and twenty-nine female participants were diagnosed with lipedema and treated using a low-carbohydrate, high-fat diet. Data analysis identified the high-fat diet with a mean study duration of 15.85 weeks. Mean Differences (MDs) on changes pre- and post-intervention showed significant reductions in BMI and total body weight [4.23 (95% CI 2.49, 5.97)< 0.00001 and 7.94 (95% CI 5.45, 10.43)< 0.00001 for BMI and body weight, respectively]. Other anthropometric measurements, such as changes in waist/hip circumferences and waist/hip ratios, showed a significant reduction in these parameters, with an MD of 8.05 (95% CI 4.66, 11.44)< 0.00001 and an MD of 6.67 (95% CI 3.35, 9.99)< 0.0001 for changes in waist and hip circumferences from baseline, respectively. Lastly, changes in pain sensitivity were statistically significant post-intervention [MD 1.12 (95% CI, 0.44, 1.79)= 0.001]. All studies scored fair on the Newcastle-Ottawa Scale."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "despite the limited studies and low number of study participants, the review observed a significant reduction in anthropometric and body composition metrics, indicating a potentially beneficial association between LCHF ketogenic diets and lipedema management."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "32640608",
+      "title": "Impact of a Ketogenic Diet on Metabolic Parameters in Patients with Obesity or Overweight and with or without Type 2 Diabetes: A Meta-Analysis of Randomized Controlled Trials.",
+      "authors": [
+        "Choi YJ",
+        "Jeon SM",
+        "Shin S"
+      ],
+      "firstAuthor": "Choi YJ",
+      "year": "2020",
+      "journal": "Nutrients",
+      "doi": "10.3390/nu12072005",
+      "pmcid": "PMC7400909",
+      "pubTypes": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "pppppThe aim of this meta-analysis was to explore the efficacy of a ketogenic diet in metabolic control in patients with overweight or obesity and with or without type 2 diabetes. Embase, PubMed, and Cochrane Library were searched for randomized controlled trials that enrolled patients with overweight or obesity on a ketogenic diet for metabolic control. Fourteen studies were included in meta-analysis. The effects of ketogenic diets on glycemic control were greater for diabetic patients relative to those of low-fat diets, indicated by lower glycated hemoglobin (SMD, -0.62;< 0.001) and homeostatic model assessment index (SMD, -0.29;= 0.02), while comparable effects were observed for nondiabetic patients. Ketogenic diets led to substantial weight reduction (SMD, -0.46;= 0.04) irrespective of patients' diabetes status at baseline and improved lipid profiles in terms of lower triglyceride (SMD, -0.45;= 0.01) and greater high-density lipoprotein (SMD, 0.31;= 0.005) for diabetic patients. Other risk markers showed no substantial between-group difference post intervention. Our study findings confirmed that ketogenic diets were more effective in improving metabolic parameters associated with glycemic, weight, and lipid controls in patients with overweight or obesity, especially those with preexisting diabetes, as compared to low-fat diets. This effect may contribute to improvements in metabolic dysfunction-related morbidity and mortality in these patient populations."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "39854812",
+      "title": "Effects of ketogenic and low-carbohydrate diets on the body composition of adults with overweight or obesity: A systematic review and meta-analysis of randomised controlled trials.",
+      "authors": [
+        "Leung LY",
+        "Tam HL",
+        "Ho JK"
+      ],
+      "firstAuthor": "Leung LY",
+      "year": "2025",
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "doi": "10.1016/j.clnu.2025.01.017",
+      "pmcid": null,
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND AND AIMS",
+          "text": "More than one-third of individuals are overweight and obese in the world. Their risks of chronic health conditions are increased, which places additional burden on their family, caregivers, and healthcare system. Dietary modification is widely used for overweight and obese individuals. We investigated the effects of ketogenic diet (KD) and low-carbohydrate diet (LCD) in improving body weight (BW), body mass index (BMI), fat mass (FM), and body fat percentage (BFP) in overweight or obese individuals."
+        },
+        {
+          "label": "METHODS",
+          "text": "A three-step approach was adopted for searching relevant randomised controlled trials (RCTs) across five electronic databases. Two reviewers conducted the screening, review, and quality appraisal independently. A random-effects model was used because of variations in intervention and participant characteristics. Sensitivity and subgroup analyses were conducted to assess heterogeneity and variations in the results, respectively."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Thirty-three RCTs involving 2821 individuals were included. Overall meta-analysis results indicated that KD/LCD significantly reduced BW, BMI, and BFP, but not FM, in individuals with a carbohydrate intake of ≤100 g/d. Subgroup analyses revealed significant improvements in BW, BMI, and FM in individuals on KD/LCD for ≥1 month and in all parameters for those with a carbohydrate intake of ≤50 g/d. High statistical heterogeneity was noted because of variations in interventions and participant characteristics."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "Adults with overweight or obesity should consume KD/LCD for ≥1 month and limit carbohydrate intake to ≤50 g/d. Further multicentre or multicountry RCTs are needed to improve the generalisability of our findings. We recommend integrating text messaging and evidence-based information to support interventions and ensuring stringent medical supervision throughout the intervention."
+        },
+        {
+          "label": "PROSPERO REGISTRATION NUMBER",
+          "text": "CRD42022353074."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "38375882",
+      "title": "Mobile health (m-health) smartphone interventions for adolescents and adults with overweight or obesity.",
+      "authors": [
+        "Metzendorf MI",
+        "Wieland LS",
+        "Richter B"
+      ],
+      "firstAuthor": "Metzendorf MI",
+      "year": "2024",
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD013591.pub2",
+      "pmcid": "PMC10877670",
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Obesity is considered to be a risk factor for various diseases, and its incidence has tripled worldwide since 1975. In addition to potentially being at risk for adverse health outcomes, people with overweight or obesity are often stigmatised. Behaviour change interventions are increasingly delivered as mobile health (m-health) interventions, using smartphone apps and wearables. They are believed to support healthy behaviours at the individual level in a low-threshold manner."
+        },
+        {
+          "label": "OBJECTIVES",
+          "text": "To assess the effects of integrated smartphone applications for adolescents and adults with overweight or obesity."
+        },
+        {
+          "label": "SEARCH METHODS",
+          "text": "We searched CENTRAL, MEDLINE, PsycINFO, CINAHL, and LILACS, as well as the trials registers ClinicalTrials.gov and World Health Organization International Clinical Trials Registry Platform on 2 October 2023 (date of last search for all databases). We placed no restrictions on the language of publication."
+        },
+        {
+          "label": "SELECTION CRITERIA",
+          "text": "Participants were adolescents and adults with overweight or obesity. Eligible interventions were integrated smartphone apps using at least two behaviour change techniques. The intervention could target physical activity, cardiorespiratory fitness, weight loss, healthy diet, or self-efficacy. Comparators included no or minimal intervention (NMI), a different smartphone app, personal coaching, or usual care. Eligible studies were randomised controlled trials of any duration with a follow-up of at least three months."
+        },
+        {
+          "label": "DATA COLLECTION AND ANALYSIS",
+          "text": "We used standard Cochrane methodology and the RoB 2 tool. Important outcomes were physical activity, body mass index (BMI) and weight, health-related quality of life, self-efficacy, well-being, change in dietary behaviour, and adverse events. We focused on presenting studies with medium- (6 to < 12 months) and long-term (≥ 12 months) outcomes in our summary of findings table, following recommendations in the core outcome set for behavioural weight management interventions."
+        },
+        {
+          "label": "MAIN RESULTS",
+          "text": "22We included 18 studies with 2703 participants. Interventions lasted from 2 to 24 months. The mean BMI in adults ranged from 27 to 50, and the median BMI z-score in adolescents ranged from 2.2 to 2.5. Smartphone app versus no or minimal intervention Thirteen studies compared a smartphone app versus NMI in adults; no studies were available for adolescents. The comparator comprised minimal health advice, handouts, food diaries, smartphone apps unrelated to weight loss, and waiting list. Measures of physical activity: at 12 months' follow-up, a smartphone app compared to NMI probably reduces moderate to vigorous physical activity (MVPA) slightly (mean difference (MD) -28.9 min/week (95% confidence interval (CI) -85.9 to 28; 1 study, 650 participants; moderate-certainty evidence)). We are very uncertain about the results of estimated energy expenditure and cardiorespiratory fitness at eight months' follow-up. A smartphone app compared with NMI probably results in little to no difference in changes in total activity time at 12 months' follow-up and leisure time physical activity at 24 months' follow-up. Anthropometric measures: a smartphone app compared with NMI may reduce BMI (MD of BMI change -2.6 kg/m, 95% CI -6 to 0.8; 2 studies, 146 participants; very low-certainty evidence) at six to eight months' follow-up, but the evidence is very uncertain. At 12 months' follow-up, a smartphone app probably resulted in little to no difference in BMI change (MD -0.1 kg/m, 95% CI -0.4 to 0.3; 1 study; 650 participants; moderate-certainty evidence). A smartphone app compared with NMI may result in little to no difference in body weight change (MD -2.5 kg, 95% CI -6.8 to 1.7; 3 studies, 1044 participants; low-certainty evidence) at 12 months' follow-up. At 24 months' follow-up, a smartphone app probably resulted in little to no difference in body weight change (MD 0.7 kg, 95% CI -1.2 to 2.6; 1 study, 245 participants; moderate-certainty evidence). A smartphone app compared with NMI may result in little to no difference in self-efficacy for a physical activity score at eight months' follow-up, but the results are very uncertain. A smartphone app probably results in little to no difference in quality of life and well-being at 12 months (moderate-certainty evidence) and in little to no difference in various measures used to inform dietary behaviour at 12 and 24 months' follow-up. We are very uncertain about adverse events, which were only reported narratively in two studies (very low-certainty evidence). Smartphone app versus another smartphone app Two studies compared different versions of the same app in adults, showing no or minimal differences in outcomes. One study in adults compared two different apps (calorie counting versus ketogenic diet) and suggested a slight reduction in body weight at six months in favour of the ketogenic diet app. No studies were available for adolescents. Smartphone app versus personal coaching Only one study compared a smartphone app with personal coaching in adults, presenting data at three months. Two studies compared these interventions in adolescents. A smartphone app resulted in little to no difference in BMI z-score compared to personal coaching at six months' follow-up (MD 0, 95% CI -0.2 to 0.2; 1 study; 107 participants). Smartphone app versus usual care Only one study compared an app with usual care in adults but only reported data at three months on participant satisfaction. No studies were available for adolescents. We identified 34 ongoing studies."
+        },
+        {
+          "label": "AUTHORS' CONCLUSIONS",
+          "text": "The available evidence is limited and does not demonstrate a clear benefit of smartphone applications as interventions for adolescents or adults with overweight or obesity. While the number of studies is growing, the evidence remains incomplete due to the high variability of the apps' features, content and components, which complicates direct comparisons and assessment of their effectiveness. Comparisons with either no or minimal intervention or personal coaching show minor effects, which are mostly not clinically significant. Minimal data for adolescents also warrants further research. Evidence is also scarce for low- and middle-income countries as well as for people with different socio-economic and cultural backgrounds. The 34 ongoing studies suggest sustained interest in the topic, with new evidence expected to emerge within the next two years. In practice, clinicians and healthcare practitioners should carefully consider the potential benefits, limitations, and evolving research when recommending smartphone apps to adolescents and adults with overweight or obesity."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "23651522",
+      "title": "Very-low-carbohydrate ketogenic diet v. low-fat diet for long-term weight loss: a meta-analysis of randomised controlled trials.",
+      "authors": [
+        "Bueno NB",
+        "de Melo IS",
+        "de Oliveira SL",
+        "da Rocha Ataide T"
+      ],
+      "firstAuthor": "Bueno NB",
+      "year": "2013",
+      "journal": "The British journal of nutrition",
+      "doi": "10.1017/S0007114513000548",
+      "pmcid": null,
+      "pubTypes": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "The role of very-low-carbohydrate ketogenic diets (VLCKD) in the long-term management of obesity is not well established. The present meta-analysis aimed to investigate whether individuals assigned to a VLCKD (i.e. a diet with no more than 50 g carbohydrates/d) achieve better long-term body weight and cardiovascular risk factor management when compared with individuals assigned to a conventional low-fat diet (LFD; i.e. a restricted-energy diet with less than 30% of energy from fat). Through August 2012, MEDLINE, CENTRAL, ScienceDirect,Scopus, LILACS, SciELO, ClinicalTrials.gov and grey literature databases were searched, using no date or language restrictions, for randomised controlled trials that assigned adults to a VLCKD or a LFD, with 12 months or more of follow-up. The primary outcome was bodyweight. The secondary outcomes were TAG, HDL-cholesterol (HDL-C), LDL-cholesterol (LDL-C), systolic and diastolic blood pressure,glucose, insulin, HbA1c and C-reactive protein levels. A total of thirteen studies met the inclusion/exclusion criteria. In the overall analysis,five outcomes revealed significant results. Individuals assigned to a VLCKD showed decreased body weight (weighted mean difference -0·91 (95% CI -1·65, -0·17) kg, 1415 patients), TAG (weighted mean difference -0·18 (95% CI -0·27, -0·08) mmol/l, 1258 patients)and diastolic blood pressure (weighted mean difference -1·43 (95% CI -2·49, -0·37) mmHg, 1298 patients) while increased HDL-C(weighted mean difference 0·09 (95% CI 0·06, 0·12) mmol/l, 1257 patients) and LDL-C (weighted mean difference 0·12 (95% CI 0·04,0·2) mmol/l, 1255 patients). Individuals assigned to a VLCKD achieve a greater weight loss than those assigned to a LFD in the longterm; hence, a VLCKD may be an alternative tool against obesity."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "15148063",
+      "title": "A low-carbohydrate, ketogenic diet versus a low-fat diet to treat obesity and hyperlipidemia: a randomized, controlled trial.",
+      "authors": [
+        "Yancy WS",
+        "Olsen MK",
+        "Guyton JR",
+        "Bakst RP",
+        "Westman EC"
+      ],
+      "firstAuthor": "Yancy WS",
+      "year": "2004",
+      "journal": "Annals of internal medicine",
+      "doi": "10.7326/0003-4819-140-10-200405180-00006",
+      "pmcid": null,
+      "pubTypes": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Low-carbohydrate diets remain popular despite a paucity of scientific evidence on their effectiveness."
+        },
+        {
+          "label": "OBJECTIVE",
+          "text": "To compare the effects of a low-carbohydrate, ketogenic diet program with those of a low-fat, low-cholesterol, reduced-calorie diet."
+        },
+        {
+          "label": "DESIGN",
+          "text": "Randomized, controlled trial."
+        },
+        {
+          "label": "SETTING",
+          "text": "Outpatient research clinic."
+        },
+        {
+          "label": "PARTICIPANTS",
+          "text": "120 overweight, hyperlipidemic volunteers from the community."
+        },
+        {
+          "label": "INTERVENTION",
+          "text": "Low-carbohydrate diet (initially, <20 g of carbohydrate daily) plus nutritional supplementation, exercise recommendation, and group meetings, or low-fat diet (<30% energy from fat, <300 mg of cholesterol daily, and deficit of 500 to 1000 kcal/d) plus exercise recommendation and group meetings."
+        },
+        {
+          "label": "MEASUREMENTS",
+          "text": "Body weight, body composition, fasting serum lipid levels, and tolerability."
+        },
+        {
+          "label": "RESULTS",
+          "text": "A greater proportion of the low-carbohydrate diet group than the low-fat diet group completed the study (76% vs. 57%; P = 0.02). At 24 weeks, weight loss was greater in the low-carbohydrate diet group than in the low-fat diet group (mean change, -12.9% vs. -6.7%; P < 0.001). Patients in both groups lost substantially more fat mass (change, -9.4 kg with the low-carbohydrate diet vs. -4.8 kg with the low-fat diet) than fat-free mass (change, -3.3 kg vs. -2.4 kg, respectively). Compared with recipients of the low-fat diet, recipients of the low-carbohydrate diet had greater decreases in serum triglyceride levels (change, -0.84 mmol/L vs. -0.31 mmol/L [-74.2 mg/dL vs. -27.9 mg/dL]; P = 0.004) and greater increases in high-density lipoprotein cholesterol levels (0.14 mmol/L vs. -0.04 mmol/L [5.5 mg/dL vs. -1.6 mg/dL]; P < 0.001). Changes in low-density lipoprotein cholesterol level did not differ statistically (0.04 mmol/L [1.6 mg/dL] with the low-carbohydrate diet and -0.19 mmol/L [-7.4 mg/dL] with the low-fat diet; P = 0.2). Minor adverse effects were more frequent in the low-carbohydrate diet group."
+        },
+        {
+          "label": "LIMITATIONS",
+          "text": "We could not definitively distinguish effects of the low-carbohydrate diet and those of the nutritional supplements provided only to that group. In addition, participants were healthy and were followed for only 24 weeks. These factors limit the generalizability of the study results."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "Compared with a low-fat diet, a low-carbohydrate diet program had better participant retention and greater weight loss. During active weight loss, serum triglyceride levels decreased more and high-density lipoprotein cholesterol level increased more with the low-carbohydrate diet than with the low-fat diet."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "37836444",
+      "title": "Ketogenic Diet and Multiple Health Outcomes: An Umbrella Review of Meta-Analysis.",
+      "authors": [
+        "Chen S",
+        "Su X",
+        "Feng Y",
+        "Li R",
+        "Liao M",
+        "Fan L",
+        "Liu J",
+        "Chen S",
+        "Zhang S",
+        "Cai J",
+        "Zhu S",
+        "Niu J",
+        "Ye Y",
+        "Lo K",
+        "Zeng F"
+      ],
+      "firstAuthor": "Chen S",
+      "year": "2023",
+      "journal": "Nutrients",
+      "doi": "10.3390/nu15194161",
+      "pmcid": "PMC10574428",
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión de revisiones (umbrella)",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "pNumerous studies have examined the effects of ketogenic diets (KD) on health-related outcomes through meta-analyses. However, the presence of biases may compromise the reliability of conclusions. Therefore, we conducted an umbrella review to collate and appraise the strength of evidence on the efficacy of KD interventions. We conducted a comprehensive search on PubMed, EMBASE, and the Cochrane Database until April 2023 to identify meta-analyses that investigated the treatment effects of KD for multiple health conditions, which yielded 23 meta-analyses for quantitative analyses. The evidence suggests that KD could increase the levels of low-density lipoprotein cholesterol (LDL-C), total cholesterol (TC) and high-density lipoprotein cholesterol (HDL-C), the respiratory exchange rate (RER), and could decrease total testosterone and testosterone levels (all-random effects: <0.05). The combination of KD and physical activity can significantly reduce body weight and increase the levels of LDL-C and cortisol. In addition, KD was associated with seizure reduction in children, which can be explained by the ketosis state as induced by the diet. Furthermore, KD demonstrated a better alleviation effect in refractory childhood epilepsy, in terms of median effective rates for seizure reduction of ≥50%, ≥90%, and seizure freedom. However, the strength of evidence supporting the aforementioned associations was generally weak, thereby challenging their credibility. Consequently, future studies should prioritize stringent research protocols to ascertain whether KD interventions with longer intervention periods hold promise as a viable treatment option for various diseases."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "39617882",
+      "title": "The effects of portfolio moderate-carbohydrate and ketogenic diets on anthropometric indices, metabolic status, and hormonal levels in overweight or obese women with polycystic ovary syndrome: a randomized controlled trial.",
+      "authors": [
+        "Sharifi M",
+        "Saber A",
+        "Moludi J",
+        "Salimi Y",
+        "Jahan-Mihan A"
+      ],
+      "firstAuthor": "Sharifi M",
+      "year": "2024",
+      "journal": "Nutrition journal",
+      "doi": "10.1186/s12937-024-01056-7",
+      "pmcid": "PMC11610292",
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Polycystic Ovary Syndrome (PCOS) is one of the most common hormonal disorders in reproductive-age women caused by hyperinsulinemia. The portfolio Moderate-carbohydrate diet (PMCD) is a plant-based diet with a carbohydrate content of 40% and incorporates five cholesterol-lowering foods. While, the ketogenic diet is a high-fat diet with 70% fat, promoting a ketosis state. To the best of our knowledge, no study compared the therapeutic effects of these two diets in PCOS patients. Thus, this study aimed to compare the impact of PLCD and KD on anthropometric indices, metabolic status, and hormonal levels in overweight or obese women with PCOS."
+        },
+        {
+          "label": "METHODS",
+          "text": "This open-label, randomized clinical trial was conducted on forty-six PCOS women. 21 women in PMCD and 19 in the KD group completed the study. The anthropometric indices including body mass index (BMI) and fat body mass (FBM), metabolic markers (fasting blood glucose (FBG)) and plasma lipid profiles including low-density lipoprotein (LDL), triglycerides, and high-density lipoproteins (HDL) were measured. Reproductive hormones such as luteinizing hormone (LH), dehydroepiandrosterone sulfate (DHEA-s) and free testosterone were assessed at the baseline and after the intervention."
+        },
+        {
+          "label": "RESULTS",
+          "text": "However, after 8 weeks both diets demonstrated enhancement in anthropometric indices (BMI, FBM, lean body mass), metabolic status (FBG, insulin serum levels), and reproductive hormones such as LH, free testosterone, and DHEA-s. The mean difference in the KD improved more than the PMCD in the field of BMI reduction (MD (SD) 2.73 (0.351) vs. MD (SD) 1.71 (0.775)) and LH (MD 4.13 (1.375) vs.MD 2.46 (1.105)). Nevertheless, the lipid profile including LDL-C and triglycerides improved more in the PMCD compared to the KD (MD 33.95 (7.345) vs. MD 23.34 (14.136)) and (MD 38.20 (10.757) vs. MD 57.62 (21.688)) respectively. There were no significant changes in the Ferriman-Gallwey score within or between the two groups."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "The findings revealed that both diets were effective in improving PCOS manifestations. However, the KD exhibited greater effectiveness in enhancing body measurements, metabolic factors, and reproductive hormone levels compared to the PMCD in obese PCOS women. Furthermore, PMCD could be more beneficial for PCOS women with lipide disorders."
+        },
+        {
+          "label": "REGISTRATION NUMBER OF CLINICAL TRIAL",
+          "text": "IRCT20200912048693N3, Trial registered 2022-12-14. https://www.irct.ir/trial/67548."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "31111407",
+      "title": "Very-low-calorie ketogenic diet (VLCKD) in the management of metabolic diseases: systematic review and consensus statement from the Italian Society of Endocrinology (SIE).",
+      "authors": [
+        "Caprio M",
+        "Infante M",
+        "Moriconi E",
+        "Armani A",
+        "Fabbri A",
+        "Mantovani G",
+        "Mariani S",
+        "Lubrano C",
+        "Poggiogalle E",
+        "Migliaccio S",
+        "Donini LM",
+        "Basciani S",
+        "Cignarelli A",
+        "Conte E",
+        "Ceccarini G",
+        "Bogazzi F",
+        "Cimino L",
+        "Condorelli RA",
+        "La Vignera S",
+        "Calogero AE",
+        "Gambineri A",
+        "Vignozzi L",
+        "Prodam F",
+        "Aimaretti G",
+        "Linsalata G",
+        "Buralli S",
+        "Monzani F",
+        "Aversa A",
+        "Vettor R",
+        "Santini F",
+        "Vitti P",
+        "Gnessi L",
+        "Pagotto U",
+        "Giorgino F",
+        "Colao A",
+        "Lenzi A",
+        "Cardiovascular Endocrinology Club of the Italian Society of Endocrinology"
+      ],
+      "firstAuthor": "Caprio M",
+      "year": "2019",
+      "journal": "Journal of endocrinological investigation",
+      "doi": "10.1007/s40618-019-01061-2",
+      "pmcid": null,
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Consensus Statement"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Weight loss is a milestone in the prevention of chronic diseases associated with high morbility and mortality in industrialized countries. Very-low calorie ketogenic diets (VLCKDs) are increasingly used in clinical practice for weight loss and management of obesity-related comorbidities. Despite evidence on the clinical benefits of VLCKDs is rapidly emerging, some concern still exists about their potential risks and their use in the long-term, due to paucity of clinical studies. Notably, there is an important lack of guidelines on this topic, and the use and implementation of VLCKDs occurs vastly in the absence of clear evidence-based indications."
+        },
+        {
+          "label": "PURPOSE",
+          "text": "We describe here the biochemistry, benefits and risks of VLCKDs, and provide recommendations on the correct use of this therapeutic approach for weight loss and management of metabolic diseases at different stages of life."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "29269731",
+      "title": "Twelve-month outcomes of a randomized trial of a moderate-carbohydrate versus very low-carbohydrate diet in overweight adults with type 2 diabetes mellitus or prediabetes.",
+      "authors": [
+        "Saslow LR",
+        "Daubenmier JJ",
+        "Moskowitz JT",
+        "Kim S",
+        "Murphy EJ",
+        "Phinney SD",
+        "Ploutz-Snyder R",
+        "Goldman V",
+        "Cox RM",
+        "Mason AE",
+        "Moran P",
+        "Hecht FM"
+      ],
+      "firstAuthor": "Saslow LR",
+      "year": "2017",
+      "journal": "Nutrition & diabetes",
+      "doi": "10.1038/s41387-017-0006-9",
+      "pmcid": "PMC5865541",
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "Dietary treatment is important in management of type 2 diabetes or prediabetes, but uncertainty exists about the optimal diet. We randomized adults (n = 34) with glycated hemoglobin (HbA1c) > 6.0% and elevated body weight (BMI > 25) to a very low-carbohydrate ketogenic (LCK) diet (n = 16) or a moderate-carbohydrate, calorie-restricted, low-fat (MCCR) diet (n = 18). All participants were encouraged to be physically active, get sufficient sleep, and practice behavioral adherence strategies based on positive affect and mindful eating. At 12 months, participants in the LCK group had greater reductions in HbA1c levels (estimated marginal mean (EMM) at baseline = 6.6%, at 12 mos = 6.1%) than participants in MCCR group (EMM at baseline = 6.9%, at 12 mos = 6.7%), p = .007. Participants in the LCK group lost more weight (EMM at baseline = 99.9 kg, at 12 mos = 92.0 kg) than participants in the MCCR group (EMM at baseline = 97.5 kg, at 12 mos = 95.8 kg), p < .001. The LCK participants experienced larger reductions in diabetes-related medication use; of participants who took sulfonylureas or dipeptidyl peptidase-4 inhibitors at baseline, 6/10 in the LCK group discontinued these medications compared with 0/6 in the MCCR group (p = .005). In a 12-month trial, adults with elevated HbA1c and body weight assigned to an LCK diet had greater reductions in HbA1c, lost more weight, and reduced more medications than those instructed to follow an MCCR diet."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "28193599",
+      "title": "An Online Intervention Comparing a Very Low-Carbohydrate Ketogenic Diet and Lifestyle Recommendations Versus a Plate Method Diet in Overweight Individuals With Type 2 Diabetes: A Randomized Controlled Trial.",
+      "authors": [
+        "Saslow LR",
+        "Mason AE",
+        "Kim S",
+        "Goldman V",
+        "Ploutz-Snyder R",
+        "Bayandorian H",
+        "Daubenmier J",
+        "Hecht FM",
+        "Moskowitz JT"
+      ],
+      "firstAuthor": "Saslow LR",
+      "year": "2017",
+      "journal": "Journal of medical Internet research",
+      "doi": "10.2196/jmir.5806",
+      "pmcid": "PMC5329646",
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Type 2 diabetes is a prevalent, chronic disease for which diet is an integral aspect of treatment. In our previous trial, we found that recommendations to follow a very low-carbohydrate ketogenic diet and to change lifestyle factors (physical activity, sleep, positive affect, mindfulness) helped overweight people with type 2 diabetes or prediabetes improve glycemic control and lose weight. This was an in-person intervention, which could be a barrier for people without the time, flexibility, transportation, social support, and/or financial resources to attend."
+        },
+        {
+          "label": "OBJECTIVE",
+          "text": "The aim was to determine whether an online intervention based on our previous recommendations (an ad libitum very low-carbohydrate ketogenic diet with lifestyle factors; \"intervention\") or an online diet program based on the American Diabetes Associations' \"Create Your Plate\" diet (\"control\") would improve glycemic control and other health outcomes among overweight individuals with type 2 diabetes."
+        },
+        {
+          "label": "METHODS",
+          "text": "1cIn this pilot feasibility study, we randomized overweight adults (body mass index ≥25) with type 2 diabetes (glycated hemoglobin [HbA] 6.5%-9.0%) to a 32-week online intervention based on our previous recommendations (n=12) or an online diet program based around a plate method diet (n=13) to assess the impact of each intervention on glycemic control and other health outcomes. Primary and secondary outcomes were analyzed by mixed-effects linear regression to compare outcomes by group."
+        },
+        {
+          "label": "RESULTS",
+          "text": "1c1cAt 32 weeks, participants in the intervention group reduced their HbAlevels more (estimated marginal mean [EMM] -0.8%, 95% CI -1.1% to -0.6%) than participants in the control group (EMM -0.3%, 95% CI -0.6% to 0.0%; P=.002). More than half of the participants in the intervention group (6/11, 55%) lowered their HbAto less than 6.5% versus 0% (0/8) in the control group (P=.02). Participants in the intervention group lost more weight (EMM -12.7 kg, 95% CI -16.1 to -9.2 kg) than participants in the control group (EMM -3.0 kg, 95% CI -7.3 to 1.3 kg; P<.001). A greater percentage of participants lost at least 5% of their body weight in the intervention (10/11, 90%) versus the control group (2/8, 29%; P=.01). Participants in the intervention group lowered their triglyceride levels (EMM -60.1 mg/dL, 95% CI -91.3 to -28.9 mg/dL) more than participants in the control group (EMM -6.2 mg/dL, 95% CI -46.0 to 33.6 mg/dL; P=.01). Dropout was 8% (1/12) and 46% (6/13) for the intervention and control groups, respectively (P=.07)."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "Individuals with type 2 diabetes improved their glycemic control and lost more weight after being randomized to a very low-carbohydrate ketogenic diet and lifestyle online program rather than a conventional, low-fat diabetes diet online program. Thus, the online delivery of these very low-carbohydrate ketogenic diet and lifestyle recommendations may allow them to have a wider reach in the successful self-management of type 2 diabetes."
+        },
+        {
+          "label": "TRIAL REGISTRATION",
+          "text": "ClinicalTrials.gov NCT01967992; https://clinicaltrials.gov/ct2/show/NCT01967992 (Archived by WebCite at http://www.webcitation.org/6o0fI9Mkq)."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "39424350",
+      "title": "Effect of weight-maintaining ketogenic diet on glycemic control and insulin sensitivity in obese T2D subjects.",
+      "authors": [
+        "Merovci A",
+        "Finley B",
+        "Hansis-Diarte A",
+        "Neppala S",
+        "Abdul-Ghani MA",
+        "Cersosimo E",
+        "Triplitt C",
+        "DeFronzo RA"
+      ],
+      "firstAuthor": "Merovci A",
+      "year": "2024",
+      "journal": "BMJ open diabetes research & care",
+      "doi": "10.1136/bmjdrc-2024-004199",
+      "pmcid": "PMC11492932",
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "INTRODUCTION",
+          "text": "Low carbohydrate ketogenic diets have received renewed interest for the treatment of obesity and type 2 diabetes. These diets promote weight loss, improve glycemic control, and reduce insulin resistance. However, whether the improvements in glycemic control and insulin sensitivity are secondary to the weight loss or result from a direct effect of hyperketonemia is controversial."
+        },
+        {
+          "label": "RESEARCH DESIGN AND METHODS",
+          "text": "2229 overweight obese subjects were randomized to one of three dietary interventions for 10 days: (1) Weight-maintaining standard diet; (2) Weight-maintaining ketogenic diet; (3) Weight-maintaining ketogenic diet plus supplementation with the ketone ester of beta-hydroxybutyrate (β-OH-B), 8 g every 8 hours. At baseline, all subjects had oral glucose tolerance test, 2-step euglycemic insulin clamp (20 mU/m.min and 60 mU/m.min) with titrated glucose and indirect calorimetry."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Body weight, fat content, and per cent body fat (DEXA) remained constant over the 10-day dietary intervention period in all three groups. Plasma β-OH-B concentration increased twofold, while carbohydrate oxidation decreased, and lipid oxidation increased demonstrating the expected shifts in substrate metabolism with institution of the ketogenic diet. Glucose tolerance either decreased slightly or remained unchanged in the two ketogenic diet groups. Whole body (muscle), liver, and adipose tissue sensitivity to insulin remained unchanged in all 3 groups, as did the plasma lipid profile and blood pressure."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "In the absence of weight loss, a low carbohydrate ketogenic diet has no beneficial effect on glucose tolerance, insulin sensitivity, or other metabolic parameters."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "40292478",
+      "title": "Myths and Facts Regarding Low-Carbohydrate Diets.",
+      "authors": [
+        "Teicholz N",
+        "Croft SM",
+        "Cuaranta I",
+        "Cucuzzella M",
+        "Glandt M",
+        "Griauzde DH",
+        "Jerome-Zapadka K",
+        "Kalayjian T",
+        "Murphy K",
+        "Nelson M",
+        "Shanahan C",
+        "Nishida JL",
+        "Oh RC",
+        "Parrella N",
+        "Saner EM",
+        "Sethi S",
+        "Volek JS",
+        "Williden M",
+        "Wolver S"
+      ],
+      "firstAuthor": "Teicholz N",
+      "year": "2025",
+      "journal": "Nutrients",
+      "doi": "10.3390/nu17061047",
+      "pmcid": "PMC11944661",
+      "pubTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "designTier": 5,
+      "designLabel": "Revisión narrativa u otro",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "As the prevalence of chronic diseases persists at epidemic proportions, health practitioners face ongoing challenges in providing effective lifestyle treatments for their patients. Even for those patients on GLP-1 agonists, nutrition counseling remains a crucial strategy for managing these conditions over the long term. This paper aims to address the concerns of patients and practitioners who are interested in a low-carbohydrate or ketogenic diet, but who have concerns about its efficacy, safety, and long-term viability. The authors of this paper are practitioners who have used this approach and researchers engaged in its study. The paper reflects our opinion and is not meant to review low-carbohydrate diets systematically. In addressing common concerns, we hope to show that this approach has been well researched and can no longer be seen as a \"fad diet\" with adverse health effects such as impaired renal function or increased risk of heart disease. We also address persistent questions about patient adherence, affordability, and environmental sustainability. This paper reflects our perspective as clinicians and researchers engaged in the study and application of low-carbohydrate dietary interventions. While the paper is not a systematic review, all factual claims are substantiated with citations from the peer-reviewed literature and the most rigorous and recent science. To our knowledge, this paper is the first to address potential misconceptions about low-carbohydrate and ketogenic diets comprehensively."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "37231411",
+      "title": "Effects of ketogenic diet on health outcomes: an umbrella review of meta-analyses of randomized clinical trials.",
+      "authors": [
+        "Patikorn C",
+        "Saidoung P",
+        "Pham T",
+        "Phisalprapa P",
+        "Lee YY",
+        "Varady KA",
+        "Veettil SK",
+        "Chaiyakunapruk N"
+      ],
+      "firstAuthor": "Patikorn C",
+      "year": "2023",
+      "journal": "BMC medicine",
+      "doi": "10.1186/s12916-023-02874-y",
+      "pmcid": "PMC10210275",
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión de revisiones (umbrella)",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Systematic reviews and meta-analyses of randomized clinical trials (RCTs) have reported the benefits of ketogenic diets (KD) in various participants such as patients with epilepsy and adults with overweight or obesity. Nevertheless, there has been little synthesis of the strength and quality of this evidence in aggregate."
+        },
+        {
+          "label": "METHODS",
+          "text": "To grade the evidence from published meta-analyses of RCTs that assessed the association of KD, ketogenic low-carbohydrate high-fat diet (K-LCHF), and very low-calorie KD (VLCKD) with health outcomes, PubMed, EMBASE, Epistemonikos, and Cochrane database of systematic reviews were searched up to February 15, 2023. Meta-analyses of RCTs of KD were included. Meta-analyses were re-performed using a random-effects model. The quality of evidence per association provided in meta-analyses was rated by the GRADE (Grading of Recommendations, Assessment, Development, and Evaluations) criteria as high, moderate, low, and very low."
+        },
+        {
+          "label": "RESULTS",
+          "text": "1cWe included 17 meta-analyses comprising 68 RCTs (median [interquartile range, IQR] sample size of 42 [20-104] participants and follow-up period of 13 [8-36] weeks) and 115 unique associations. There were 51 statistically significant associations (44%) of which four associations were supported by high-quality evidence (reduced triglyceride (n = 2), seizure frequency (n = 1) and increased low-density lipoprotein cholesterol (LDL-C) (n = 1)) and four associations supported by moderate-quality evidence (decrease in body weight, respiratory exchange ratio (RER), hemoglobin A, and increased total cholesterol). The remaining associations were supported by very low (26 associations) to low (17 associations) quality evidence. In overweight or obese adults, VLCKD was significantly associated with improvement in anthropometric and cardiometabolic outcomes without worsening muscle mass, LDL-C, and total cholesterol. K-LCHF was associated with reduced body weight and body fat percentage, but also reduced muscle mass in healthy participants."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "This umbrella review found beneficial associations of KD supported by moderate to high-quality evidence on seizure and several cardiometabolic parameters. However, KD was associated with a clinically meaningful increase in LDL-C. Clinical trials with long-term follow-up are warranted to investigate whether the short-term effects of KD will translate to beneficial effects on clinical outcomes such as cardiovascular events and mortality."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "33479499",
+      "title": "Effect of a plant-based, low-fat diet versus an animal-based, ketogenic diet on ad libitum energy intake.",
+      "authors": [
+        "Hall KD",
+        "Guo J",
+        "Courville AB",
+        "Boring J",
+        "Brychta R",
+        "Chen KY",
+        "Darcey V",
+        "Forde CG",
+        "Gharib AM",
+        "Gallagher I",
+        "Howard R",
+        "Joseph PV",
+        "Milley L",
+        "Ouwerkerk R",
+        "Raisinger K",
+        "Rozga I",
+        "Schick A",
+        "Stagliano M",
+        "Torres S",
+        "Walter M",
+        "Walter P",
+        "Yang S",
+        "Chung ST"
+      ],
+      "firstAuthor": "Hall KD",
+      "year": "2021",
+      "journal": "Nature medicine",
+      "doi": "10.1038/s41591-020-01209-1",
+      "pmcid": null,
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "-2-1-1-1-1The carbohydrate-insulin model of obesity posits that high-carbohydrate diets lead to excess insulin secretion, thereby promoting fat accumulation and increasing energy intake. Thus, low-carbohydrate diets are predicted to reduce ad libitum energy intake as compared to low-fat, high-carbohydrate diets. To test this hypothesis, 20 adults aged 29.9 ± 1.4 (mean ± s.e.m.) years with body mass index of 27.8 ± 1.3 kg mwere admitted as inpatients to the National Institutes of Health Clinical Center and randomized to consume ad libitum either a minimally processed, plant-based, low-fat diet (10.3% fat, 75.2% carbohydrate) with high glycemic load (85 g 1,000 kcal) or a minimally processed, animal-based, ketogenic, low-carbohydrate diet (75.8% fat, 10.0% carbohydrate) with low glycemic load (6 g 1,000 kcal) for 2 weeks followed immediately by the alternate diet for 2 weeks. One participant withdrew due to hypoglycemia during the low-carbohydrate diet. The primary outcomes compared mean daily ad libitum energy intake between each 2-week diet period as well as between the final week of each diet. We found that the low-fat diet led to 689 ± 73 kcal dless energy intake than the low-carbohydrate diet over 2 weeks (P < 0.0001) and 544 ± 68 kcal dless over the final week (P < 0.0001). Therefore, the predictions of the carbohydrate-insulin model were inconsistent with our observations. This study was registered on ClinicalTrials.gov as NCT03878108 ."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "33257645",
+      "title": "Effect of the ketogenic diet on glycemic control, insulin resistance, and lipid metabolism in patients with T2DM: a systematic review and meta-analysis.",
+      "authors": [
+        "Yuan X",
+        "Wang J",
+        "Yang S",
+        "Gao M",
+        "Cao L",
+        "Li X",
+        "Hong D",
+        "Tian S",
+        "Sun C"
+      ],
+      "firstAuthor": "Yuan X",
+      "year": "2020",
+      "journal": "Nutrition & diabetes",
+      "doi": "10.1038/s41387-020-00142-z",
+      "pmcid": "PMC7705738",
+      "pubTypes": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "At present, the beneficial effect of the ketogenic diet (KD) on weight loss in obese patients is generally recognized. However, a systematic research on the role of KD in the improvement of glycemic and lipid metabolism of patients with diabetes is still found scarce."
+        },
+        {
+          "label": "METHODS",
+          "text": "This meta-study employed the meta-analysis model of random effects or of fixed effects to analyze the average difference before and after KD and the corresponding 95% CI, thereby evaluating the effect of KD on T2DM."
+        },
+        {
+          "label": "RESULTS",
+          "text": "After KD intervention, in terms of glycemic control, the level of fasting blood glucose decreased by 1.29 mmol/L (95% CI: -1.78 to -0.79) on average, and glycated hemoglobin A1c by 1.07 (95% CI: -1.37 to -0.78). As for lipid metabolism, triglyceride was decreased by 0.72 (95% CI: -1.01 to -0.43) on average, total cholesterol by 0.33 (95% CI: -0.66 to -0.01), and low-density lipoprotein by 0.05 (95% CI: -0.25 to -0.15); yet, high-density lipoprotein increased by 0.14 (95% CI: 0.03-0.25). In addition, patients' weight decreased by 8.66 (95% CI: -11.40 to -5.92), waist circumference by 9.17 (95% CI: -10.67 to -7.66), and BMI by 3.13 (95% CI: -3.31 to -2.95)."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "KD not only has a therapeutic effect on glycemic and lipid control among patients with T2DM but also significantly contributes to their weight loss."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "36293616",
+      "title": "Mediterranean Diet versus Very Low-Calorie Ketogenic Diet: Effects of Reaching 5% Body Weight Loss on Body Composition in Subjects with Overweight and with Obesity-A Cohort Study.",
+      "authors": [
+        "Di Rosa C",
+        "Lattanzi G",
+        "Spiezia C",
+        "Imperia E",
+        "Piccirilli S",
+        "Beato I",
+        "Gaspa G",
+        "Micheli V",
+        "De Joannon F",
+        "Vallecorsa N",
+        "Ciccozzi M",
+        "Defeudis G",
+        "Manfrini S",
+        "Khazrai YM"
+      ],
+      "firstAuthor": "Di Rosa C",
+      "year": "2022",
+      "journal": "International journal of environmental research and public health",
+      "doi": "10.3390/ijerph192013040",
+      "pmcid": "PMC9603454",
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "ppppppThe best nutritional strategy to fight the rise in obesity remains a debated issue. The Mediterranean diet (MD) and the Very Low-Calorie Ketogenic diet (VLCKD) are effective at helping people lose body weight (BW) and fat mass (FM) while preserving fat-free mass (FFM). This study aimed to evaluate the time these two diets took to reach a loss of 5% of the initial BW and how body composition was affected. We randomized 268 subjects with obesity or overweight in two arms, MD and VLCKD, for a maximum of 3 months or until they reached 5% BW loss. This result was achieved after one month of VLCKD and 3 months of MD. Both diets were effective in terms of BW (< 0.0001) and FM loss (< 0.0001), but the MD reached a higher reduction in both waist circumference (= 0.0010) and FM (= 0.0006) and a greater increase in total body water (= 0.0017) and FFM (= 0.0373) than VLCKD. The population was also stratified according to gender, age, and BMI. These two nutritional protocols are both effective in improving anthropometrical parameters and body composition, but they take different time spans to reach the goal. Therefore, professionals should evaluate which is the most suitable according to each patient's health status."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "35115003",
+      "title": "The effect of periodic ketogenic diet on newly diagnosed overweight or obese patients with type 2 diabetes.",
+      "authors": [
+        "Li S",
+        "Lin G",
+        "Chen J",
+        "Chen Z",
+        "Xu F",
+        "Zhu F",
+        "Zhang J",
+        "Yuan S"
+      ],
+      "firstAuthor": "Li S",
+      "year": "2022",
+      "journal": "BMC endocrine disorders",
+      "doi": "10.1186/s12902-022-00947-2",
+      "pmcid": "PMC8811985",
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "The ketogenic diet (KD) is characterized by fat as a substitute of carbohydrates for the primary energy source. There is a large number of overweight or obese people with type 2 diabetes mellitus (T2DM), while this study aims to observe periodic ketogenic diet for effect on overweight or obese patients newly diagnosed as T2DM."
+        },
+        {
+          "label": "METHODS",
+          "text": "A total of 60 overweight or obese patients newly diagnosed as T2DM were randomized into two groups: KD group, which was given ketogenic diet, and control group, which was given routine diet for diabetes, 30 cases in each group. Both dietary patterns lasted 12 weeks, and during the period, the blood glucose, blood lipid, body weight, insulin, and uric acid before and after intervention, as well as the significance for relevant changes, were observed."
+        },
+        {
+          "label": "RESULTS",
+          "text": "For both groups, the weight, BMI(body mass index), Waist, TG (triglyceride), TC(cholesterol), LDL (low-density lipoprotein cholesterol), HDL (high-density lipoprotein cholesterol), FBG (fasting glucose), FINS (fasting insulin), HbA1c (glycosylated hemoglobin) were decreased after intervention (P < 0.05), while the decrease rates in the KD group was more significant than the control group. However, UA(serum uric acid) in the KD group showed an upward trend, while in the control group was not changed significantly (P > 0.05).The willingness to adhere to the ketogenic diet over the long term was weaker than to the routine diet for diabetes."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "Among the overweight or obese patients newly diagnosed as type 2 diabetes mellitus, periodic ketogenic diet can not only control the body weight, but also control blood glucose and lipid, but long-term persistence is difficult."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    }
+  ]
+}

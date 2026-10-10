@@ -1,0 +1,210 @@
+{
+  "pmids": ["32588435", "42391224", "42214220", "36716045", "37977712", "36599697"],
+  "model": "claude-sonnet-5-5 (sesión de desarrollo, asistido)",
+  "synthesis": {
+    "stance": "supports",
+    "stanceRationale": "Las revisiones y ECA seleccionados apuntan a que la terapia dietética cetogénica reduce la frecuencia de crisis frente al cuidado habitual, pero la certeza va de muy baja a moderada y varía entre niños, adolescentes y adultos.",
+    "findings": [
+      {
+        "statement": "Cochrane (2020) incluyó 13 estudios con 932 participantes (711 niños y 221 adultos) y calificó la evidencia de todos los desenlaces como de certeza baja a muy baja.",
+        "outcome": "Alcance y certeza de la mejor revisión Cochrane",
+        "direction": "unclear",
+        "support": [
+          { "pmid": "32588435", "quote": "We identified 13 studies with 932 participants; 711 children (4 months to 18 years) and 221 adults (16 years and over)." },
+          { "pmid": "32588435", "quote": "We rated the evidence for all outcomes as low to very low certainty." }
+        ]
+      },
+      {
+        "statement": "En niños, frente al cuidado habitual, las dietas cetogénicas favorecieron la libertad de crisis (RR 3.16) y la reducción de crisis (RR 5.80) en 4 estudios con 385 participantes, aunque la certeza fue muy baja y baja.",
+        "outcome": "Libertad de crisis y reducción de crisis en niños",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "32588435",
+            "quote": "Seizure freedom (RR 3.16, 95% CI 1.20 to 8.35; P = 0.02; 4 studies, 385 participants; very low-certainty evidence) and seizure reduction (RR 5.80, 95% CI 3.48 to 9.65; P < 0.001; 4 studies, 385 participants; low-certainty evidence) favoured KDs"
+          }
+        ]
+      },
+      {
+        "statement": "En adultos la evidencia Cochrane es incierta: la reducción de crisis favoreció a la dieta Atkins modificada pero con un intervalo muy amplio (RR 5.03; IC 95 % 0.26 a 97.68) en 2 estudios con 141 participantes.",
+        "outcome": "Reducción de crisis en adultos",
+        "direction": "unclear",
+        "support": [
+          {
+            "pmid": "32588435",
+            "quote": "Seizure reduction favoured KDs (MAD only) over usual care but, again, we are not confident that the effect estimated is accurate (RR 5.03, 95% CI 0.26 to 97.68; P = 0.29; 2 studies, 141 participants; very low-certainty evidence)."
+          }
+        ]
+      },
+      {
+        "statement": "La revisión sistemática de PLOS ONE (2026) incluyó 17 ECA; en niños, el 37 % puede lograr una reducción de crisis de 50 % o más con cualquier forma de terapia cetogénica (certeza moderada).",
+        "outcome": "Respuesta ≥50 % en niños",
+        "direction": "benefit",
+        "support": [
+          { "pmid": "42391224", "quote": "There were 1193 articles retrieved after duplicates were removed and 17 met the inclusion criteria." },
+          { "pmid": "42391224", "quote": "In children, 37% may achieve a reduction in seizure frequency of 50% or more with in any form of KDT (moderate-certainty evidence)." }
+        ]
+      },
+      {
+        "statement": "En adolescentes y adultos, la terapia cetogénica puede producir una reducción de crisis de 50 % o más en 16 personas más por cada 100 que con el cuidado habitual (certeza moderada); el efecto sobre una reducción de 90 % o más es incierto.",
+        "outcome": "Respuesta ≥50 % en adolescentes y adultos",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "42391224",
+            "quote": "In adolescents and adults, KDT may lead to a ≥ 50% reduction in seizure frequency in 16 more individuals per 100 compared with usual care (moderate-certainty evidence)"
+          },
+          {
+            "pmid": "42391224",
+            "quote": "but its impact on a 90% or greater reduction is uncertain due to the limited number of reported events and imprecision in available studies."
+          }
+        ]
+      },
+      {
+        "statement": "En una red de 12 ECA pediátricos (907 pacientes), todas las dietas superaron al cuidado habitual a corto plazo en reducción de crisis de 50 % o más (dieta cetogénica OR 8.6; IC 95 % 3.7 a 20.0).",
+        "outcome": "Eficacia comparada de dietas en niños (meta-análisis en red)",
+        "direction": "benefit",
+        "support": [
+          { "pmid": "36716045", "quote": "Of 2158 citations, 12 randomized clinical trials (907 patients) qualified for inclusion." },
+          {
+            "pmid": "36716045",
+            "quote": "In the short term, all dietary interventions were more efficacious than care as usual for 50% or higher seizure reduction (low glycemic index therapy: odds ratio [OR], 24.7 [95% CI, 5.3-115.4]; modified Atkins diet: OR, 11.3 [95% CI, 5.1-25.1]; ketogenic diet: OR, 8.6 [95% CI, 3.7-20.0])"
+          }
+        ]
+      },
+      {
+        "statement": "En lactantes con epilepsia farmacorresistente (136 aleatorizados), un ECA abierto no encontró diferencia en crisis por día entre la dieta cetogénica clásica y un antiepiléptico adicional (IRR 1·33; IC 95 % 0·84-2·11).",
+        "outcome": "Crisis por día en lactantes",
+        "direction": "no_difference",
+        "support": [
+          { "pmid": "37977712", "quote": "155 infants were assessed for eligibility, of whom 136 met inclusion criteria and were randomly assigned" },
+          {
+            "pmid": "37977712",
+            "quote": "The median number of seizures per day during weeks 6-8, accounting for baseline rate and randomised group, was similar between the ketogenic diet group (5 [IQR 1-16]) and antiseizure medication group (3 [IQR 2-11]; IRR 1·33, 95% CI 0·84-2·11)."
+          }
+        ]
+      },
+      {
+        "statement": "En 160 adolescentes y adultos con epilepsia farmacorresistente, a 6 meses la reducción de crisis mayor a 50 % ocurrió en 26.2 % con dieta Atkins modificada más tratamiento habitual frente a 2.5 % con tratamiento habitual solo (evidencia Clase III).",
+        "outcome": "Respuesta >50 % en adolescentes y adultos (ECA)",
+        "direction": "benefit",
+        "support": [
+          { "pmid": "36599697", "quote": "160 patients (80 adults and 80 adolescents) were randomized to either the intervention or control arm." },
+          { "pmid": "36599697", "quote": "At 6 months, >50% seizure reduction was seen in 26.2% in the intervention group vs 2.5% in the control group" }
+        ]
+      },
+      {
+        "statement": "El meta-análisis de Seizure (2026) agrupó 33 estudios con 1019 personas (3 ECA, 17 series prospectivas y 13 retrospectivas) y estimó una proporción global de respuesta de 42.82 % (IC 95 % 34.14-51.69).",
+        "outcome": "Proporción agrupada de respondedores en adolescentes y adultos",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "42214220",
+            "quote": "Of the 1846 articles screened, 33 met the inclusion criteria, 3 randomised controlled trials, 17 prospective and 13 retrospective case series and included 1019 people with DRE."
+          },
+          { "pmid": "42214220", "quote": "The overall proportion with seizure reduction >50 % was 42.82 % (95 %CI 34.14-51.69)." }
+        ]
+      },
+      {
+        "statement": "Esa cifra de 42.82 % es una proporción de respondedores agrupada de estudios en su mayoría sin grupo control (solo 3 eran ECA): no equivale a un efecto comparativo frente a un grupo control.",
+        "outcome": "Interpretación: respondedores vs efecto comparativo",
+        "direction": "unclear",
+        "support": [
+          {
+            "pmid": "42214220",
+            "quote": "Of the 1846 articles screened, 33 met the inclusion criteria, 3 randomised controlled trials, 17 prospective and 13 retrospective case series and included 1019 people with DRE."
+          },
+          { "pmid": "42214220", "quote": "The overall proportion with seizure reduction >50 % was 42.82 % (95 %CI 34.14-51.69)." }
+        ]
+      }
+    ],
+    "paraclinical": [
+      {
+        "parameter": "Peso y colesterol (adultos con dieta Atkins modificada)",
+        "observation": "Un estudio reportó reducción del IMC junto con aumento del colesterol en el grupo con dieta Atkins modificada.",
+        "support": [{ "pmid": "32588435", "quote": "One study reported a reduction in body mass index (BMI) plus increased cholesterol in the MAD group." }]
+      },
+      {
+        "parameter": "Calciuria (niños)",
+        "observation": "En un estudio hubo mayor incidencia de hipercalciuria con dieta cetogénica clásica que con Atkins modificada.",
+        "support": [{ "pmid": "32588435", "quote": "In one study, there was a higher incidence of hypercalcuria amongst children receiving classic KD compared to MAD." }]
+      },
+      {
+        "parameter": "Tolerancia digestiva",
+        "observation": "Los efectos adversos más frecuentes fueron vómito, estreñimiento y diarrea, tanto en intervención como en cuidado habitual (certeza baja).",
+        "support": [
+          {
+            "pmid": "32588435",
+            "quote": "The most commonly reported adverse effects were vomiting, constipation and diarrhoea for both the intervention and usual care group, but the true effect could be substantially different (low-certainty evidence)."
+          }
+        ]
+      }
+    ],
+    "certainty": {
+      "reportedGrade": [
+        { "pmid": "32588435", "text": "Cochrane: certeza baja a muy baja para todos los desenlaces.", "quote": "We rated the evidence for all outcomes as low to very low certainty." },
+        {
+          "pmid": "42391224",
+          "text": "PLOS ONE: certeza moderada para la respuesta ≥50 % en niños.",
+          "quote": "In children, 37% may achieve a reduction in seizure frequency of 50% or more with in any form of KDT (moderate-certainty evidence)."
+        }
+      ],
+      "limitations": [
+        { "text": "Todos los estudios de la revisión Cochrane tuvieron alto riesgo de sesgo de desempeño y detección por falta de cegamiento.", "support": { "pmid": "32588435", "quote": "We assessed all 13 studies to be at high risk of performance and detection bias, due to lack of blinding." } },
+        { "text": "Pocos estudios y de tamaño muestral pequeño (Cochrane).", "support": { "pmid": "32588435", "quote": "We identified a limited number of studies which all had small sample sizes." } },
+        {
+          "text": "Adherencia algo menor con la dieta que con el tratamiento habitual, con resultados inconsistentes (PLOS ONE).",
+          "support": { "pmid": "42391224", "quote": "Adherence to treatment may be slightly lower with KDT in both children and adults/adolescents compared to usual treatment, though results are inconsistent." }
+        },
+        {
+          "text": "Calidad de vida y desenlaces cognitivos y conductuales: estudios escasos, heterogéneos y de certeza muy baja (PLOS ONE).",
+          "support": { "pmid": "42391224", "quote": "Regarding quality of life and cognitive and behavioral outcomes, studies are scarce, heterogeneous, and of very low certainty, limiting the ability to draw strong conclusions." }
+        },
+        {
+          "text": "Abandono global del 20.95 % por restricción y dificultades de cumplimiento en adolescentes y adultos (Seizure).",
+          "support": { "pmid": "42214220", "quote": "Restrictiveness and compliance challenges led to an overall attrition proportion of 20.95 % (95 %CI 12.06-31.19)." }
+        },
+        {
+          "text": "Las comparaciones entre tipos de dieta son indirectas; hacen falta estudios de comparación directa (meta-análisis en red).",
+          "support": { "pmid": "36716045", "quote": "Direct head-to-head comparison studies are needed to confirm these findings." }
+        },
+        {
+          "text": "El ensayo en lactantes se detuvo antes de tiempo por reclutamiento lento y fin de la financiación.",
+          "support": { "pmid": "37977712", "quote": "The trial was terminated early before all participants had reached 12 months of follow-up because of slow recruitment and end of funding." }
+        }
+      ]
+    },
+    "applicability": {
+      "summary": "Para un niño de 8 años con epilepsia farmacorresistente, la evidencia agrupada de ECA y revisiones sugiere que la terapia dietética cetogénica, como adyuvante, se asocia con mayor probabilidad de reducción de crisis frente al cuidado habitual; la certeza va de muy baja a moderada según la revisión y el desenlace, y la mejor evidencia pediátrica proviene de ensayos pequeños sin cegamiento. La tolerancia digestiva y el abandono por eventos adversos son relevantes. Elegir la modalidad (clásica, MCT, Atkins modificada o bajo índice glucémico), valorar la candidatura y definir el seguimiento corresponde a un equipo especializado (neuropediatría y nutrición clínica); esta síntesis no es una indicación.",
+      "safetyConcerns": [
+        {
+          "text": "Mayor suspensión del tratamiento por eventos adversos con dieta cetogénica y Atkins modificada que con el cuidado habitual en niños (meta-análisis en red).",
+          "support": {
+            "pmid": "36716045",
+            "quote": "However, adverse event-related discontinuation rates were significantly higher for ketogenic diet (OR, 8.6 [95% CI, 1.8-40.6]) and modified Atkins diet (OR, 6.5 [95% CI, 1.4-31.2]) compared with care as usual."
+          }
+        },
+        {
+          "text": "Hipercalciuria más frecuente con la dieta cetogénica clásica que con Atkins modificada en un estudio pediátrico.",
+          "support": { "pmid": "32588435", "quote": "In one study, there was a higher incidence of hypercalcuria amongst children receiving classic KD compared to MAD." }
+        }
+      ],
+      "monitoring": [
+        {
+          "text": "Los abstracts reportan aumento de colesterol y cambios de peso con la dieta Atkins modificada en adultos, lo que apoya vigilar perfil lipídico y peso.",
+          "support": { "pmid": "32588435", "quote": "One study reported a reduction in body mass index (BMI) plus increased cholesterol in the MAD group." }
+        },
+        {
+          "text": "Los abstracts reportan hipercalciuria en un estudio pediátrico, lo que apoya vigilar la calciuria y la función renal.",
+          "support": { "pmid": "32588435", "quote": "In one study, there was a higher incidence of hypercalcuria amongst children receiving classic KD compared to MAD." }
+        }
+      ]
+    },
+    "evidenceGaps": [
+      "Ningún abstract seleccionado reporta de forma sistemática niveles de β-hidroxibutirato ni otros parámetros bioquímicos de seguimiento.",
+      "En adultos la evidencia comparativa es limitada: pocos ECA y la mayoría de los datos provienen de series de casos.",
+      "Faltan comparaciones directas entre modalidades (cetogénica clásica, MCT, Atkins modificada, bajo índice glucémico).",
+      "Calidad de vida y desenlaces cognitivos y conductuales están poco estudiados."
+    ]
+  }
+}

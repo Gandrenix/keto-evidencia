@@ -1,0 +1,881 @@
+{
+  "query": "(MASLD OR NAFLD OR \"fatty liver\" OR \"steatotic liver disease\" OR \"hepatic steatosis\") AND (\"ketogenic diet\" OR \"ketogenic dietary therapy\" OR \"Diet, Ketogenic\"[Mesh] OR \"very low carbohydrate ketogenic diet\" OR \"low carbohydrate diet\") AND (\"systematic review\" OR \"meta-analysis\" OR \"randomized controlled trial\")",
+  "queryTranslation": "(\"MASLD\"[All Fields] OR (\"naflds\"[All Fields] OR \"non alcoholic fatty liver disease\"[MeSH Terms] OR (\"non alcoholic\"[All Fields] AND \"fatty\"[All Fields] AND \"liver\"[All Fields] AND \"disease\"[All Fields]) OR \"non alcoholic fatty liver disease\"[All Fields] OR \"nafld\"[All Fields]) OR \"fatty liver\"[All Fields] OR \"steatotic liver disease\"[All Fields] OR \"hepatic steatosis\"[All Fields]) AND (\"ketogenic diet\"[All Fields] OR \"ketogenic dietary therapy\"[All Fields] OR \"diet, ketogenic\"[MeSH Terms] OR \"very low carbohydrate ketogenic diet\"[All Fields] OR \"low carbohydrate diet\"[All Fields]) AND (\"systematic review\"[All Fields] OR \"meta-analysis\"[All Fields] OR \"randomized controlled trial\"[All Fields])",
+  "totalCount": 31,
+  "executedAt": "2026-10-10T03:48:30.488Z",
+  "records": [
+    {
+      "pmid": "33887125",
+      "title": "Gut fermentation syndrome: A systematic review of case reports.",
+      "authors": [
+        "Bayoumy AB",
+        "Mulder CJJ",
+        "Mol JJ",
+        "Tushuizen ME"
+      ],
+      "firstAuthor": "Bayoumy AB",
+      "year": "2021",
+      "journal": "United European gastroenterology journal",
+      "doi": "10.1002/ueg2.12062",
+      "pmcid": "PMC8259373",
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "The gut fermentation syndrome (GFS), also known as the endogenous alcohol fermentation syndrome or auto brewery syndrome, is a rare and underdiagnosed medical condition where consumed carbohydrates are converted to alcohol by the microbiota in the gastrointestinal or urinary tract. The symptoms of GFS can have severe impact on patients' wellbeing and can have social and legal consequences. Unfortunately, not much is reported about GFS. The aim of this systematic review was to assess the evidence for GFS, causal micro-organisms, diagnostics, and possible treatments."
+        },
+        {
+          "label": "METHODS",
+          "text": "A protocol was developed prior to initiation of the systematic review (PROSPERO 207182). We performed a literature search for clinical studies on 1 September 2020 using PubMed and Embase. We included all clinical studies, including case reports that described the GFS."
+        },
+        {
+          "label": "RESULTS",
+          "text": "In total, 17 case reports were included, consisting of 20 patients diagnosed with GFS. The species that caused the GFS included Klebsiella pneumoniae, Candida albicans, C. glabrata, Saccharomyces cerevisiae, C. intermedia, C. parapsilosis, and C. kefyr."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "GFS is a rare but underdiagnosed disease in daily practice. The disease is mostly reported by Saccharomyces and Candida genera, and some cases were previously treated with antibiotics. Studies in Nonalcoholic Fatty Liver disease suggest a bacterial origin of endogenous alcohol-production, which might also be causal micro-organisms in GFS. Current treatments for GFS include antibiotics, antifungal medication, low carbohydrate diet, and probiotics. There might be a potential role of fecal microbiota transplant in the treatment of GFS."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "36875459",
+      "title": "Effects of lifestyle intervention on adults with metabolic associated fatty liver disease: A systematic review and meta-analysis.",
+      "authors": [
+        "Chai XN",
+        "Zhou BQ",
+        "Ning N",
+        "Pan T",
+        "Xu F",
+        "He SH",
+        "Chen NN",
+        "Sun M"
+      ],
+      "firstAuthor": "Chai XN",
+      "year": "2023",
+      "journal": "Frontiers in endocrinology",
+      "doi": "10.3389/fendo.2023.1081096",
+      "pmcid": "PMC9978774",
+      "pubTypes": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "INTRODUCTION",
+          "text": "This systematic review and meta-analysis evaluates the overall effects of lifestyle interventions upon hepatic fat content and metabolism-related indicators among adults with metabolic associated fatty liver disease."
+        },
+        {
+          "label": "METHODS",
+          "text": "It was registered under PROSPERO (CRD42021251527). We searched PubMed, EMBASE, MEDLINE, Cochrane, CINAHL, Scopus, CNKI, Wan-fang, VIP, and CBM from the inception of each database to May 2021 for RCT studies of lifestyle interventions on hepatic fat content and metabolism-related indicators. We used Review Manager 5.3 for meta-analysis and used text and detailed tabular summaries when heterogeneity existed."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Thirty-four RCT studies with 2652 participants were included. All participants were obesity, 8% of whom also had diabetes, and none was lean or normal weight. Through subgroup analysis, we found low carbohydrate diet, aerobic training and resistance training significantly improved the level of HFC, TG, HDL, HbA1c, and HOMA-IR. Moreover, low carbohydrate diet is more effective in improving HFC than low fat diet and resistance training is better than aerobic training in reduction in HFC and TG (SMD, -0.25, 95% CI, -0.45 to -0.06; SMD, 0.24, 95% CI, 0.03 to 0.44, respectively)."
+        },
+        {
+          "label": "DISCUSSION",
+          "text": "Overall, this is the first review that systematically synthesizes studies focused on the effects of various lifestyle on adults with MAFLD. The data generated in this systematic review were more applicable to obesity MAFLD rather than lean or normal weight MAFLD."
+        },
+        {
+          "label": "SYSTEMATIC REVIEW REGISTRATION",
+          "text": "https://www.crd.york.ac.uk/prospero/, identifier (CRD42021251527)."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "33042004",
+      "title": "Efficacy of a 2-Month Very Low-Calorie Ketogenic Diet (VLCKD) Compared to a Standard Low-Calorie Diet in Reducing Visceral and Liver Fat Accumulation in Patients With Obesity.",
+      "authors": [
+        "Cunha GM",
+        "Guzman G",
+        "Correa De Mello LL",
+        "Trein B",
+        "Spina L",
+        "Bussade I",
+        "Marques Prata J",
+        "Sajoux I",
+        "Countinho W"
+      ],
+      "firstAuthor": "Cunha GM",
+      "year": "2020",
+      "journal": "Frontiers in endocrinology",
+      "doi": "10.3389/fendo.2020.00607",
+      "pmcid": "PMC7521128",
+      "pubTypes": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "Background:Objectives:Methods:Results:Conclusion:Clinical Trial Registration:tpppp222Currently the treatment of non-alcoholic fatty liver disease (NAFLD) is based on weight loss through lifestyle changes, such as exercise combined with calorie-restricted dieting.To assess the effects of a commercially available weight loss program based on a very low-calorie ketogenic diet (VLCKD) on visceral adipose tissue (VAT) and liver fat content compared to a standard low-calorie (LC) diet. As a secondary aim, we evaluated the effect on liver stiffness measurements.Open, randomized controlled, prospective pilot study. Patients were randomized and treated either with an LC or a VLCKD and received orientation and encouragement to physical activity equally for both groups. VAT, liver fat fraction, and liver stiffness were measured at baseline and after 2 months of treatment using magnetic resonance imaging. Paired-tests were used for comparison of continuous variables between visits and unpaired test between groups. Categorical variables were compared using the χ-test. Pearson correlation was used to assess the association between VAT, anthropometric measures, and hepatic fat fraction. A significance level of the results was established at< 0.05.Thirty-nine patients (20 with VLCKD and 19 with LC) were evaluated at baseline and 2 months of intervention. Relative weight loss at 2 months was -9.59 ± 2.87% in the VLCKD group and -1.87 ± 2.4% in the LC group (< 0.001). Mean reductions in VAT were -32.0 cmfor VLCKD group and -12.58 cmfor LC group (< 0.05). Reductions in liver fat fraction were significantly more pronounced in the VLCKD group than in the LC group (4.77 vs. 0.79%;< 0.005).Patients undergoing a VLCKD achieved superior weight loss, with significant VAT and liver fat fraction reductions when compared to the standard LC diet. The weight loss and rapid mobilization of liver fat demonstrated with VLCKD could serve as an effective alternative for the treatment of NAFLD.ClinicalTrials.gov, identifier: NCT04322110."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "30314924",
+      "title": "Critical appraisal for low-carbohydrate diet in nonalcoholic fatty liver disease: Review and meta-analyses.",
+      "authors": [
+        "Ahn J",
+        "Jun DW",
+        "Lee HY",
+        "Moon JH"
+      ],
+      "firstAuthor": "Ahn J",
+      "year": "2019",
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "doi": "10.1016/j.clnu.2018.09.022",
+      "pmcid": null,
+      "pubTypes": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND & AIMS",
+          "text": "Weight loss by lifestyle modification is the cornerstone therapy of Non Alcoholic Fatty Liver Disease. Low carbohydrate diet has showed favorable effects for body weight as well as hepatic fat content in several reports. In this meta-analysis, we review clinical studies article to date regarding the composition of the diet and analyzed the impact of low carbohydrate diet comparing to low calorie diet on hepatic fat change, AST and ALT using Forest plot. We aimed to investigate the efficacy of low carbohydrate diet on NAFLD."
+        },
+        {
+          "label": "METHODS",
+          "text": "We collected studies that were conducted with various amounts of carbohydrate and different methods for changing the hepatic fat and fibrosis."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Eleven clinical studies (seven randomized controlled trials) were selected on the efficacy and safety of low carbohydrate diet on NAFLD patients. Four studies evaluated hepatic fat by magnetic resonance imaging and two evaluated hepatic fat using computed tomography. However, the pools of subjects were small, the criterion for low carbohydrate was variable, and there is yet an established standard method of evaluation of liver. In meta-analysis, there was no significant difference between low carbohydrate diet group and low fat diet group on the improvement of hepatic fat content and transaminases in NAFLD."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "So far there's little evidence that low-carbohydrate diet has more beneficial effect on NAFLD than low calorie diet in similar calorie intake."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "42660124",
+      "title": "Effect of diet macronutrient content on the cardiometabolic response to weight loss: A randomized clinical trial.",
+      "authors": [
+        "Petersen MC",
+        "Smith GI",
+        "Farabi SS",
+        "Palacios HH",
+        "Shankaran M",
+        "Hellerstein MK",
+        "Patterson BW",
+        "Klein S"
+      ],
+      "firstAuthor": "Petersen MC",
+      "year": "2026",
+      "journal": "Cell metabolism",
+      "doi": "10.1016/j.cmet.2026.07.020",
+      "pmcid": "PMC13551625",
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "The influence of diet macronutrient content on the cardiometabolic effects of weight loss in people with metabolically unhealthy obesity (prediabetes and hepatic steatosis) has important clinical implications. We evaluated the cardiometabolic effects of moderate (∼10%) weight loss induced by three popular diets with markedly different macronutrient composition (very-low-carbohydrate ketogenic, Mediterranean, and very-low-fat plant-forward). Weight loss increased muscle insulin sensitivity by ∼50% in all groups but caused a two-to-three-fold greater increase in hepatic insulin sensitivity in the very-low-carbohydrate group than the other groups (p < 0.001). Intrahepatic triglyceride content, hepatic de novo lipogenesis, glycated hemoglobin, and 24-h serial plasma glucose and insulin decreased most in the very-low-carbohydrate group. There were no differences among groups in LDL-cholesterol, apolipoprotein B, or 24-h plasma triglyceride concentrations. These results demonstrate that a very-low-carbohydrate diet has greater cardiometabolic benefits, particularly in hepatic metabolic function, than matched 10% weight loss induced by a Mediterranean or very-low-fat diet in people with metabolically unhealthy obesity. This study was registered at ClinicalTrials.gov (NCT02706262)."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "41689666",
+      "title": "The impact of dietary interventions on liver health biomarkers in individuals with metabolic dysfunction-associated steatotic liver disease (MASLD): a systematic literature review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Stern UM",
+        "Wagenpfeil G",
+        "Weber SN",
+        "Alqahtani SA",
+        "Michel M",
+        "Schattenberg JM"
+      ],
+      "firstAuthor": "Stern UM",
+      "year": "2026",
+      "journal": "European journal of nutrition",
+      "doi": "10.1007/s00394-025-03870-z",
+      "pmcid": "PMC12906548",
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "PURPOSE: Metabolic dysfunction-associated steatotic liver disease (MASLD) and its subtype, metabolic dysfunction-associated alcohol-related liver disease (MetALD), represent the most prevalent chronic liver diseases worldwide, closely linked to unhealthy dietary patterns. Lifestyle modification is considered first-line treatment, yet the comparative effectiveness of different dietary approaches remains unclear. This systematic review and meta-analysis aimed to evaluate the impact of dietary interventions on liver health biomarkers in individuals with MASLD and MetALD. METHODS: A systematic database search was conducted for randomised controlled trials (RCTs, 2018–2024). Eligible trials assessed dietary interventions in MASLD or MetALD and reported changes in alanine aminotransferase (ALT), liver stiffness, MRI-proton density fat fraction (MRI-PDFF), and controlled attenuation parameter. Data were synthesized using weighted mean differences with fixed or random effects models. RESULTS: Sixty-eight full-text articles were included in the systematic review, of which 24 met the criteria for the meta-analysis. Since no eligible studies were identified in individuals with MetALD, the findings apply solely to people with MASLD. In studies on fasting interventions ALT (MD = − 12.47 IU/L; 95% CI − 22.03,− 2.92; p = 0.01; n = 6) and liver stiffness (MD = − 0.24 kPa; 95% CI − 0.46, − 0.03; p = 0.03; n = 4) were reduced compared to controls. The Mediterranean diet (MedDiet) resulted in significant differences in ALT (MD = − 2.93 IU/L; 95% CI − 5.68, − 0.19; p = 0.04; n = 9), liver stiffness (MD = − 0.35 kPa; 95% CI − 0.54, − 0.16; p = 0.00; n = 4), and MRI-PDFF (MD = − 1.37%; 95% CI − 2.33, − 0.40; p = 0.01; n = 5). LCHF/ketogenic diets (n = 6) and Omega-3 fatty acids supplementation (n = 4) did not significantly alter ALT. CONCLUSION: Fasting and MedDiet showed positive effects on surrogate biomarkers in MASLD. Larger, long-term isocaloric RCTs with standardized outcome reporting are warranted to confirm these findings."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "31075323",
+      "title": "The beneficial effects of Mediterranean diet over low-fat diet may be mediated by decreasing hepatic fat content.",
+      "authors": [
+        "Gepner Y",
+        "Shelef I",
+        "Komy O",
+        "Cohen N",
+        "Schwarzfuchs D",
+        "Bril N",
+        "Rein M",
+        "Serfaty D",
+        "Kenigsbuch S",
+        "Zelicha H",
+        "Yaskolka Meir A",
+        "Tene L",
+        "Bilitzky A",
+        "Tsaban G",
+        "Chassidim Y",
+        "Sarusy B",
+        "Ceglarek U",
+        "Thiery J",
+        "Stumvoll M",
+        "Blüher M",
+        "Stampfer MJ",
+        "Rudich A",
+        "Shai I"
+      ],
+      "firstAuthor": "Gepner Y",
+      "year": "2019",
+      "journal": "Journal of hepatology",
+      "doi": "10.1016/j.jhep.2019.04.013",
+      "pmcid": null,
+      "pubTypes": [
+        "Clinical Trial, Phase I",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND & AIM",
+          "text": "It is unclear if a reduction in hepatic fat content (HFC) is a major mediator of the cardiometabolic benefit of lifestyle intervention, and whether it has prognostic significance beyond the loss of visceral adipose tissue (VAT). In the present sub-study, we hypothesized that HFC loss in response to dietary interventions induces specific beneficial effects independently of VAT changes."
+        },
+        {
+          "label": "METHODS",
+          "text": "In an 18-month weight-loss trial, 278 participants with abdominal obesity/dyslipidemia were randomized to low-fat (LF) or Mediterranean/low-carbohydrate (MED/LC + 28 g walnuts/day) diets with/without moderate physical activity. HFC and abdominal fat-depots were measured using magnetic resonance imaging at baseline, after 6 (sub-study, n = 158) and 18 months."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Of 278 participants (mean HFC 10.2% [range: 0.01%-50.4%]), the retention rate was 86.3%. The %HFC substantially decreased after 6 months (-6.6% absolute units [-41% relatively]) and 18 months (-4.0% absolute units [-29% relatively]; p <0.001 vs. baseline). Reductions of HFC were associated with decreases in VAT beyond weight loss. After controlling for VAT loss, decreased %HFC remained independently associated with reductions in serum gamma glutamyltransferase and alanine aminotransferase, circulating chemerin, and glycated hemoglobin (p <0.05). While the reduction in HFC was similar between physical activity groups, MED/LC induced a greater %HFC decrease (p = 0.036) and greater improvements in cardiometabolic risk parameters (p <0.05) than the LF diet, even after controlling for VAT changes. Yet, the greater improvements in cardiometabolic risk parameters induced by MED/LC were all markedly attenuated when controlling for HFC changes."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "%HFC is substantially reduced by diet-induced moderate weight loss and is more effectively reduced by the MED/LC diet than the LF diet, independently of VAT changes. The beneficial effects of the MED/LC diet on specific cardiometabolic parameters appear to be mediated more by decreases in %HFC than VAT loss."
+        },
+        {
+          "label": "LAY SUMMARY",
+          "text": "High hepatic fat content is associated with metabolic syndrome, type 2 diabetes mellitus, and coronary heart disease. In the CENTRAL 18-month intervention trial, a Mediterranean/low-carbohydrate diet induced a greater decrease in hepatic fat content than a low-fat diet, conferring beneficial health effects that were beyond the favorable effects of visceral fat loss. ClinicalTrials.gov Identifier: NCT01530724."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "40933261",
+      "title": "Low-carbohydrate diets reduce cardiovascular risk factor levels in patients with metabolic dysfunction-associated steatotic liver disease: a systematic review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Pi S",
+        "Zhang S",
+        "Zhang J",
+        "Guo Y",
+        "Li Y",
+        "Deng J",
+        "Du H"
+      ],
+      "firstAuthor": "Pi S",
+      "year": "2025",
+      "journal": "Frontiers in nutrition",
+      "doi": "10.3389/fnut.2025.1626352",
+      "pmcid": "PMC12417190",
+      "pubTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Low-carbohydrate diets (LCDs) are increasingly advocated for the treatment of metabolic dysfunction-associated steatotic liver disease (MASLD); however, their cardiovascular safety profile remains controversial. This analysis aims to evaluate the effects of LCDs on cardiovascular risk factors in MASLD patients."
+        },
+        {
+          "label": "METHODS",
+          "text": "PubMed, Cochrane Library, Web of Science, and Scopus were searched from inception to March 19, 2025. Two reviewers independently conducted data extraction. Meta-analyses were performed using fixed-effects or random-effects models, as determined by the heterogeneity of the included studies. Outcomes included blood pressure, glycemic markers, lipid profiles, and anthropometric indicators. Subgroup analyses explored carbohydrate thresholds (<26% vs. ≥26%) and intervention durations (<24 weeks vs. ≥24 weeks)."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Sixteen RCTs comprising 1,056 participants were included. LCDs significantly reduced glycated hemoglobin (HbA1c: SMD, -0.27; 95% CI, -0.47 to -0.07), triglyceride (TG: SMD, -0.20; 95% CI, -0.34 to -0.06), body weight (SMD, -0.19; 95% CI, -0.36 to -0.03), and body mass index (BMI: SMD, -0.28; 95% CI, -0.42 to -0.14). Stricter carbohydrate restriction (<26% energy) further improved systolic/diastolic blood pressure, homeostatic model assessment insulin resistance index (HOMA-IR), HbA1c, TG, body weight, BMI, and waist circumference. Short-term interventions (<24 weeks) lowered HbA1c, TG, and BMI."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "This systematic review and meta-analysis found that LCDs are associated with improvements in cardiometabolic risk factors among patients with MASLD. Furthermore, short-term implementation of a strict carbohydrate-restricted dietary regimen may yield additional clinical benefits. Future research should prioritize: standardized nutrient assessment, enhanced adherence strategies, and cardiovascular endpoint trials."
+        },
+        {
+          "label": "SYSTEMATIC REVIEW REGISTRATION",
+          "text": "PROSPERO: CRD42024603432; https://www.crd.york.ac.uk/PROSPERO/view/CRD42024603432."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "39378563",
+      "title": "The genetically predicted causal associations between circulating 3-hydroxybutyrate levels and malignant neoplasms: A pan-cancer Mendelian randomization study.",
+      "authors": [
+        "Ye F",
+        "Huang Y",
+        "Zeng L",
+        "Li N",
+        "Hao L",
+        "Yue J",
+        "Li S",
+        "Deng J",
+        "Yu F",
+        "Hu X"
+      ],
+      "firstAuthor": "Ye F",
+      "year": "2024",
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "doi": "10.1016/j.clnu.2024.09.044",
+      "pmcid": null,
+      "pubTypes": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "OBJECTIVE",
+          "text": "The ketogenic diet or exogenous supplementation with 3-hydroxybutyrate (3HB) is progressively gaining recognition as a valuable therapeutic or health intervention strategy. However, the effects of 3HB on cancers have been inconsistent in previous studies. This study aimed to comprehensively investigate the causal effects of circulating 3HB levels on 120 cancer phenotypes, and explore the 3HB mediation effect between liver fat accumulation and cancers."
+        },
+        {
+          "label": "METHODS",
+          "text": "Univariate Mendelian randomization (UVMR) was used in this study to investigate the causal impact of circulating 3HB levels on cancers. We conducted meta-analyses for 3HB-cancer associations sourced from different exposure data. In multivariate MR(MVMR), the body mass index, alcohol frequency and diabetes were included as covariates to investigate the independent effect of 3HB on cancer risk. Additionally, utilizing mediation MR analysis, we checked the potential mediating role of 3HB in the association between liver fat and cancer."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Integrating findings from UVMR and MVMR, we observed that elevated circulating 3HB levels were associated with reduced risk of developing diffuse large B-cell lymphoma(DLBCL) (OR[95%CI] = 0.28[0.14-0.57] p = 3.92e-04), biliary malignancies (OR[95%CI] = 0.30[0.15-0.60], p = 7.67e-04), hepatocellular carcinoma(HCC) (OR[95%CI] = 0.25[0.09-0.71], p = 9.33e-03), primary lymphoid and hematopoietic malignancies (OR[95%CI] = 0.76[0.58-0.99], p = 0.045). Further UVMR analysis revealed that an increase in the percent liver fat was associated with reduced 3HB levels (Beta[95%CI] = -0.073[-0.122∼-0.024], p = 0.0034) and enhanced susceptibility to HCC (OR[95%CI] = 13.9[9.76-19.79], p = 3.14e-48), biliary malignancies (OR[95%CI] = 4.04[3.22-5.07], p = 1.64e-33), nasopharyngeal cancer (OR[95%CI] = 3.26[1.10-9.67], p = 0.03), and primary lymphoid and hematopoietic malignancies (OR[95%CI] = 1.27[1.13-1.44], p = 1.04e-4). Furthermore, 3HB fully mediated the effect of liver fat on susceptibility to DLBCL (OR[95%CI] = 1.076[1.01-1.15], p = 0.034)."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "Circulating 3HB is associated with a reduced susceptibility to developing DLBCL, HCC, biliary malignancies, and primary lymphoid and hematopoietic malignancies. The impaired ketogenesis induced by metabolic-dysfunction associated fatty liver disease (MAFLD) contributes to risk of DLBCL."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "21911890",
+      "title": "Decrease of aminotransferase levels in obese women is related to body weight reduction, irrespective of type of diet.",
+      "authors": [
+        "Rodríguez-Hernández H",
+        "Cervantes-Huerta M",
+        "Rodríguez-Moran M",
+        "Guerrero-Romero F"
+      ],
+      "firstAuthor": "Rodríguez-Hernández H",
+      "year": "2011",
+      "journal": "Annals of hepatology",
+      "doi": null,
+      "pmcid": null,
+      "pubTypes": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "OBJECTIVE",
+          "text": "To evaluate the efficacy of low carbohydrate diet (LCD) as compared with low fat diet (LFD) to decrease aminotransferase levels in obese women with nonalcoholic fatty liver disease."
+        },
+        {
+          "label": "MATERIAL AND METHODS",
+          "text": "A total of 59 women were randomly enrolled in a non-controlled clinical intervention study to receive either LCD or LFD during six months. Apparently healthy non-pregnant obese women aged 20 to 65 years were eligible to participate. Previous diagnosis of hepatic disease, serum creatinine level ≥ 1.5 mg/dL, severe life-limiting medical illness, pregnancy, active participation in other dietary program, use of weight loss drugs, or alcohol consumption ≥ 30 g per day were exclusion criteria."
+        },
+        {
+          "label": "RESULTS",
+          "text": "A total of 31 obese women who received LCD were compared with 28 women allocated in the LFD group. There were 3 (LCD group) and 2 (LFD group) women with lost of follow-up. No differences in the proportion of type 2 diabetes, hypertension and hyperlipidemia were noted between women in the LCD and LFD groups. At end of follow-up, there were not significant statistical differences in the anthropometric and biochemical characteristics between women in both groups. The weight loss was 5.7 and 5.5% for women in the LCD LFD groups. Although the decrease of AST (31.7 and 22.4%) and ALT (41 and 33.3%) levels was more elevated in the women of LCD group, as compared with the LFD group, there were not significant statistical differences."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "Our results show that weight loss, irrespective of the type of diet, reduces aminotransferase levels in obese women with NAFLD."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "34185279",
+      "title": "Low-carbohydrate diets lead to greater weight loss and better glucose homeostasis than exercise: a randomized clinical trial.",
+      "authors": [
+        "Cai L",
+        "Yin J",
+        "Ma X",
+        "Mo Y",
+        "Li C",
+        "Lu W",
+        "Bao Y",
+        "Zhou J",
+        "Jia W"
+      ],
+      "firstAuthor": "Cai L",
+      "year": "2021",
+      "journal": "Frontiers of medicine",
+      "doi": "10.1007/s11684-021-0861-6",
+      "pmcid": null,
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "Lifestyle interventions, including dietary adjustments and exercise, are important for obesity management. This study enrolled adults with overweight or obesity to explore whether either low-carbohydrate diet (LCD) or exercise is more effective in metabolism improvement. Forty-five eligible subjects were randomly divided into an LCD group (n = 22) and an exercise group (EX, n = 23). The subjects either adopted LCD (carbohydrate intake < 50 g/day) or performed moderate-to-vigorous exercise (⩾ 30 min/day) for 3 weeks. After the interventions, LCD led to a larger weight loss than EX ( - 3.56 ± 0.37 kg vs. - 1.24 ± 0.39 kg, P < 0.001), as well as a larger reduction in fat mass ( - 2.10 ± 0.18 kg vs. - 1.25 ± 0.24 kg, P = 0.007) and waist circumference ( - 5.25 ± 0.52 cm vs. - 3.45 ± 0.38 cm, P = 0.008). Both interventions reduced visceral and subcutaneous fat and improved liver steatosis and insulin resistance. Triglycerides decreased in both two groups, whereas low-density lipoprotein cholesterol increased in the LCD group but decreased in the EX group. Various glycemic parameters, including serum glycated albumin, mean sensor glucose, coefficient of variability (CV), and largest amplitude of glycemic excursions, substantially declined in the LCD group. Only CV slightly decreased after exercise. This pilot study suggested that the effects of LCD and exercise are similar in alleviating liver steatosis and insulin resistance. Compared with exercise, LCD might be more efficient for weight loss and glucose homeostasis in people with obesity."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "35037057",
+      "title": "Circulating Levels of microRNA-122 and Hepatic Fat Change in Response to Weight-Loss Interventions: CENTRAL Trial.",
+      "authors": [
+        "Wang M",
+        "Xue Q",
+        "Li X",
+        "Krohn K",
+        "Ziesche S",
+        "Ceglarek U",
+        "Blüher M",
+        "Keller M",
+        "Yaskolka Meir A",
+        "Heianza Y",
+        "Kovacs P",
+        "Shai I",
+        "Qi L"
+      ],
+      "firstAuthor": "Wang M",
+      "year": "2022",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "doi": "10.1210/clinem/dgac023",
+      "pmcid": "PMC9016463",
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "PURPOSE",
+          "text": "Little is known about the relations between changes in circulating microRNA-122 (miR-122) and liver fat in response to weight-loss interventions. We aimed to investigate the association between miR-122 and changes of hepatic fat content during 18-month diet and physical activity interventions."
+        },
+        {
+          "label": "METHODS",
+          "text": "The CENTRAL trial is an 18-month randomized, controlled trial among adults with abdominal obesity or dyslipidemia. Subjects were randomly assigned to a low-fat diet or a Mediterranean/low-carbohydrate diet. After 6 months of dietary intervention, each diet group was further randomized into added physical activity groups or no added physical activity groups for the following 12 months of intervention. The current study included 220 participants at baseline and 134 participants with repeated measurements on serum miR-122 and hepatic fat content over 18 months."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Serum miR-122 significantly increased from baseline to 18 months, while no difference was observed across the 4 intervention groups. We found a significant association between miR-122 and hepatic fat content at baseline, as per unit increment in log-transformed miR-122 was associated with 3.79 higher hepatic fat content (P < 0.001). Furthermore, we found that higher elevations in miR-122 were associated with less reductions in hepatic fat percentage during 18-month interventions (β = 1.56, P = 0.002). We also found a significant interaction between changes in miR-122 and baseline fasting plasma glucose with hepatic fat content changes in 18 months (P interaction = 0.02)."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "Our data indicate that participants with higher elevation in serum miR-122 may benefit less in reduction of hepatic fat content in response to diet and physical activity interventions."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "33802651",
+      "title": "Comparison of Ketogenic Diets with and without Ketone Salts versus a Low-Fat Diet: Liver Fat Responses in Overweight Adults.",
+      "authors": [
+        "Crabtree CD",
+        "Kackley ML",
+        "Buga A",
+        "Fell B",
+        "LaFountain RA",
+        "Hyde PN",
+        "Sapper TN",
+        "Kraemer WJ",
+        "Scandling D",
+        "Simonetti OP",
+        "Volek JS"
+      ],
+      "firstAuthor": "Crabtree CD",
+      "year": "2021",
+      "journal": "Nutrients",
+      "doi": "10.3390/nu13030966",
+      "pmcid": "PMC8002465",
+      "pubTypes": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "",
+          "text": "pppnpKetogenic diets (KDs) often contain high levels of saturated fat, which may increase liver fat, but the lower carbohydrate intake may have the opposite effect. Using a controlled feeding design, we compared liver fat responses to a hypocaloric KD with a placebo (PL) versus an energy-matched low-fat diet (LFD) in overweight adults. We also examined the added effect of a ketone supplement (KS). Overweight adults were randomized to a 6-week KD (KD + PL) or a KD with KS (KD + KS); an LFD group was recruited separately. All diets were estimated to provide 75% of energy expenditure. Weight loss was similar between groups (> 0.05). Liver fat assessed by magnetic resonance imaging decreased after 6 week (= 0.004) with no group differences (> 0.05). A subset with nonalcoholic fatty liver disease (NAFLD) (liver fat > 5%,= 12) showed a greater reduction in liver fat, but no group differences. In KD participants with NAFLD, 92% of the variability in change in liver fat was explained by baseline liver fat (< 0.001). A short-term hypocaloric KD high in saturated fat does not adversely impact liver health and is not impacted by exogenous ketones. Hypocaloric low-fat and KDs can both be used in the short-term to significantly reduce liver fat in individuals with NAFLD."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "40601817",
+      "title": "Effects of Acute Iso- and Hypocaloric Carbohydrate Restriction on Liver Fat and Glucose and Lipid Metabolism.",
+      "authors": [
+        "London A",
+        "Schaufuss A",
+        "Považan M",
+        "Dichman ML",
+        "Merhout J",
+        "Dirksen C",
+        "Madsbad S",
+        "Siebner HR",
+        "Lundsgaard A",
+        "Fritzen AM",
+        "Kiens B",
+        "Bojsen-Møller KN"
+      ],
+      "firstAuthor": "London A",
+      "year": "2026",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "doi": "10.1210/clinem/dgaf382",
+      "pmcid": "PMC12819859",
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "CONTEXT",
+          "text": "Liver fat is reduced within days after a low-carbohydrate diet substituted with fat to maintain isocaloric conditions."
+        },
+        {
+          "label": "OBJECTIVE",
+          "text": "Investigate the effect of matched carbohydrate restriction during isocaloric and hypocaloric conditions on liver fat and postprandial glucose and lipid metabolism."
+        },
+        {
+          "label": "METHODS",
+          "text": "Crossover randomized clinical trial at a research unit. Participants included 15 people with overweight/obesity (body mass index [BMI] 32.5 [31-34] kg/m2, median [IQR]). There were 3 dietary interventions: (1) 2 days of isocaloric control diet (CON), (2) 2 days of CON followed by 2 days of carbohydrate restriction (∼60 g/day) during very-low-calorie conditions (VLCDs), and (3) 2 days of CON followed by 2 days of isocaloric conditions with low carbohydrate (∼60 g/day), high-fat (LCHF) diet. Liver fat was measured using 1H-magnetic resonance spectroscopy."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Liver fat was -16% (-34; 4) (median [IQR]) after LCHF relative to after CON (P = .020), but did not differ between VLCD and CON. Fasting plasma concentrations of triacylglycerol, glucose, and insulin were lower after both LCHF and VLCD than after CON. However, postprandial plasma glucose concentrations were higher and insulinogenic index lower after both LCHF and VLCD."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "Two days of LCHF led to lower liver fat, which was not observed after VLCD. This demonstrates the dynamic regulation of liver fat and the beneficial role of substituting carbohydrates with fat to maintain energy provision. Both LCHF and VLCD had positive effects on fasting parameters for glucose metabolism; however, both diets impaired early β-cell response resulting in deterioration in glucose handling during the meal test."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "33462940",
+      "title": "Ketogenic diet in women with polycystic ovary syndrome and liver dysfunction who are obese: A randomized, open-label, parallel-group, controlled pilot trial.",
+      "authors": [
+        "Li J",
+        "Bai WP",
+        "Jiang B",
+        "Bai LR",
+        "Gu B",
+        "Yan SX",
+        "Li FY",
+        "Huang B"
+      ],
+      "firstAuthor": "Li J",
+      "year": "2021",
+      "journal": "The journal of obstetrics and gynaecology research",
+      "doi": "10.1111/jog.14650",
+      "pmcid": null,
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "AIM",
+          "text": "To evaluate the effect of a ketogenic diet (KD) in women with polycystic ovary syndrome (PCOS) and liver dysfunction who were obese."
+        },
+        {
+          "label": "METHODS",
+          "text": "Women with PCOS and liver dysfunction who were obese were enrolled in this prospective, open-label, parallel-group, controlled pilot trial, and randomly received KD (KD group) or conventional pharmacological treatment (Essentiale plus Yasmin, control group) in a 1:1 ratio for 12 weeks. The primary endpoint was the liver function markers. Secondary endpoints included the menstrual cycle, anthropometric characteristics, body composition, hormonal levels, and metabolic biomarkers."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Of the 20 eligible participants enrolled, 18 participants completed the study. The KD group reported a significant reduction in anthropometric characteristics and body composition from baseline to week 12 (all p < 0.05). In addition, there were significant reductions in menstrual cycle, plasma estradiol, and progesterone levels in two groups (all p < 0.05), but no significant between-group difference was observed. KD significantly reduced the liver function markers compared with control group (p < 0.05). The signs of fatty liver disappeared in six out of seven fatty liver participants in KD group after 12 weeks of intervention, while only one of 10 fatty liver participants in control group disappeared."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "In addition to improving the menstrual cycle, KD had the additional benefits of reducing blood glucose and body weight, improving liver function, and treating fatty liver compared to traditional pharmacological treatment in women with PCOS and liver dysfunction who were obese."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "24984998",
+      "title": "Effects of a novel therapeutic diet on liver enzymes and coagulating factors in patients with non-alcoholic fatty liver disease: A parallel randomized trial.",
+      "authors": [
+        "Kani AH",
+        "Alavian SM",
+        "Esmaillzadeh A",
+        "Adibi P",
+        "Azadbakht L"
+      ],
+      "firstAuthor": "Kani AH",
+      "year": "2014",
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "doi": "10.1016/j.nut.2013.11.008",
+      "pmcid": null,
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "OBJECTIVE",
+          "text": "There are several reports regarding the role of therapeutic diets for patients with non-alcoholic fatty liver disease (NAFLD). Therefore, the aim of this study was to determine the effects of a low-calorie, low-carbohydrate soy-containing diet on lipid profiles, liver enzymes, and coagulating factors in patients with NAFLD."
+        },
+        {
+          "label": "METHOD",
+          "text": "This was a randomized parallel clinical trial involving 45 patients with NAFLD. The participants consumed three kinds of diets for 8 wk. Patients were randomly assigned to consume a low-calorie diet; a low-calorie, low-carbohydrate diet; or a low-calorie, low-carbohydrate soy-containing diet. Measurements were done according to the standard method."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Changes in weight were not significantly different in the three groups. The low-calorie, low-carbohydrate soy-containing diet could reduce alanine aminotransferase (-15.2 ± 12.1 versus -6.8 ± 4.6 in the low-calorie, low-carbohydrate diet, and -6.4 ± 4.4 IU/L in the low-calorie diet; P = 0.02) and serum fibrinogen levels (-49.1 ± 60.1 versus -12.9 ± 8.1 and -17.4 ± 8.4 g/L, respectively; P = 0.01). Reductions in aspartate aminotransferase were significantly higher in the low-calorie, low-carbohydrate soy-containing group. Changes in lipid profiles did not differ significantly between the groups. The soy-containing diet did reduce malondialdehyde more than the other diets (P = 0.01)."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "A low-calorie, low-carbohydrate soy-containing diet could have beneficial effects on liver enzymes, malondialdehyde, and serum fibrinogen levels in patients with NAFLD."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "40448689",
+      "title": "Beneficial Effects of Carbohydrate Restriction in Type 2 Diabetes Can Be Traced to Changes in Hepatic Metabolism.",
+      "authors": [
+        "Gower BA",
+        "Yurchishin ML",
+        "Goss AM",
+        "Knight J",
+        "Garvey WT"
+      ],
+      "firstAuthor": "Gower BA",
+      "year": "2025",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "doi": "10.1210/clinem/dgaf324",
+      "pmcid": "PMC12712994",
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "CONTEXT",
+          "text": "Carbohydrate restriction benefits metabolic health in patients with type 2 diabetes (T2D), possibly through changes in hepatic metabolism."
+        },
+        {
+          "label": "OBJECTIVE",
+          "text": "To test the hypothesis that the ketogenic diet (KD) would decrease de novo lipogenesis (DNL) and liver fat, which would be associated with restored beta-cell function."
+        },
+        {
+          "label": "METHODS",
+          "text": "Participants were 57 adults with mild T2D. A hyperglycemic clamp was used to assess acute C-peptide response (ACP), and magnetic resonance imaging to assess hepatic fat fraction, at baseline and after 12 weeks of either a eucaloric KD (∼9% energy from carbohydrate, 65% energy from fat) or a eucaloric low-fat diet (LFD) (∼55% energy from carbohydrate, 20% energy from fat)."
+        },
+        {
+          "label": "RESULTS",
+          "text": "The KD led to decreases in pyruvate (-23%, P < .001) and palmitoleic acid, a marker of DNL (-32%, P < .01). Participants on the KD had higher fasting glucagon (25%, P < .05) and lower liver fat (28%, P < .05) at week 12 than those on the LFD. In all combined, the change in liver fat was positively associated with the change in pyruvate (r = 0.45, P = .05), and inversely associated with changes in glucagon (r = -0.34, P < .05), the glucagon to C-peptide ratio (r = -0.44, P < .01), and ACP (r = -0.34, P < .05). The change in ACP was inversely associated with the change in pyruvate in the KD group (r = -0.5, P < .05), but not in the LFD group."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "A shift in hepatic metabolism to favor fat oxidation over DNL may underlie the beneficial effects of carbohydrate restriction on hepatic steatosis and glucose-induced insulin secretion."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "34736535",
+      "title": "Effect of exercise and diet intervention in NAFLD and NASH via GAB2 methylation.",
+      "authors": [
+        "Wu N",
+        "Yuan F",
+        "Yue S",
+        "Jiang F",
+        "Ren D",
+        "Liu L",
+        "Bi Y",
+        "Guo Z",
+        "Ji L",
+        "Han K",
+        "Yang X",
+        "Feng M",
+        "Su K",
+        "Yang F",
+        "Wu X",
+        "Lu Q",
+        "Li X",
+        "Wang R",
+        "Liu B",
+        "Le S",
+        "Shi Y",
+        "He G"
+      ],
+      "firstAuthor": "Wu N",
+      "year": "2021",
+      "journal": "Cell & bioscience",
+      "doi": "10.1186/s13578-021-00701-6",
+      "pmcid": "PMC8569968",
+      "pubTypes": [
+        "Journal Article"
+      ],
+      "designTier": 5,
+      "designLabel": "Revisión narrativa u otro",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Nonalcoholic fatty liver disease (NAFLD) is a disorder that extends from simple hepatic steatosis to nonalcoholic steatohepatitis (NASH), which is effectively alleviated by lifestyle intervention. Nevertheless, DNA methylation mechanism underling the effect of environmental factors on NAFLD and NASH is still obscure. The aim of this study was to investigate the effect of exercise and diet intervention in NAFLD and NASH via DNA methylation of GAB2."
+        },
+        {
+          "label": "METHODS",
+          "text": "Methylation of genomic DNA in human NAFLD was quantified using Infinium Methylation EPIC BeadChip assay after exercise (Ex), low carbohydrate diet (LCD) and exercise plus low carbohydrate diet (ELCD) intervention. The output Idat files were processed using ChAMP package. False discovery rate on genome-wide analysis of DNA methylation (q < 0.05), and cytosine-guanine dinucleotides (CpGs) which are located in promoters were used for subsequent analysis (|Δβ|≥ 0.1). K-means clustering was used to cluster differentially methylated genes according to 3D genome information from Human embryonic stem cell. To quantify DNA methylation and mRNA expression of GRB2 associated binding protein 2 (GAB2) in NASH mice after Ex, low fat diet (LFD) and exercise plus low fat diet (ELFD), MassARRAY EpiTYPER and quantitative reverse transcription polymerase chain reaction were used."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Both LCD and ELCD intervention on human NAFLD can induce same DNA methylation alterations at critical genes in blood, e.g., GAB2, which was also validated in liver and adipose of NASH mice after LFD and ELFD intervention. Moreover, methylation of CpG units (i.e., CpG_10.11.12) inversely correlated with mRNA expression GAB2 in adipose tissue of NASH mice after ELFD intervention."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "We highlighted the susceptibility of DNA methylation in GAB2 to ELFD intervention, through which exercise and diet can protect against the progression of NAFLD and NASH on the genome level, and demonstrated that the DNA methylation variation in blood could mirror epigenetic signatures in target tissues of important biological function, i.e., liver and adipose tissue. Trial registration International Standard Randomized Controlled Trial Number Register (ISRCTN 42622771)."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "27904598",
+      "title": "The effects of low carbohydrate diets on liver function tests in nonalcoholic fatty liver disease: A systematic review and meta-analysis of clinical trials.",
+      "authors": [
+        "Haghighatdoost F",
+        "Salehi-Abargouei A",
+        "Surkan PJ",
+        "Azadbakht L"
+      ],
+      "firstAuthor": "Haghighatdoost F",
+      "year": "2016",
+      "journal": "Journal of research in medical sciences : the official journal of Isfahan University of Medical Sciences",
+      "doi": "10.4103/1735-1995.187269",
+      "pmcid": "PMC5122212",
+      "pubTypes": [
+        "Review",
+        "Journal Article"
+      ],
+      "designTier": 5,
+      "designLabel": "Revisión narrativa u otro",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Although several observational and experimental studies have examined the effects of low carbohydrate diets (LCDs) on nonalcoholic fatty liver disease (NAFLD), there are considerable inconsistencies among studies. We summarized the effect of LCDs on liver function tests, including intrahepatic lipid content (IHLC), alanine transaminase (ALT), aspartate aminotransferases (AST), and gamma-glutamyl transferase (GGT) in patients with NAFLD."
+        },
+        {
+          "label": "MATERIALS AND METHODS",
+          "text": "PubMed, ISI Web of Science, Scopus, and Google Scholar databases were searched for relevant publications until July 2014, resulting in ten relevant papers that were included in meta-analysis. Related articles were found by searching Medical Subject Heading terms of \"NAFLD\" in combination with \"low carbohydrate\". For this meta-analysis, we used mean differences and standard errors of liver function biomarkers. Summary effect and corresponding confidence interval (CI) were estimated using random effect models. Heterogeneity between studies was assessed using Cochran's Q- and I-squared tests."
+        },
+        {
+          "label": "RESULTS",
+          "text": "nnnnIIII2222Our search led to ten eligible papers that evaluated serum ALT levels (= 238), nine reported serum AST levels (= 216), five reported serum GGT concentrations (= 91), and four assessed IHLC (= 50). LCD decreased IHLC by -11.53% (95% CI: -18.10, -4.96;= 83.2%). However, the effect of LCD on liver enzymes was not significant. Mean differences for the effects of LCDs on ALT, AST, and GGT were -4.35 IU/L (95% CI: -12.91, 4.20;= 87.9%), -1.44 IU/L (95% CI: -4.98, 2.10;= 61.4%), and -7.85 IU/L (95% CI: -29.65, 13.96;= 99.4%), respectively."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "LCD consumption in subjects with NAFLD led to a significant reduction in IHLC, but did not significantly affect the concentration of liver enzymes."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "34229256",
+      "title": "Errors in meta-analysis should be corrected in \"Critical appraisal for low-carbohydrate diet in non-alcoholic fatty liver disease: Review and meta-analyses\".",
+      "authors": [
+        "Henschel B",
+        "Dickinson SL",
+        "Allison DB"
+      ],
+      "firstAuthor": "Henschel B",
+      "year": "2021",
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "doi": "10.1016/j.clnu.2021.05.022",
+      "pmcid": "PMC8411652",
+      "pubTypes": [
+        "Letter",
+        "Comment"
+      ],
+      "designTier": 5,
+      "designLabel": "Revisión narrativa u otro",
+      "abstractSections": [],
+      "hasAbstract": false,
+      "isCourseReading": false
+    }
+  ]
+}

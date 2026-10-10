@@ -1,0 +1,440 @@
+{
+  "caseId": "B",
+  "generatedAt": "2026-10-10T03:53:27.597Z",
+  "source": "assistant-authored",
+  "model": "claude-sonnet-5-5 (sesión de desarrollo, asistido)",
+  "reviewedBy": null,
+  "searchLog": {
+    "executedAt": "2026-10-10T03:48:26.648Z",
+    "database": "PubMed",
+    "query": "(\"type 2 diabetes\" OR \"Diabetes Mellitus, Type 2\"[Mesh]) AND (\"ketogenic diet\" OR \"ketogenic dietary therapy\" OR \"Diet, Ketogenic\"[Mesh] OR \"very low carbohydrate ketogenic diet\") AND (\"systematic review\" OR \"meta-analysis\" OR \"randomized controlled trial\")",
+    "queryTranslation": "(\"type 2 diabetes\"[All Fields] OR \"diabetes mellitus, type 2\"[MeSH Terms]) AND (\"ketogenic diet\"[All Fields] OR \"ketogenic dietary therapy\"[All Fields] OR \"diet, ketogenic\"[MeSH Terms] OR \"very low carbohydrate ketogenic diet\"[All Fields]) AND (\"systematic review\"[All Fields] OR \"meta-analysis\"[All Fields] OR \"randomized controlled trial\"[All Fields])",
+    "totalCount": 54
+  },
+  "records": [
+    {
+      "pmid": "36064937",
+      "title": "Very low carbohydrate (ketogenic) diets in type 2 diabetes: A systematic review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Parry-Strong A",
+        "Wright-McNaughton M",
+        "Weatherall M",
+        "Hall RM",
+        "Coppell KJ",
+        "Barthow C",
+        "Krebs JD"
+      ],
+      "firstAuthor": "Parry-Strong A",
+      "year": "2022",
+      "journal": "Diabetes, obesity & metabolism",
+      "doi": "10.1111/dom.14837",
+      "pmcid": "PMC9826205",
+      "pubTypes": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "AIM",
+          "text": "Very low carbohydrate/ketogenic diets (VLC/KDs) are popular but their role in managing pre-diabetes and type 2 diabetes (T2D) is uncertain. This study uses a systematic review and meta-analysis of randomized controlled trials to estimate the effect of these diets in this population."
+        },
+        {
+          "label": "MATERIALS AND METHODS",
+          "text": "A systematic review identified randomized controlled trials of at least 6 months duration comparing efficacy and safety of VLC/KDs (≤50 g carbohydrate or ≤10% total energy from carbohydrate per day) with a control diet (carbohydrate above the VLC/KD threshold) in adults with pre-diabetes or T2D. The primary outcome variable was glycated haemoglobin (HbA1c) after 12 months. The meta-analysis method was inverse variance weighting of mean values for continuous variables."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Key word searches identified 2290 studies; 2221 were not in scope. A full text review of 69 studies identified eight meeting inclusion criteria; in total, it involved 606 participants. Six studies reported HbA1c (%) at 12 months; four as change from baseline with a fixed effects estimate (95% confidence interval): VLC/KD minus control of 0.01% (-0.22 to 0.25), p = .91; and two as change from baseline: -0.65% (-0.99; -0.31) [-7.1 mmol/mol (-10.8; -3.4)], p < .001. Serum triglycerides were lower with VLC/KD versus control: -0.28 mmol/L (-0.44 to -0.11), p < .001. High-density lipoprotein was higher with an estimate of 0.04 mmol/L (0.01 to 0.08), p = .03, in the five studies reporting 12-month summary data."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "A VLC/KD may cause reductions in HbA1c and triglycerides in those with pre-diabetes or T2D but evidence of an advantage over other strategies is limited. More well-designed studies are required to provide certain evidence."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "38006799",
+      "title": "The effects of the ketogenic diet for the management of type 2 diabetes mellitus: A systematic review and meta-analysis of recent studies.",
+      "authors": [
+        "Choy KYC",
+        "Louie JCY"
+      ],
+      "firstAuthor": "Choy KYC",
+      "year": "2023",
+      "journal": "Diabetes & metabolic syndrome",
+      "doi": "10.1016/j.dsx.2023.102905",
+      "pmcid": null,
+      "pubTypes": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "OBJECTIVE",
+          "text": "To systematically review the effects of the ketogenic diet on glycaemic control, body weight, cardiovascular risk factors, and liver and kidney function in patients with type 2 diabetes."
+        },
+        {
+          "label": "METHODS",
+          "text": "PubMed, MEDLINE, Embase, Cochrane Library and CINAHL were searched for randomised controlled trials published between 2001 and 2021 that compared the ketogenic diet to a control diet for effects on glycaemic control, body weight, cardiovascular risk factors, liver and renal function markers in adults with type 2 diabetes for >14 days. Meta-analyses using fixed or random effects models were conducted."
+        },
+        {
+          "label": "RESULTS",
+          "text": "22Nineteen reports from 11 randomised controlled trials were included. Compared to the control, the ketogenic diet showed no significant difference in changes in glycaemic control or body weight, but greater increases in HDL (standardised mean difference 0.19; 95%CI 0.02-0.37; I = 0 %; moderate-quality evidence) and greater reductions in triglycerides (standardised mean difference -0.41; 95%CI -0.64 to -0.18; I = 0 %; low-quality evidence)."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "The ketogenic diet may improve lipid profiles but showed no additional benefits for glycaemic control or weight loss compared to control diets in type 2 diabetes patients over two years."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "37513574",
+      "title": "Effect of Dietary Approaches on Glycemic Control in Patients with Type 2 Diabetes: A Systematic Review with Network Meta-Analysis of Randomized Trials.",
+      "authors": [
+        "Jing T",
+        "Zhang S",
+        "Bai M",
+        "Chen Z",
+        "Gao S",
+        "Li S",
+        "Zhang J"
+      ],
+      "firstAuthor": "Jing T",
+      "year": "2023",
+      "journal": "Nutrients",
+      "doi": "10.3390/nu15143156",
+      "pmcid": "PMC10384204",
+      "pubTypes": [
+        "Systematic Review",
+        "Journal Article",
+        "Network Meta-Analysis"
+      ],
+      "designTier": 1,
+      "designLabel": "Meta-análisis en red",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Dietary patterns play a critical role in diabetes management, while the best dietary pattern for Type 2 diabetes (T2DM) patients is still unclear. The aim of this network meta-analysis was to compare the impacts of various dietary approaches on the glycemic control of T2DM patients."
+        },
+        {
+          "label": "METHODS",
+          "text": "Relevant studies were retrieved from PubMed, Embase, Web of Knowledge, Cochrane Central Register of Controlled Trials (CENTRAL), and other additional records (1949 to 31 July 2022). Eligible RCTs were those comparing different dietary approaches against each other or a control diet in individuals with T2DM for at least 6 months. We assessed the risk of bias of included studies with the Cochrane risk of bias tool and confidence of estimates with the Grading of Recommendations Assessment, Development, and Evaluation approach for network meta-analyses. In order to determine the pooled effect of each dietary approach relative to each other, we performed a network meta-analysis (NMA) for interventions for both HbA1c and fasting glucose, which enabled us to estimate the relative intervention effects by combing both direct and indirect trial evidence."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Forty-two RCTs comprising 4809 patients with T2DM were included in the NMA, comparing 10 dietary approaches (low-carbohydrate, moderate-carbohydrate, ketogenic, low-fat, high-protein, Mediterranean, Vegetarian/Vegan, low glycemic index, recommended, and control diets). In total, 83.3% of the studies were at a lower risk of bias or had some concerns. Findings of the NMA revealed that the ketogenic, low-carbohydrate, and low-fat diets were significantly effective in reducing HbA1c (viz., -0.73 (-1.19, -0.28), -0.69 (-1.32, -0.06), and -1.82 (-2.93, -0.71)), while moderate-carbohydrate, low glycemic index, Mediterranean, high-protein, and low-fat diets were significantly effective in reducing fasting glucose (viz., -1.30 (-1.92, -0.67), -1.26 (-2.26, -0.27), -0.95 (-1.51, -0.38), -0.89 (-1.60, -0.18) and -0.75 (-1.24, -0.27)) compared to a control diet. The clustered ranking plot for combined outcomes indicated the ketogenic, Mediterranean, moderate-carbohydrate, and low glycemic index diets had promising effects for controlling HbA1c and fasting glucose. The univariate meta-regressions showed that the mean reductions of HbA1c and fasting glucose were only significantly related to the mean weight change of the subjects."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "For glycemic control in T2DM patients, the ketogenic diet, Mediterranean diet, moderate-carbohydrate diet, and low glycemic index diet were effective options. Although this study found the ketogenic diet superior, further high-quality and long-term studies are needed to strengthen its credibility."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "35641199",
+      "title": "Effect of a ketogenic diet versus Mediterranean diet on glycated hemoglobin in individuals with prediabetes and type 2 diabetes mellitus: The interventional Keto-Med randomized crossover trial.",
+      "authors": [
+        "Gardner CD",
+        "Landry MJ",
+        "Perelman D",
+        "Petlura C",
+        "Durand LR",
+        "Aronica L",
+        "Crimarco A",
+        "Cunanan KM",
+        "Chang A",
+        "Dant CC",
+        "Robinson JL",
+        "Kim SH"
+      ],
+      "firstAuthor": "Gardner CD",
+      "year": "2022",
+      "journal": "The American journal of clinical nutrition",
+      "doi": "10.1093/ajcn/nqac154",
+      "pmcid": "PMC9437985",
+      "pubTypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "designTier": 2,
+      "designLabel": "Ensayo clínico aleatorizado",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "Consensus has not been reached on what constitutes an optimal diet in individuals with prediabetes and type 2 diabetes mellitus (T2DM), especially between low-carbohydrate options."
+        },
+        {
+          "label": "OBJECTIVES",
+          "text": "We compared 2 low-carbohydrate diets with 3 key similarities (incorporating nonstarchy vegetables and avoiding added sugars and refined grains) and 3 key differences (incorporating compared with avoiding legumes, fruits, and whole, intact grains) for their effects on glucose control and cardiometabolic risk factors in individuals with prediabetes and T2DM."
+        },
+        {
+          "label": "METHODS",
+          "text": "Keto-Med was a randomized, crossover, interventional trial. Forty participants aged ≥18 years with prediabetes or T2DM followed the well-formulated ketogenic diet (WFKD) and the Mediterranean-plus diet (Med-Plus) for 12 weeks each, in random order. The diets shared the 3 key similarities noted above. The Med-Plus incorporated legumes, fruits, and whole, intact grains, while the WFKD avoided them. The primary outcome was the percentage change in glycated hemoglobin (HbA1c) after 12 weeks on each diet. Secondary and exploratory outcomes included percentage changes in body weight, fasting insulin, glucose, and blood lipids; average glucose from continuous glucose monitor (CGM), and nutrient intake."
+        },
+        {
+          "label": "RESULTS",
+          "text": "The primary analysis was of 33 participants with complete data. The HbA1c values did not differ between diets at 12 weeks. Triglycerides decreased more for the WFKD [percentage changes, -16% (SEM, 4%) compared with -5% (SEM, 6%) for the Med-Plus; P = 0.02] and LDL cholesterol was higher for the WFKD [percentage changes, +10% (SEM, 4%) compared with -5% (SEM, 5%) for the Med-Plus; P = 0.01]. Weight decreased 8% (SEM, 1%) compared with 7% (SEM, 1%) and HDL cholesterol increased 11% (SEM, 2%) compared with 7% (SEM, 3%) for the WFKD compared with the Med-Plus, respectively; however, there was a significant interaction of diet × order for both. Participants had lower intakes of fiber and 3 nutrients on the WFKD compared with the Med-Plus. Twelve-week follow-up data suggest the Med-Plus is more sustainable."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "HbA1c values were not different between diet phases after 12 weeks, but improved from baseline on both diets, likely due to several shared dietary aspects. The WFKD led to a greater decrease in triglycerides, but also had potential untoward risks from elevated LDL cholesterol and lower nutrient intakes from avoiding legumes, fruits, and whole, intact grains, as well as being less sustainable. This trial was registered at clinicaltrials.gov as NCT03810378."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    },
+    {
+      "pmid": "33257645",
+      "title": "Effect of the ketogenic diet on glycemic control, insulin resistance, and lipid metabolism in patients with T2DM: a systematic review and meta-analysis.",
+      "authors": [
+        "Yuan X",
+        "Wang J",
+        "Yang S",
+        "Gao M",
+        "Cao L",
+        "Li X",
+        "Hong D",
+        "Tian S",
+        "Sun C"
+      ],
+      "firstAuthor": "Yuan X",
+      "year": "2020",
+      "journal": "Nutrition & diabetes",
+      "doi": "10.1038/s41387-020-00142-z",
+      "pmcid": "PMC7705738",
+      "pubTypes": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "designTier": 1,
+      "designLabel": "Revisión sistemática / meta-análisis",
+      "abstractSections": [
+        {
+          "label": "BACKGROUND",
+          "text": "At present, the beneficial effect of the ketogenic diet (KD) on weight loss in obese patients is generally recognized. However, a systematic research on the role of KD in the improvement of glycemic and lipid metabolism of patients with diabetes is still found scarce."
+        },
+        {
+          "label": "METHODS",
+          "text": "This meta-study employed the meta-analysis model of random effects or of fixed effects to analyze the average difference before and after KD and the corresponding 95% CI, thereby evaluating the effect of KD on T2DM."
+        },
+        {
+          "label": "RESULTS",
+          "text": "After KD intervention, in terms of glycemic control, the level of fasting blood glucose decreased by 1.29 mmol/L (95% CI: -1.78 to -0.79) on average, and glycated hemoglobin A1c by 1.07 (95% CI: -1.37 to -0.78). As for lipid metabolism, triglyceride was decreased by 0.72 (95% CI: -1.01 to -0.43) on average, total cholesterol by 0.33 (95% CI: -0.66 to -0.01), and low-density lipoprotein by 0.05 (95% CI: -0.25 to -0.15); yet, high-density lipoprotein increased by 0.14 (95% CI: 0.03-0.25). In addition, patients' weight decreased by 8.66 (95% CI: -11.40 to -5.92), waist circumference by 9.17 (95% CI: -10.67 to -7.66), and BMI by 3.13 (95% CI: -3.31 to -2.95)."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "KD not only has a therapeutic effect on glycemic and lipid control among patients with T2DM but also significantly contributes to their weight loss."
+        }
+      ],
+      "hasAbstract": true,
+      "isCourseReading": false
+    }
+  ],
+  "synthesis": {
+    "stance": "mixed",
+    "stanceRationale": "Las revisiones con grupo comparador no muestran de forma consistente una ventaja de la dieta cetogénica sobre otras estrategias para bajar la HbA1c: algunos análisis encuentran descensos y otros no encuentran diferencia, con mejoras de triglicéridos y HDL pero también aumentos de LDL en algún ensayo.",
+    "findings": [
+      {
+        "statement": "Un meta-análisis de ECA de larga duración en adultos con prediabetes o diabetes tipo dos incluyó 606 participantes; a 12 meses, cuatro estudios mostraron una diferencia de HbA1c entre dieta muy baja en carbohidratos/cetogénica y control de 0.01 % (-0.22 a 0.25), y dos estudios -0.65 % (-0.99; -0.31).",
+        "outcome": "HbA1c a 12 meses frente a una dieta control",
+        "direction": "unclear",
+        "support": [
+          {
+            "pmid": "36064937",
+            "quote": "A full text review of 69 studies identified eight meeting inclusion criteria; in total, it involved 606 participants."
+          },
+          {
+            "pmid": "36064937",
+            "quote": "Six studies reported HbA1c (%) at 12 months; four as change from baseline with a fixed effects estimate (95% confidence interval): VLC/KD minus control of 0.01% (-0.22 to 0.25), p = .91; and two as change from baseline: -0.65% (-0.99; -0.31)"
+          }
+        ]
+      },
+      {
+        "statement": "Los autores de esa revisión concluyen que la dieta puede reducir HbA1c y triglicéridos, pero que la evidencia de una ventaja sobre otras estrategias es limitada.",
+        "outcome": "Conclusión sobre ventaja frente a otras estrategias",
+        "direction": "unclear",
+        "support": [
+          {
+            "pmid": "36064937",
+            "quote": "A VLC/KD may cause reductions in HbA1c and triglycerides in those with pre-diabetes or T2D but evidence of an advantage over other strategies is limited."
+          }
+        ]
+      },
+      {
+        "statement": "Otro meta-análisis de 11 ECA no encontró diferencia significativa entre dieta cetogénica y control en control glucémico ni en peso, con mayor aumento de HDL (DME 0.19; IC 95 % 0.02-0.37; certeza moderada) y mayor reducción de triglicéridos (DME -0.41; certeza baja).",
+        "outcome": "Control glucémico, peso y lípidos frente a control",
+        "direction": "no_difference",
+        "support": [
+          {
+            "pmid": "38006799",
+            "quote": "reports from 11 randomised controlled trials were included."
+          },
+          {
+            "pmid": "38006799",
+            "quote": "Compared to the control, the ketogenic diet showed no significant difference in changes in glycaemic control or body weight, but greater increases in HDL (standardised mean difference 0.19; 95%CI 0.02-0.37; I = 0 %; moderate-quality evidence) and greater reductions in triglycerides (standardised mean difference -0.41; 95%CI -0.64 to -0.18; I = 0 %; low-quality evidence)."
+          }
+        ]
+      },
+      {
+        "statement": "Un meta-análisis en red de 4809 pacientes con DM2 encontró que las dietas cetogénica (-0.73; IC -1.19 a -0.28), baja en carbohidratos (-0.69) y baja en grasa (-1.82) redujeron significativamente la HbA1c frente a una dieta control.",
+        "outcome": "HbA1c frente a dieta control (meta-análisis en red)",
+        "direction": "benefit",
+        "support": [
+          {
+            "pmid": "37513574",
+            "quote": "Forty-two RCTs comprising 4809 patients with T2DM were included in the NMA"
+          },
+          {
+            "pmid": "37513574",
+            "quote": "Findings of the NMA revealed that the ketogenic, low-carbohydrate, and low-fat diets were significantly effective in reducing HbA1c (viz., -0.73 (-1.19, -0.28), -0.69 (-1.32, -0.06), and -1.82 (-2.93, -0.71))"
+          }
+        ]
+      },
+      {
+        "statement": "En un ECA cruzado (análisis primario de 33 participantes con prediabetes o diabetes tipo dos), la HbA1c no difirió entre una dieta cetogénica bien formulada y una dieta mediterránea a las 12 semanas.",
+        "outcome": "HbA1c a 12 semanas frente a dieta mediterránea",
+        "direction": "no_difference",
+        "support": [
+          {
+            "pmid": "35641199",
+            "quote": "The primary analysis was of 33 participants with complete data."
+          },
+          {
+            "pmid": "35641199",
+            "quote": "The HbA1c values did not differ between diets at 12 weeks."
+          }
+        ]
+      },
+      {
+        "statement": "Un meta-análisis antes-después, sin grupo comparador, halló un descenso medio de la HbA1c de 1.07 (IC 95 % -1.37 a -0.78) y de la glucemia en ayunas de 1.29 mmol/L; al medir el cambio frente a la línea base, no responde si la dieta supera a una dieta de comparación.",
+        "outcome": "Cambio desde la línea base (sin comparador)",
+        "direction": "unclear",
+        "support": [
+          {
+            "pmid": "33257645",
+            "quote": "This meta-study employed the meta-analysis model of random effects or of fixed effects to analyze the average difference before and after KD and the corresponding 95% CI"
+          },
+          {
+            "pmid": "33257645",
+            "quote": "the level of fasting blood glucose decreased by 1.29 mmol/L (95% CI: -1.78 to -0.79) on average, and glycated hemoglobin A1c by 1.07 (95% CI: -1.37 to -0.78)"
+          }
+        ]
+      }
+    ],
+    "paraclinical": [
+      {
+        "parameter": "Triglicéridos",
+        "observation": "Fueron menores con la dieta muy baja en carbohidratos/cetogénica que con control (-0.28 mmol/L; IC -0.44 a -0.11).",
+        "support": [
+          {
+            "pmid": "36064937",
+            "quote": "Serum triglycerides were lower with VLC/KD versus control: -0.28 mmol/L (-0.44 to -0.11), p < .001."
+          }
+        ]
+      },
+      {
+        "parameter": "LDL y triglicéridos frente a dieta mediterránea",
+        "observation": "Los triglicéridos bajaron más con la dieta cetogénica y el colesterol LDL fue mayor que con la dieta mediterránea.",
+        "support": [
+          {
+            "pmid": "35641199",
+            "quote": "Triglycerides decreased more for the WFKD [percentage changes, -16% (SEM, 4%) compared with -5% (SEM, 6%) for the Med-Plus; P = 0.02] and LDL cholesterol was higher for the WFKD [percentage changes, +10% (SEM, 4%) compared with -5% (SEM, 5%) for the Med-Plus; P = 0.01]"
+          }
+        ]
+      },
+      {
+        "parameter": "HDL y triglicéridos (meta-análisis de 11 ECA)",
+        "observation": "Mayor aumento de HDL (certeza moderada) y mayor reducción de triglicéridos (certeza baja) frente al control.",
+        "support": [
+          {
+            "pmid": "38006799",
+            "quote": "but greater increases in HDL (standardised mean difference 0.19; 95%CI 0.02-0.37; I = 0 %; moderate-quality evidence) and greater reductions in triglycerides (standardised mean difference -0.41; 95%CI -0.64 to -0.18; I = 0 %; low-quality evidence)."
+          }
+        ]
+      }
+    ],
+    "certainty": {
+      "reportedGrade": [
+        {
+          "pmid": "38006799",
+          "text": "Meta-análisis de 11 ECA: certeza moderada para HDL y baja para triglicéridos; sin diferencia significativa en control glucémico ni peso.",
+          "quote": "but greater increases in HDL (standardised mean difference 0.19; 95%CI 0.02-0.37; I = 0 %; moderate-quality evidence) and greater reductions in triglycerides (standardised mean difference -0.41; 95%CI -0.64 to -0.18; I = 0 %; low-quality evidence)."
+        }
+      ],
+      "limitations": [
+        {
+          "text": "Se requieren estudios mejor diseñados para tener evidencia cierta sobre la ventaja de la dieta.",
+          "support": {
+            "pmid": "36064937",
+            "quote": "More well-designed studies are required to provide certain evidence."
+          }
+        },
+        {
+          "text": "Aunque el meta-análisis en red encontró superior a la dieta cetogénica, los propios autores piden estudios de alta calidad y a largo plazo para reforzar su credibilidad.",
+          "support": {
+            "pmid": "37513574",
+            "quote": "Although this study found the ketogenic diet superior, further high-quality and long-term studies are needed to strengthen its credibility."
+          }
+        },
+        {
+          "text": "El ECA cruzado sugiere que la dieta mediterránea es más sostenible a 12 semanas de seguimiento.",
+          "support": {
+            "pmid": "35641199",
+            "quote": "Twelve-week follow-up data suggest the Med-Plus is more sustainable."
+          }
+        }
+      ]
+    },
+    "applicability": {
+      "summary": "Para un hombre de 55 años con DM2, HbA1c 8,1 %, en tratamiento con metformina y con sobrepeso, la evidencia no muestra de forma consistente que una intervención cetogénica mejore la HbA1c más que una alimentación con distribución convencional de carbohidratos: las revisiones con comparador van desde sin diferencia hasta descensos de HbA1c, y los análisis antes-después no responden la pregunta comparativa. Se observan mejoras de triglicéridos y HDL, con posible aumento de LDL y menor ingesta de ciertos nutrientes. Los abstracts no abordan el ajuste de la medicación concomitante ni el riesgo de hipoglucemia, por lo que cualquier decisión requiere valoración individual por el equipo tratante; esta síntesis no es una indicación.",
+      "safetyConcerns": [
+        {
+          "text": "Colesterol LDL más alto con la dieta cetogénica bien formulada que con la mediterránea en un ECA cruzado.",
+          "support": {
+            "pmid": "35641199",
+            "quote": "Triglycerides decreased more for the WFKD [percentage changes, -16% (SEM, 4%) compared with -5% (SEM, 6%) for the Med-Plus; P = 0.02] and LDL cholesterol was higher for the WFKD [percentage changes, +10% (SEM, 4%) compared with -5% (SEM, 5%) for the Med-Plus; P = 0.01]"
+          }
+        },
+        {
+          "text": "Menor ingesta de fibra y de otros nutrientes con la dieta cetogénica bien formulada.",
+          "support": {
+            "pmid": "35641199",
+            "quote": "Participants had lower intakes of fiber and 3 nutrients on the WFKD compared with the Med-Plus."
+          }
+        }
+      ],
+      "monitoring": [
+        {
+          "text": "El aumento de LDL reportado respalda vigilar el perfil lipídico.",
+          "support": {
+            "pmid": "35641199",
+            "quote": "Triglycerides decreased more for the WFKD [percentage changes, -16% (SEM, 4%) compared with -5% (SEM, 6%) for the Med-Plus; P = 0.02] and LDL cholesterol was higher for the WFKD [percentage changes, +10% (SEM, 4%) compared with -5% (SEM, 5%) for the Med-Plus; P = 0.01]"
+          }
+        }
+      ]
+    },
+    "evidenceGaps": [
+      "Ningún abstract seleccionado aborda el ajuste de metformina u otros fármacos ni el riesgo de hipoglucemia al iniciar la dieta.",
+      "Los estudios más largos son escasos; la sostenibilidad de la dieta a largo plazo está poco caracterizada.",
+      "Los abstracts no reportan cetonemia (β-hidroxibutirato) de forma sistemática.",
+      "Los análisis antes-después y los comparativos responden preguntas distintas: no se pueden combinar sin cuidado."
+    ]
+  }
+}

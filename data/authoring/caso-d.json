@@ -1,0 +1,151 @@
+{
+  "pmids": ["41689666", "30314924", "36875459", "33042004", "33802651", "40933261"],
+  "model": "claude-sonnet-5-5 (sesión de desarrollo, asistido)",
+  "synthesis": {
+    "stance": "mixed",
+    "stanceRationale": "La evidencia es indirecta y heterogénea: las revisiones agrupan dietas bajas en carbohidratos en general, dos meta-análisis llegan a conclusiones distintas sobre la grasa hepática, los ensayos específicamente cetogénicos son pequeños y de corta duración, y ningún abstract reporta desenlaces clínicos duros. Frente a otros casos, la solidez de la evidencia es menor.",
+    "findings": [
+      {
+        "statement": "Un meta-análisis de ECA en MASLD (2026) comparó intervenciones dietéticas: las dietas bajas en carbohidratos y altas en grasa o cetogénicas (6 estudios) no modificaron significativamente la ALT, mientras que el ayuno y la dieta mediterránea mostraron efectos sobre biomarcadores sustitutos.",
+        "outcome": "ALT y biomarcadores hepáticos sustitutos",
+        "direction": "no_difference",
+        "support": [
+          { "pmid": "41689666", "quote": "LCHF/ketogenic diets (n = 6) and Omega-3 fatty acids supplementation (n = 4) did not significantly alter ALT." },
+          { "pmid": "41689666", "quote": "CONCLUSION: Fasting and MedDiet showed positive effects on surrogate biomarkers in MASLD." }
+        ]
+      },
+      {
+        "statement": "Un meta-análisis de once estudios (siete ECA) no encontró diferencia significativa entre dieta baja en carbohidratos y dieta baja en grasa en la mejoría del contenido de grasa hepática ni de las transaminasas en hígado graso.",
+        "outcome": "Grasa hepática y transaminasas: baja en carbohidratos vs baja en grasa",
+        "direction": "no_difference",
+        "support": [
+          { "pmid": "30314924", "quote": "Eleven clinical studies (seven randomized controlled trials) were selected on the efficacy and safety of low carbohydrate diet on NAFLD patients." },
+          {
+            "pmid": "30314924",
+            "quote": "In meta-analysis, there was no significant difference between low carbohydrate diet group and low fat diet group on the improvement of hepatic fat content and transaminases in NAFLD."
+          }
+        ]
+      },
+      {
+        "statement": "En sentido contrario, una revisión de intervenciones de estilo de vida (2652 participantes, todos con obesidad) concluyó que la dieta baja en carbohidratos mejora más el contenido de grasa hepática que la dieta baja en grasa (SMD -0.25; IC 95 % -0.45 a -0.06).",
+        "outcome": "Grasa hepática: baja en carbohidratos vs baja en grasa",
+        "direction": "benefit",
+        "support": [
+          { "pmid": "36875459", "quote": "Thirty-four RCT studies with 2652 participants were included." },
+          {
+            "pmid": "36875459",
+            "quote": "Moreover, low carbohydrate diet is more effective in improving HFC than low fat diet and resistance training is better than aerobic training in reduction in HFC and TG (SMD, -0.25, 95% CI, -0.45 to -0.06; SMD, 0.24, 95% CI, 0.03 to 0.44, respectively)."
+          }
+        ]
+      },
+      {
+        "statement": "Un ECA piloto abierto en pacientes con obesidad (treinta y nueve evaluados, 20 con dieta cetogénica muy baja en calorías y 19 con dieta hipocalórica estándar) encontró a los 2 meses mayor reducción de la fracción de grasa hepática con la dieta cetogénica (4.77 frente a 0.79 %).",
+        "outcome": "Fracción de grasa hepática a corto plazo",
+        "direction": "benefit",
+        "support": [
+          { "pmid": "33042004", "quote": "Thirty-nine patients (20 with VLCKD and 19 with LC) were evaluated at baseline and 2 months of intervention." },
+          { "pmid": "33042004", "quote": "Reductions in liver fat fraction were significantly more pronounced in the VLCKD group than in the LC group (4.77 vs. 0.79%;< 0.005)." }
+        ]
+      },
+      {
+        "statement": "En un estudio de alimentación controlada en adultos con sobrepeso, la grasa hepática medida por resonancia disminuyó a las 6 semanas con una dieta cetogénica hipocalórica sin diferencias entre grupos frente a una dieta baja en grasa.",
+        "outcome": "Grasa hepática a 6 semanas: cetogénica vs baja en grasa",
+        "direction": "no_difference",
+        "support": [
+          { "pmid": "33802651", "quote": "Liver fat assessed by magnetic resonance imaging decreased after 6 week (= 0.004) with no group differences (> 0.05)." },
+          { "pmid": "33802651", "quote": "Hypocaloric low-fat and KDs can both be used in the short-term to significantly reduce liver fat in individuals with NAFLD." }
+        ]
+      },
+      {
+        "statement": "Un meta-análisis de ECA con 1,056 participantes con MASLD mostró que las dietas bajas en carbohidratos redujeron la HbA1c (SMD -0.27), los triglicéridos (SMD -0.20), el peso (SMD -0.19) y el IMC (SMD -0.28); son dietas bajas en carbohidratos en general, no necesariamente cetogénicas.",
+        "outcome": "Factores de riesgo cardiometabólico en MASLD",
+        "direction": "benefit",
+        "support": [
+          { "pmid": "40933261", "quote": "Sixteen RCTs comprising 1,056 participants were included." },
+          {
+            "pmid": "40933261",
+            "quote": "LCDs significantly reduced glycated hemoglobin (HbA1c: SMD, -0.27; 95% CI, -0.47 to -0.07), triglyceride (TG: SMD, -0.20; 95% CI, -0.34 to -0.06), body weight (SMD, -0.19; 95% CI, -0.36 to -0.03), and body mass index (BMI: SMD, -0.28; 95% CI, -0.42 to -0.14)."
+          }
+        ]
+      }
+    ],
+    "paraclinical": [
+      {
+        "parameter": "ALT",
+        "observation": "Las dietas LCHF/cetogénicas no alteraron significativamente la ALT en el meta-análisis de 2026.",
+        "support": [{ "pmid": "41689666", "quote": "LCHF/ketogenic diets (n = 6) and Omega-3 fatty acids supplementation (n = 4) did not significantly alter ALT." }]
+      },
+      {
+        "parameter": "Grasa hepática (resonancia)",
+        "observation": "Mayor reducción de la fracción de grasa hepática con dieta cetogénica muy baja en calorías que con dieta hipocalórica estándar en un ECA piloto; en otro estudio la grasa hepática bajó sin diferencias entre grupos.",
+        "support": [
+          { "pmid": "33042004", "quote": "Reductions in liver fat fraction were significantly more pronounced in the VLCKD group than in the LC group (4.77 vs. 0.79%;< 0.005)." },
+          { "pmid": "33802651", "quote": "Liver fat assessed by magnetic resonance imaging decreased after 6 week (= 0.004) with no group differences (> 0.05)." }
+        ]
+      },
+      {
+        "parameter": "Triglicéridos y HbA1c",
+        "observation": "Descenso de HbA1c y triglicéridos con dietas bajas en carbohidratos en pacientes con MASLD.",
+        "support": [
+          {
+            "pmid": "40933261",
+            "quote": "LCDs significantly reduced glycated hemoglobin (HbA1c: SMD, -0.27; 95% CI, -0.47 to -0.07), triglyceride (TG: SMD, -0.20; 95% CI, -0.34 to -0.06), body weight (SMD, -0.19; 95% CI, -0.36 to -0.03), and body mass index (BMI: SMD, -0.28; 95% CI, -0.42 to -0.14)."
+          }
+        ]
+      }
+    ],
+    "certainty": {
+      "reportedGrade": [],
+      "limitations": [
+        {
+          "text": "Los grupos de sujetos eran pequeños, el criterio de «bajo en carbohidratos» era variable y no hay un método estándar de evaluación hepática.",
+          "support": { "pmid": "30314924", "quote": "However, the pools of subjects were small, the criterion for low carbohydrate was variable, and there is yet an established standard method of evaluation of liver." }
+        },
+        {
+          "text": "El estudio que comparó con una dieta baja en grasa reclutó ese grupo por separado (no aleatorizado).",
+          "support": { "pmid": "33802651", "quote": "an LFD group was recruited separately." }
+        },
+        {
+          "text": "El ECA con mayor reducción de grasa hepática fue un estudio piloto abierto.",
+          "support": { "pmid": "33042004", "quote": "Open, randomized controlled, prospective pilot study." }
+        },
+        {
+          "text": "Los datos de la revisión de estilo de vida son más aplicables a MAFLD con obesidad que a personas delgadas o con peso normal.",
+          "support": { "pmid": "36875459", "quote": "The data generated in this systematic review were more applicable to obesity MAFLD rather than lean or normal weight MAFLD." }
+        },
+        {
+          "text": "Los autores piden ECA más grandes, de largo plazo, isocalóricos y con reporte estandarizado de desenlaces.",
+          "support": { "pmid": "41689666", "quote": "Larger, long-term isocaloric RCTs with standardized outcome reporting are warranted to confirm these findings." }
+        }
+      ]
+    },
+    "applicability": {
+      "summary": "Para un hombre de 48 años con obesidad central, esteatosis hepática y ALT levemente elevada, la evidencia recuperada es indirecta: las revisiones agrupan dietas bajas en carbohidratos en general y no coinciden entre sí sobre si superan a la dieta baja en grasa para reducir la grasa hepática; los ensayos específicamente cetogénicos son pequeños y breves, y ningún abstract reporta desenlaces clínicos duros (fibrosis, progresión, mortalidad). La pérdida de peso parece ser un mediador importante. Esta es una pregunta donde la evidencia es menos sólida que en otros casos; cualquier decisión requiere valoración individual por el equipo tratante y no es una indicación de esta síntesis.",
+      "safetyConcerns": [
+        {
+          "text": "Las dietas cetogénicas suelen ser altas en grasa saturada, lo que podría aumentar la grasa hepática, aunque la menor ingesta de carbohidratos podría tener el efecto contrario.",
+          "support": { "pmid": "33802651", "quote": "Ketogenic diets (KDs) often contain high levels of saturated fat, which may increase liver fat, but the lower carbohydrate intake may have the opposite effect." }
+        },
+        {
+          "text": "La seguridad cardiovascular de las dietas bajas en carbohidratos en MASLD sigue siendo controvertida.",
+          "support": { "pmid": "40933261", "quote": "however, their cardiovascular safety profile remains controversial." }
+        }
+      ],
+      "monitoring": [
+        {
+          "text": "Los ensayos evalúan ALT, rigidez hepática, grasa hepática por resonancia y parámetro de atenuación controlada, que son los desenlaces de seguimiento más usados.",
+          "support": {
+            "pmid": "41689666",
+            "quote": "Eligible trials assessed dietary interventions in MASLD or MetALD and reported changes in alanine aminotransferase (ALT), liver stiffness, MRI-proton density fat fraction (MRI-PDFF), and controlled attenuation parameter."
+          }
+        }
+      ]
+    },
+    "evidenceGaps": [
+      "Ningún abstract seleccionado reporta desenlaces clínicos duros (progresión de fibrosis, cirrosis, eventos cardiovasculares, mortalidad).",
+      "La evidencia específicamente cetogénica proviene de pocos ensayos pequeños y de corta duración; la mayoría de las revisiones agrupan dietas bajas en carbohidratos en general.",
+      "No es posible separar el efecto de la dieta del de la pérdida de peso con la información de los abstracts.",
+      "No se reportan niveles de β-hidroxibutirato ni otros parámetros bioquímicos de seguimiento de la cetosis."
+    ]
+  }
+}
