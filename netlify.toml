@@ -1,6 +1,11 @@
 [build]
   command = "npm run build"
   publish = "dist"
+  # Solo se compila la rama de producción: omite deploy previews y branch deploys (ahorra créditos del plan gratuito).
+  ignore = "[ \"$CONTEXT\" != \"production\" ]"
+
+[build.environment]
+  NODE_VERSION = "22"
 
 [functions]
   directory = "netlify/functions"
